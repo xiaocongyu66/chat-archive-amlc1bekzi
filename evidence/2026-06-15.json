@@ -1,0 +1,2731 @@
+[
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d63d0bf1b6bbe5cb-00141",
+    "sequence": 141,
+    "createdAt": "2026-06-15T01:26:12.000Z",
+    "timestampMs": 1781486772000,
+    "date": "2026-06-15",
+    "time": "01:26:12",
+    "text": "[截图证据补录]\n来源用户：jiangnan\n时间来源：ocr\n原消息文本：刀哥牛逼\nOCR：oo 铁山手 © 2026/6/15 09:26:12 (Po 不是可站这信息怎4给我下codex里了 生日 awed, ET| aa: see",
+    "userId": "amkqm5wo2g",
+    "userUuid": "7e922f42-2d73-6042-30f8-0ace3ac42cf4",
+    "user": {
+      "uuid": "7e922f42-2d73-6042-30f8-0ace3ac42cf4",
+      "id": "amkqm5wo2g",
+      "username": "jiangnan",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fc2538115-2efe-46fd-9038-6755400aa545.jpg&avatar=1"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d63d0bf1b6bbe5cb",
+        "name": "1bea461eea03aee0-2026-06-17_13-58-22_1.png.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-17/images/1bea461eea03aee0-2026-06-17_13-58-22_1.png.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d63d0bf1b6bbe5cb92038c7f9c1ca84ec7d4900aa446b02a8f2543d96cfec3dc",
+      "filePath": "2026-06-17/images/1bea461eea03aee0-2026-06-17_13-58-22_1.png.webp",
+      "fileName": "1bea461eea03aee0-2026-06-17_13-58-22_1.png.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-17/images/1bea461eea03aee0-2026-06-17_13-58-22_1.png.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anl85e9dd7",
+      "sourceMessageCreatedAt": "2026-06-17T05:58:33.073Z",
+      "sourceUserName": "jiangnan",
+      "sourceText": "刀哥牛逼",
+      "observedAt": "2026-06-15T01:26:12.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T01:26:12.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 09:26:12"
+        },
+        {
+          "value": "2026-06-17T01:26:12.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "09:26:12"
+        },
+        {
+          "value": "2026-06-17T05:58:22.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-17_13-58-22"
+        },
+        {
+          "value": "2026-06-17T05:58:33.073Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-17T05:58:33.073Z"
+        },
+        {
+          "value": "2026-06-19T11:51:42.334Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869902334.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "oo\n铁山手 © 2026/6/15 09:26:12\n(Po 不是可站这信息怎4给我下codex里了\n 生日\nawed, ET| aa: see"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-8e6e7fdc2a4facca-00072",
+    "sequence": 72,
+    "createdAt": "2026-06-15T03:10:08.409Z",
+    "timestampMs": 1781493008409,
+    "date": "2026-06-15",
+    "time": "03:10:08",
+    "text": "[截图证据补录]\n来源用户：wk1133\n时间来源：source-message\n原消息文本：这直接中断了\nOCR：当前 : 一 python cLient.send(Cdata) send 不保证一次发送全部字节 。 改成 : 一 python client.sendall(data) 6. Excel 读取函数定义缺少 self 或 staticmethod 当前 : 一 python ce? read(p): EREPEMIEREA self, MRBUTHBASLPlskKE, KA 己渠 道也项不住了，加群等通知吧: 903663617 — ready | agnes 2.0 flash | 9 tok | 1 session 一”~ \\ 国",
+    "userId": "an5zjqag0m",
+    "userUuid": "4b0e770a-b9a6-1ec9-af74-b712e15ded19",
+    "user": {
+      "uuid": "4b0e770a-b9a6-1ec9-af74-b712e15ded19",
+      "id": "an5zjqag0m",
+      "username": "wk1133",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/wk1133@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/adf7bba82657bbea-wk1133.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-8e6e7fdc2a4facca",
+        "name": "4ee75e163da0690c-Screenshot_2026-06-15-11-08-22-071_com.sonelli.j.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/4ee75e163da0690c-Screenshot_2026-06-15-11-08-22-071_com.sonelli.j.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "8e6e7fdc2a4faccac9009733475236e3f479005dfa5a7e7284359420db428f06",
+      "filePath": "2026-06-15/images/4ee75e163da0690c-Screenshot_2026-06-15-11-08-22-071_com.sonelli.j.webp",
+      "fileName": "4ee75e163da0690c-Screenshot_2026-06-15-11-08-22-071_com.sonelli.j.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/4ee75e163da0690c-Screenshot_2026-06-15-11-08-22-071_com.sonelli.j.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ani79449wt",
+      "sourceMessageCreatedAt": "2026-06-15T03:10:08.409Z",
+      "sourceUserName": "wk1133",
+      "sourceText": "这直接中断了",
+      "observedAt": "2026-06-15T03:10:08.409Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T03:08:22.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-15-11-08-22"
+        },
+        {
+          "value": "2026-06-15T03:10:08.409Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T03:10:08.409Z"
+        },
+        {
+          "value": "2026-06-19T11:50:16.722Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869816722.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "当前 :\n一 python\ncLient.send(Cdata)\nsend 不保证一次发送全部字节 。\n改成 :\n一 python\nclient.sendall(data)\n6. Excel 读取函数定义缺少 self 或 staticmethod\n当前 :\n一 python\nce? read(p):\nEREPEMIEREA self, MRBUTHBASLPlskKE, KA\n己渠 道也项不住了，加群等通知吧: 903663617\n— ready | agnes 2.0 flash | 9 tok | 1 session                 一”~\n\\ 国"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-a51604c3a3de6f55-00070",
+    "sequence": 70,
+    "createdAt": "2026-06-15T03:36:58.000Z",
+    "timestampMs": 1781494618000,
+    "date": "2026-06-15",
+    "time": "03:36:58",
+    "text": "[截图证据补录]\n来源用户：718293\n时间来源：ocr\nOCR：11:38 @ Ful Sul GO: © IX | Universe Federation i 四 聊天 > CHUBOLUO ©) 2026/6/15 11:36:58 群公告 & ARS REGSMERSROAM, iS 位成员加入对应分站群交流，过滤串站信 息、优化沟通体验、便于分站管理，欢迎常 [o) eABYAL BS: bizdeciphe.. ©) 2026/6/15 11:37 ©} 1站是什么臭鱼烂虾的生态 > | © 回复 xdm，来点涩图净化一下心灵.. 去频道COS Tandx 《9 2026/6/15 11:37:3¢ a | © 回复 xdm，来点涩图净化一下心灵.. Gy. @#s, RAHA \\ 新消息 (1) 人乡“在此键入信息 © = 向 QO g @ ¢ > O 加| 三",
+    "userId": "ang2yrl2jp",
+    "userUuid": "edaafa3d-6da1-3488-6d1b-f48c2f7d52f2",
+    "user": {
+      "uuid": "edaafa3d-6da1-3488-6d1b-f48c2f7d52f2",
+      "id": "ang2yrl2jp",
+      "username": "718293",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/718293@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/617fa28617b59884-718293.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-a51604c3a3de6f55",
+        "name": "303cecf428b3ff3c-Screenshot_20260615_113822_mark_via_Shell.jpg.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/303cecf428b3ff3c-Screenshot_20260615_113822_mark_via_Shell.jpg.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "a51604c3a3de6f55ed64d562c7a703e652c9b49a0e45204b1eba6270b5c92a59",
+      "filePath": "2026-06-15/images/303cecf428b3ff3c-Screenshot_20260615_113822_mark_via_Shell.jpg.webp",
+      "fileName": "303cecf428b3ff3c-Screenshot_20260615_113822_mark_via_Shell.jpg.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/303cecf428b3ff3c-Screenshot_20260615_113822_mark_via_Shell.jpg.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ani8b07xy0",
+      "sourceMessageCreatedAt": "2026-06-15T03:39:36.285Z",
+      "sourceUserName": "718293",
+      "sourceText": null,
+      "observedAt": "2026-06-15T03:36:58.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T03:36:58.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 11:36:58"
+        },
+        {
+          "value": "2026-06-15T03:37:00.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 11:37"
+        },
+        {
+          "value": "2026-06-15T03:37:03.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 11:37:3"
+        },
+        {
+          "value": "2026-06-15T03:36:58.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "11:36:58"
+        },
+        {
+          "value": "2026-06-15T03:37:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "11:37"
+        },
+        {
+          "value": "2026-06-15T03:37:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "11:37:"
+        },
+        {
+          "value": "2026-06-15T03:38:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "11:38"
+        },
+        {
+          "value": "2026-06-15T03:38:22.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260615_113822"
+        },
+        {
+          "value": "2026-06-15T03:39:36.285Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T03:39:36.285Z"
+        },
+        {
+          "value": "2026-06-19T11:50:18.070Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869818070.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "11:38                     @ Ful Sul GO:\n© IX | Universe Federation             i\n四 聊天                            >\nCHUBOLUO ©) 2026/6/15 11:36:58\n群公告\n& ARS REGSMERSROAM, iS\n位成员加入对应分站群交流，过滤串站信\n息、优化沟通体验、便于分站管理，欢迎常\n[o) eABYAL BS: bizdeciphe.. ©) 2026/6/15 11:37\n©}   1站是什么臭鱼烂虾的生态\n>\n| © 回复 xdm，来点涩图净化一下心灵..\n去频道COS\nTandx 《9 2026/6/15 11:37:3¢\na   | © 回复 xdm，来点涩图净化一下心灵..\nGy.\n@#s, RAHA\n\\ 新消息 (1)\n人乡“在此键入信息                 ©\n=        向        QO        g\n@\n¢        >       O      加|      三"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-140cfec6d3f816e4-00075",
+    "sequence": 75,
+    "createdAt": "2026-06-15T04:18:58.677Z",
+    "timestampMs": 1781497138677,
+    "date": "2026-06-15",
+    "time": "04:18:58",
+    "text": "[截图证据补录]\n来源用户：wkwk\n时间来源：source-message\n原消息文本：这个修改了怎么还继续弹呢\nOCR：初始设置 x A ISS 账户创建完成了 ! 来进行帐户的初始设置吧。 =» 一会再说",
+    "userId": "anfkipfjqk",
+    "userUuid": "34e05b62-daaa-db25-12e2-8f0175fd71dc",
+    "user": {
+      "uuid": "34e05b62-daaa-db25-12e2-8f0175fd71dc",
+      "id": "anfkipfjqk",
+      "username": "gungun1",
+      "name": "wkwk",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F0e7a416d-a9c9-4bc3-833d-12aea67481fa.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/1cdfdec607712368-gungun1.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-140cfec6d3f816e4",
+        "name": "8248b084a33be1b3-ScreenShot_2026-06-15_121814_667.png",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/8248b084a33be1b3-ScreenShot_2026-06-15_121814_667.png",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "140cfec6d3f816e453bc81a0827b9275951ce74d67c6637ec219183cbc05c842",
+      "filePath": "2026-06-15/images/8248b084a33be1b3-ScreenShot_2026-06-15_121814_667.png",
+      "fileName": "8248b084a33be1b3-ScreenShot_2026-06-15_121814_667.png",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/8248b084a33be1b3-ScreenShot_2026-06-15_121814_667.png",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ani9pn1xwi",
+      "sourceMessageCreatedAt": "2026-06-15T04:18:58.677Z",
+      "sourceUserName": "wkwk",
+      "sourceText": "这个修改了怎么还继续弹呢",
+      "observedAt": "2026-06-15T04:18:58.677Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-05-31T21:12:00.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-15_12"
+        },
+        {
+          "value": "2026-06-15T04:18:58.677Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T04:18:58.677Z"
+        },
+        {
+          "value": "2026-06-19T11:50:18.738Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869818738.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "初始设置                                                                                     x\nA\nISS\n账户创建完成了 !\n来进行帐户的初始设置吧。\n=»\n一会再说"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-0c5491c6cdce5dee-00079",
+    "sequence": 79,
+    "createdAt": "2026-06-15T06:06:00.000Z",
+    "timestampMs": 1781503560000,
+    "date": "2026-06-15",
+    "time": "06:06:00",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr-partial\nOCR：14:06 & @ $109 Til cH 《 群聊的聊天记录 we 兄弟们，玩战备认识的朋友约我线 下见面看电影 hice , 前 由由 ‘ D ‘had FH ARABANLERA RA f A Ty 本二 eo I Lhe ey II一人全 KAS * sy f AT i SON A@-5OOMHK* © @B+tRE —FHERCOAR 的，她说她自己长得像伊姿礼包， i £8",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-0c5491c6cdce5dee",
+        "name": "fdcddab302140940-Screenshot_2026-06-15-14-06-12-47_9d26c6446fd7bb.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/fdcddab302140940-Screenshot_2026-06-15-14-06-12-47_9d26c6446fd7bb.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "0c5491c6cdce5deec61913acc1fffd1ebdc8f8a5aaea28d41b9227dcfb41ca26",
+      "filePath": "2026-06-15/images/fdcddab302140940-Screenshot_2026-06-15-14-06-12-47_9d26c6446fd7bb.webp",
+      "fileName": "fdcddab302140940-Screenshot_2026-06-15-14-06-12-47_9d26c6446fd7bb.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/fdcddab302140940-Screenshot_2026-06-15-14-06-12-47_9d26c6446fd7bb.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anidm8k423",
+      "sourceMessageCreatedAt": "2026-06-15T06:08:18.388Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T06:06:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T06:06:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "14:06"
+        },
+        {
+          "value": "2026-06-15T06:06:12.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-15-14-06-12"
+        },
+        {
+          "value": "2026-06-15T06:08:18.388Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T06:08:18.388Z"
+        },
+        {
+          "value": "2026-06-19T11:50:21.506Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869821506.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "14:06 &        @ $109 Til cH\n《     群聊的聊天记录     we\n兄弟们，玩战备认识的朋友约我线\n下见面看电影\nhice , 前\n由由  ‘ D ‘had\nFH ARABANLERA RA f\nA  Ty 本二\neo      I Lhe\ney    II一人全\nKAS         *\nsy\nf\nAT\ni SON A@-5OOMHK*\n© @B+tRE —FHERCOAR\n的，她说她自己长得像伊姿礼包，\ni £8"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-dc4e2c92840dc5a7-00071",
+    "sequence": 71,
+    "createdAt": "2026-06-15T06:12:01.000Z",
+    "timestampMs": 1781503921000,
+    "date": "2026-06-15",
+    "time": "06:12:01",
+    "text": "[截图证据补录]\n来源用户：jerrylearn\n时间来源：ocr\n原消息文本：怎么老是nan和超时\nOCR：时间 渠道 AP Se 分组 类型 模型 用时/首字 § ”详情 SBE Ix > 2026-06-15 14:32:16 2 Oien « default ae @ gpt-55 59s 539s 。流 1 X575/ 1M tokens * SERRE $75 / 1M tokens » 2026-06-15 14:13:50 2 加am ¢ default = @ opt-55 56s NNs 流 ante One of input\" or... BIBER 1x > 2026-06-15 14:12:54 2 Oe « default ae @ opt-55 53s 262s |测 1) $75/ 1M tokens ”缓存读$751 1M tokens BARRE x > 2026-06-15 14:12:01 2 Oien « default ae @ gpt-55 9s B2s 流 1 A 575/ 1M tokens ”缓存污$751 1M tokens SABER Ix > 2026-06-15 141142 2 @Piery tk default 消费 @ opt-55 ds 89s 流 1 A875 / 1M tokens",
+    "userId": "amzi9j3yjn",
+    "userUuid": "6e53ffec-3da0-4658-698e-ec7d4ea1f7db",
+    "user": {
+      "uuid": "6e53ffec-3da0-4658-698e-ec7d4ea1f7db",
+      "id": "amzi9j3yjn",
+      "username": "jerrylearn",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/jerrylearn@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/dc7793518ed4c6d5-jerrylearn.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-dc4e2c92840dc5a7",
+        "name": "4cd975a30d8b9a16-Screenshot_20260615_143313.jpg",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/4cd975a30d8b9a16-Screenshot_20260615_143313.jpg",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "dc4e2c92840dc5a76fe983608a80d205552405e565c6219730741595ddb9519c",
+      "filePath": "2026-06-15/images/4cd975a30d8b9a16-Screenshot_20260615_143313.jpg",
+      "fileName": "4cd975a30d8b9a16-Screenshot_20260615_143313.jpg",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/4cd975a30d8b9a16-Screenshot_20260615_143313.jpg",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "aniejbl8ko",
+      "sourceMessageCreatedAt": "2026-06-15T06:34:01.964Z",
+      "sourceUserName": "jerrylearn",
+      "sourceText": "怎么老是nan和超时",
+      "observedAt": "2026-06-15T06:12:01.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T06:12:01.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-15 14:12:01"
+        },
+        {
+          "value": "2026-06-15T06:12:54.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-15 14:12:54"
+        },
+        {
+          "value": "2026-06-15T06:13:50.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-15 14:13:50"
+        },
+        {
+          "value": "2026-06-15T06:32:16.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-15 14:32:16"
+        },
+        {
+          "value": "2026-06-15T06:12:01.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "14:12:01"
+        },
+        {
+          "value": "2026-06-15T06:12:54.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "14:12:54"
+        },
+        {
+          "value": "2026-06-15T06:13:50.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "14:13:50"
+        },
+        {
+          "value": "2026-06-15T06:32:16.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "14:32:16"
+        },
+        {
+          "value": "2026-06-15T06:33:13.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260615_143313"
+        },
+        {
+          "value": "2026-06-15T06:34:01.964Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T06:34:01.964Z"
+        },
+        {
+          "value": "2026-06-19T11:50:23.590Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869823590.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "时间         渠道  AP    Se    分组    类型   模型        用时/首字       § ”详情\nSBE Ix\n> 2026-06-15 14:32:16 2  Oien «    default  ae  @ gpt-55     59s 539s 。流   1 X575/ 1M tokens\n* SERRE $75 / 1M tokens\n» 2026-06-15 14:13:50 2 加am ¢    default =  @ opt-55     56s NNs 流   ante One of\ninput\" or...\nBIBER 1x\n> 2026-06-15 14:12:54 2  Oe «    default  ae  @ opt-55     53s 262s |测   1) $75/ 1M tokens\n”缓存读$751 1M tokens\nBARRE x\n> 2026-06-15 14:12:01 2  Oien «    default  ae  @ gpt-55     9s B2s 流   1 A 575/ 1M tokens\n”缓存污$751 1M tokens\nSABER Ix\n> 2026-06-15 141142 2 @Piery tk     default  消费  @ opt-55     ds 89s 流   1 A875 / 1M tokens"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-ce038c7879acec14-00067",
+    "sequence": 67,
+    "createdAt": "2026-06-15T07:15:02.000Z",
+    "timestampMs": 1781507702000,
+    "date": "2026-06-15",
+    "time": "07:15:02",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\n原消息文本：其实这个才是最逗的\nOCR：15:18 国回图区回。 @ F999 人 SD © 38 | Universe Federation e a, 总部 see 加 聊天 QR 人心屏蔽管理 〈 > ® 不作为的都给他下来 13373372794 © 2026/6/15 15:15:02 使。 7812S} © 2026/6/15 15:15:14 影 刀哥对不起因为我没余额了我不是故 eet mcdh © 2026/6/15 15:15:34 € 没法用，太慢了 beluga © 2026/6/15 15:15:41 有 06 。 怎么回事，又出现吃着别人的，然后 EC在此键入信息 © W = 向 Q g e 《 > O (12) =",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-ce038c7879acec14",
+        "name": "0b276d53edbc2d43-Screenshot_2026-06-15-15-18-00-98_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/0b276d53edbc2d43-Screenshot_2026-06-15-15-18-00-98_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "ce038c7879acec142f0389a614b5884905d67deb140ab54adba90c5720a21618",
+      "filePath": "2026-06-15/images/0b276d53edbc2d43-Screenshot_2026-06-15-15-18-00-98_a252b927494330.webp",
+      "fileName": "0b276d53edbc2d43-Screenshot_2026-06-15-15-18-00-98_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/0b276d53edbc2d43-Screenshot_2026-06-15-15-18-00-98_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anih3wgi50",
+      "sourceMessageCreatedAt": "2026-06-15T07:46:01.362Z",
+      "sourceUserName": "丛雨",
+      "sourceText": "其实这个才是最逗的",
+      "observedAt": "2026-06-15T07:15:02.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T07:15:02.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:15:02"
+        },
+        {
+          "value": "2026-06-15T07:15:14.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:15:14"
+        },
+        {
+          "value": "2026-06-15T07:15:34.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:15:34"
+        },
+        {
+          "value": "2026-06-15T07:15:41.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:15:41"
+        },
+        {
+          "value": "2026-06-15T07:15:02.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:15:02"
+        },
+        {
+          "value": "2026-06-15T07:15:14.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:15:14"
+        },
+        {
+          "value": "2026-06-15T07:15:34.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:15:34"
+        },
+        {
+          "value": "2026-06-15T07:15:41.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:15:41"
+        },
+        {
+          "value": "2026-06-15T07:18:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:18"
+        },
+        {
+          "value": "2026-06-15T07:18:00.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-15-15-18-00"
+        },
+        {
+          "value": "2026-06-15T07:46:01.362Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T07:46:01.362Z"
+        },
+        {
+          "value": "2026-06-19T11:50:24.914Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869824914.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "15:18 国回图区回。         @ F999 人 SD\n© 38 | Universe Federation   e\na, 总部                          see\n加 聊天 QR 人心屏蔽管理 〈 >\n®  不作为的都给他下来\n13373372794 © 2026/6/15 15:15:02\n使。\n7812S} © 2026/6/15 15:15:14\n  影  刀哥对不起因为我没余额了我不是故\neet\nmcdh  © 2026/6/15 15:15:34\n€  没法用，太慢了\nbeluga  © 2026/6/15 15:15:41        有\n06 。 怎么回事，又出现吃着别人的，然后\nEC在此键入信息                 © W\n=        向        Q        g\ne\n《        >       O      (12)       ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-fac27914296ca1bd-00111",
+    "sequence": 111,
+    "createdAt": "2026-06-15T07:23:21.000Z",
+    "timestampMs": 1781508201000,
+    "date": "2026-06-15",
+    "time": "07:23:21",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 15:23:21 没事，你们可劲讨做，别用就完了",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-fac27914296ca1bd",
+        "name": "83c03aa0ffd06792-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/83c03aa0ffd06792-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "fac27914296ca1bd9cdbe68700e76415a68b3cd5074e8df1dc62faaa864c4ce6",
+      "filePath": "2026-06-16/images/83c03aa0ffd06792-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+      "fileName": "83c03aa0ffd06792-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/83c03aa0ffd06792-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ank0o8eejx",
+      "sourceMessageCreatedAt": "2026-06-16T09:41:28.838Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T07:23:21.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T07:23:21.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:23:21"
+        },
+        {
+          "value": "2026-06-16T07:23:21.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:23:21"
+        },
+        {
+          "value": "2026-06-16T04:41:44.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-12-41-44"
+        },
+        {
+          "value": "2026-06-16T09:41:28.838Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T09:41:28.838Z"
+        },
+        {
+          "value": "2026-06-19T11:50:55.602Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869855602.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 15:23:21\n  没事，你们可劲讨做，别用就完了"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-2d6e1183ecec9075-00098",
+    "sequence": 98,
+    "createdAt": "2026-06-15T07:24:32.000Z",
+    "timestampMs": 1781508272000,
+    "date": "2026-06-15",
+    "time": "07:24:32",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 15:24:32 过 我一会整理一下id ，还有谁想落井下 SF 石，赶紧跳出来，我好整理id",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-2d6e1183ecec9075",
+        "name": "540563acb2fdca9d-Screenshot_2026-06-16-12-42-19-51_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/540563acb2fdca9d-Screenshot_2026-06-16-12-42-19-51_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "2d6e1183ecec9075e0804d7627ee4ae175701200b2f71b1d6eb43a5e08c21ce6",
+      "filePath": "2026-06-16/images/540563acb2fdca9d-Screenshot_2026-06-16-12-42-19-51_a252b927494330.webp",
+      "fileName": "540563acb2fdca9d-Screenshot_2026-06-16-12-42-19-51_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/540563acb2fdca9d-Screenshot_2026-06-16-12-42-19-51_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ano4w28nue",
+      "sourceMessageCreatedAt": "2026-06-19T06:50:37.271Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T07:24:32.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T07:24:32.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:24:32"
+        },
+        {
+          "value": "2026-06-16T07:24:32.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:24:32"
+        },
+        {
+          "value": "2026-06-16T04:42:19.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-12-42-19"
+        },
+        {
+          "value": "2026-06-19T06:50:37.271Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-19T06:50:37.271Z"
+        },
+        {
+          "value": "2026-06-19T11:50:55.158Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869855158.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 15:24:32\n过  我一会整理一下id ，还有谁想落井下\nSF 石，赶紧跳出来，我好整理id"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-a7dcfd6ad4618fa7-00114",
+    "sequence": 114,
+    "createdAt": "2026-06-15T07:24:45.000Z",
+    "timestampMs": 1781508285000,
+    "date": "2026-06-15",
+    "time": "07:24:45",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 15:24:45 别藏着掖着 ，省着我排查",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-a7dcfd6ad4618fa7",
+        "name": "8d62c23bd66d7328-Screenshot_2026-06-16-12-42-31-92_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/8d62c23bd66d7328-Screenshot_2026-06-16-12-42-31-92_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "a7dcfd6ad4618fa711547918617829e89c4dae6d1e4b672a7dd62a76ba4aaf2a",
+      "filePath": "2026-06-16/images/8d62c23bd66d7328-Screenshot_2026-06-16-12-42-31-92_a252b927494330.webp",
+      "fileName": "8d62c23bd66d7328-Screenshot_2026-06-16-12-42-31-92_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/8d62c23bd66d7328-Screenshot_2026-06-16-12-42-31-92_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anjq3c6a5u",
+      "sourceMessageCreatedAt": "2026-06-16T04:45:17.794Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T07:24:45.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T07:24:45.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:24:45"
+        },
+        {
+          "value": "2026-06-16T07:24:45.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:24:45"
+        },
+        {
+          "value": "2026-06-16T04:42:31.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-12-42-31"
+        },
+        {
+          "value": "2026-06-16T04:45:17.794Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T04:45:17.794Z"
+        },
+        {
+          "value": "2026-06-19T11:50:55.310Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869855310.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 15:24:45\n  别藏着掖着 ，省着我排查"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-ce77bcdf1e756ffe-00088",
+    "sequence": 88,
+    "createdAt": "2026-06-15T07:30:14.000Z",
+    "timestampMs": 1781508614000,
+    "date": "2026-06-15",
+    "time": "07:30:14",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 15:30:14 别急。等我到公司的，啊。",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-ce77bcdf1e756ffe",
+        "name": "31e2c71f5f7ba740-Screenshot_2026-06-16-12-43-13-27_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/31e2c71f5f7ba740-Screenshot_2026-06-16-12-43-13-27_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "ce77bcdf1e756ffe6d5208e51985d4a7d7777b956a903d55878df0e8a41fbd02",
+      "filePath": "2026-06-16/images/31e2c71f5f7ba740-Screenshot_2026-06-16-12-43-13-27_a252b927494330.webp",
+      "fileName": "31e2c71f5f7ba740-Screenshot_2026-06-16-12-43-13-27_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/31e2c71f5f7ba740-Screenshot_2026-06-16-12-43-13-27_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ank0d1dxr2",
+      "sourceMessageCreatedAt": "2026-06-16T09:32:46.533Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T07:30:14.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T07:30:14.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 15:30:14"
+        },
+        {
+          "value": "2026-06-16T07:30:14.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "15:30:14"
+        },
+        {
+          "value": "2026-06-16T04:43:13.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-12-43-13"
+        },
+        {
+          "value": "2026-06-16T09:32:46.533Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T09:32:46.533Z"
+        },
+        {
+          "value": "2026-06-19T11:50:55.334Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869855334.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 15:30:14\n  别急。等我到公司的，啊。"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-ffbb67fe13ded485-00095",
+    "sequence": 95,
+    "createdAt": "2026-06-15T08:29:12.000Z",
+    "timestampMs": 1781512152000,
+    "date": "2026-06-15",
+    "time": "08:29:12",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：小刀你在不在呀 没有你我都活不下去 ls) 了 天网软件工作室-老刀”人@O 2026/6/15 16:29:12 快别你妈了个逼的叫唤了小逼串子 © 2026/6/15 16:29:16 AB",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-ffbb67fe13ded485",
+        "name": "4615f1ac746008b5-Screenshot_2026-06-16-09-05-59-12_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/4615f1ac746008b5-Screenshot_2026-06-16-09-05-59-12_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "ffbb67fe13ded485eef594b49a82cc4d5332d4b6f29a438ea2486bfb912bc597",
+      "filePath": "2026-06-16/images/4615f1ac746008b5-Screenshot_2026-06-16-09-05-59-12_a252b927494330.webp",
+      "fileName": "4615f1ac746008b5-Screenshot_2026-06-16-09-05-59-12_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/4615f1ac746008b5-Screenshot_2026-06-16-09-05-59-12_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ann5u5b0n1",
+      "sourceMessageCreatedAt": "2026-06-18T14:29:21.372Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:29:12.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:29:12.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:29:12"
+        },
+        {
+          "value": "2026-06-15T08:29:16.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:29:16"
+        },
+        {
+          "value": "2026-06-16T08:29:12.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:29:12"
+        },
+        {
+          "value": "2026-06-16T08:29:16.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:29:16"
+        },
+        {
+          "value": "2026-06-16T01:05:59.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-05-59"
+        },
+        {
+          "value": "2026-06-18T14:29:21.372Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-18T14:29:21.372Z"
+        },
+        {
+          "value": "2026-06-19T11:50:53.526Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869853526.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "小刀你在不在呀 没有你我都活不下去  ls)\n了\n天网软件工作室-老刀”人@O 2026/6/15 16:29:12\n 快别你妈了个逼的叫唤了小逼串子\n© 2026/6/15 16:29:16 AB"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-0e17c22839784774-00118",
+    "sequence": 118,
+    "createdAt": "2026-06-15T08:33:07.000Z",
+    "timestampMs": 1781512387000,
+    "date": "2026-06-15",
+    "time": "08:33:07",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 16:33:07 | MSIE, K, RALSKE, PRAM SF 当着社区的面对刚刚那些落井下石、 边吃边骂的小逼串子说一句 : 我草你们妈! 4 @% BG) O®",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-0e17c22839784774",
+        "name": "adf17915604e7c7e-Screenshot_2026-06-16-09-08-43-22_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/adf17915604e7c7e-Screenshot_2026-06-16-09-08-43-22_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "0e17c2283978477433633aa42185aeb4cdae46605dff05b573273ac34dd2c8e5",
+      "filePath": "2026-06-16/images/adf17915604e7c7e-Screenshot_2026-06-16-09-08-43-22_a252b927494330.webp",
+      "fileName": "adf17915604e7c7e-Screenshot_2026-06-16-09-08-43-22_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/adf17915604e7c7e-Screenshot_2026-06-16-09-08-43-22_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anjoe1i4s7",
+      "sourceMessageCreatedAt": "2026-06-16T03:57:37.948Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:33:07.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:33:07.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:33:07"
+        },
+        {
+          "value": "2026-06-16T08:33:07.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:33:07"
+        },
+        {
+          "value": "2026-06-16T01:08:43.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-08-43"
+        },
+        {
+          "value": "2026-06-16T03:57:37.948Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T03:57:37.948Z"
+        },
+        {
+          "value": "2026-06-19T11:50:54.202Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869854202.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 16:33:07\n|  MSIE, K, RALSKE, PRAM\nSF 当着社区的面对刚刚那些落井下石、\n边吃边骂的小逼串子说一句 :\n\n我草你们妈!\n4\n@% BG) O®"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-a346041ed654d03f-00082",
+    "sequence": 82,
+    "createdAt": "2026-06-15T08:33:34.000Z",
+    "timestampMs": 1781512414000,
+    "date": "2026-06-15",
+    "time": "08:33:34",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 16:33:34 我昨天出去摸摸唱到早上五点 © 2026/6/15 16:33:35 Am 刀哥你怎么急了 (~)",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-a346041ed654d03f",
+        "name": "0e90c5a7f042a7a3-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/0e90c5a7f042a7a3-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "a346041ed654d03f03681cc325a8b4fbfa21041c75e28b09b6b5aca4d4be6f90",
+      "filePath": "2026-06-16/images/0e90c5a7f042a7a3-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "fileName": "0e90c5a7f042a7a3-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/0e90c5a7f042a7a3-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 2,
+      "sourceMessageId": "anl1oskh9m",
+      "sourceMessageCreatedAt": "2026-06-17T02:57:40.769Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:33:34.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:33:34.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:33:34"
+        },
+        {
+          "value": "2026-06-15T08:33:35.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:33:35"
+        },
+        {
+          "value": "2026-06-16T08:33:34.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:33:34"
+        },
+        {
+          "value": "2026-06-16T08:33:35.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:33:35"
+        },
+        {
+          "value": "2026-06-16T01:08:28.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-08-28"
+        },
+        {
+          "value": "2026-06-17T02:57:40.769Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-17T02:57:40.769Z"
+        },
+        {
+          "value": "2026-06-19T11:50:55.902Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869855902.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 16:33:34\n   我昨天出去摸摸唱到早上五点\n© 2026/6/15 16:33:35 Am\n刀哥你怎么急了   (~)"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-a346041ed654d03f-00108",
+    "sequence": 108,
+    "createdAt": "2026-06-15T08:33:34.000Z",
+    "timestampMs": 1781512414000,
+    "date": "2026-06-15",
+    "time": "08:33:34",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 16:33:34 我昨天出去摸摸唱到早上五点 © 2026/6/15 16:33:35 Am 刀哥你怎么急了 (~)",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-a346041ed654d03f",
+        "name": "7c63029965392074-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/7c63029965392074-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "a346041ed654d03f03681cc325a8b4fbfa21041c75e28b09b6b5aca4d4be6f90",
+      "filePath": "2026-06-16/images/7c63029965392074-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "fileName": "7c63029965392074-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/7c63029965392074-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
+      "duplicateOf": "manual-screenshot-a346041ed654d03f-00082",
+      "duplicateCount": 2,
+      "sourceMessageId": "anlhgszt4u",
+      "sourceMessageCreatedAt": "2026-06-17T10:19:21.929Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:33:34.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:33:34.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:33:34"
+        },
+        {
+          "value": "2026-06-15T08:33:35.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:33:35"
+        },
+        {
+          "value": "2026-06-16T08:33:34.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:33:34"
+        },
+        {
+          "value": "2026-06-16T08:33:35.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:33:35"
+        },
+        {
+          "value": "2026-06-16T01:08:28.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-08-28"
+        },
+        {
+          "value": "2026-06-17T10:19:21.929Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-17T10:19:21.929Z"
+        },
+        {
+          "value": "2026-06-19T11:50:53.602Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869853602.8657"
+        }
+      ],
+      "ocrStatus": "duplicate",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 16:33:34\n   我昨天出去摸摸唱到早上五点\n© 2026/6/15 16:33:35 Am\n刀哥你怎么急了   (~)"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-99802278de5632bb-00087",
+    "sequence": 87,
+    "createdAt": "2026-06-15T08:35:39.000Z",
+    "timestampMs": 1781512539000,
+    "date": "2026-06-15",
+    "time": "08:35:39",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：liming1 © 2026/6/15 16:35:39 64 oT enames miter a! 弟弟 天网软件工作室-老刀 © 2026/6/15 16:35:53 过 | © 回复 都说了老刀自用中转 能让你- 这还有一个，听着: 我草你妈，听清 sy 14?",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-99802278de5632bb",
+        "name": "2984777b0276dd7d-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/2984777b0276dd7d-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "99802278de5632bb87dac90f0bfcf5dfb58c78d340de9223d9aafc657c02ee71",
+      "filePath": "2026-06-16/images/2984777b0276dd7d-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "fileName": "2984777b0276dd7d-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/2984777b0276dd7d-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 2,
+      "sourceMessageId": "anl53575fd",
+      "sourceMessageCreatedAt": "2026-06-17T04:32:49.169Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:35:39.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:35:39.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:35:39"
+        },
+        {
+          "value": "2026-06-15T08:35:53.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:35:53"
+        },
+        {
+          "value": "2026-06-16T08:35:39.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:35:39"
+        },
+        {
+          "value": "2026-06-16T08:35:53.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:35:53"
+        },
+        {
+          "value": "2026-06-16T01:11:38.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-11-38"
+        },
+        {
+          "value": "2026-06-17T04:32:49.169Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-17T04:32:49.169Z"
+        },
+        {
+          "value": "2026-06-19T11:50:54.038Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869854038.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "liming1 © 2026/6/15 16:35:39\n64 oT enames miter\na!   弟弟\n天网软件工作室-老刀 © 2026/6/15 16:35:53\n过  | © 回复 都说了老刀自用中转 能让你-\n这还有一个，听着: 我草你妈，听清\nsy 14?"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-99802278de5632bb-00131",
+    "sequence": 131,
+    "createdAt": "2026-06-15T08:35:39.000Z",
+    "timestampMs": 1781512539000,
+    "date": "2026-06-15",
+    "time": "08:35:39",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：liming1 © 2026/6/15 16:35:39 64 oT enames miter a! 弟弟 天网软件工作室-老刀 © 2026/6/15 16:35:53 过 | © 回复 都说了老刀自用中转 能让你- 这还有一个，听着: 我草你妈，听清 sy 14?",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-99802278de5632bb",
+        "name": "e9ebb0ece2759dbf-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/e9ebb0ece2759dbf-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "99802278de5632bb87dac90f0bfcf5dfb58c78d340de9223d9aafc657c02ee71",
+      "filePath": "2026-06-16/images/e9ebb0ece2759dbf-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "fileName": "e9ebb0ece2759dbf-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/e9ebb0ece2759dbf-Screenshot_2026-06-16-09-11-38-36_a252b927494330.webp",
+      "duplicateOf": "manual-screenshot-99802278de5632bb-00087",
+      "duplicateCount": 2,
+      "sourceMessageId": "ank0on203l",
+      "sourceMessageCreatedAt": "2026-06-16T09:41:47.832Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T08:35:39.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T08:35:39.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:35:39"
+        },
+        {
+          "value": "2026-06-15T08:35:53.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 16:35:53"
+        },
+        {
+          "value": "2026-06-16T08:35:39.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:35:39"
+        },
+        {
+          "value": "2026-06-16T08:35:53.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:35:53"
+        },
+        {
+          "value": "2026-06-16T01:11:38.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-09-11-38"
+        },
+        {
+          "value": "2026-06-16T09:41:47.832Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T09:41:47.832Z"
+        },
+        {
+          "value": "2026-06-19T11:50:54.286Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869854286.8657"
+        }
+      ],
+      "ocrStatus": "duplicate",
+      "ocrText": "liming1 © 2026/6/15 16:35:39\n64 oT enames miter\na!   弟弟\n天网软件工作室-老刀 © 2026/6/15 16:35:53\n过  | © 回复 都说了老刀自用中转 能让你-\n这还有一个，听着: 我草你妈，听清\nsy 14?"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d4b93d5e0aac551d-00076",
+    "sequence": 76,
+    "createdAt": "2026-06-15T09:02:09.000Z",
+    "timestampMs": 1781514129000,
+    "date": "2026-06-15",
+    "time": "09:02:09",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr-partial\nOCR：天网软件工作室-老刀”人@O 2026/6/15 17:02:09 Se | > os 老六那个昨天注册了，早上登 我清你妈了个逼了，来，把你被清空",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d4b93d5e0aac551d",
+        "name": "8348b4c35bbaecb2-IMG_20260615_170630.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/8348b4c35bbaecb2-IMG_20260615_170630.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d4b93d5e0aac551d0d16ec48e75d2e69863abbb58a3d8bafef494f06aab3d23a",
+      "filePath": "2026-06-15/images/8348b4c35bbaecb2-IMG_20260615_170630.webp",
+      "fileName": "8348b4c35bbaecb2-IMG_20260615_170630.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/8348b4c35bbaecb2-IMG_20260615_170630.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "annzbclid3",
+      "sourceMessageCreatedAt": "2026-06-19T04:14:32.838Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T09:02:09.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T09:02:09.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 17:02:09",
+          "ignored": true,
+          "reason": "context-date"
+        },
+        {
+          "value": "2026-06-15T09:02:09.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "17:02:09"
+        },
+        {
+          "value": "2026-06-15T09:06:30.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260615_170630"
+        },
+        {
+          "value": "2026-06-19T04:14:32.838Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-19T04:14:32.838Z"
+        },
+        {
+          "value": "2026-06-19T11:50:27.186Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869827186.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀”人@O 2026/6/15 17:02:09\nSe  | > os 老六那个昨天注册了，早上登\n我清你妈了个逼了，来，把你被清空"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-48f2b8665d0c5d2f-00066",
+    "sequence": 66,
+    "createdAt": "2026-06-15T13:01:29.000Z",
+    "timestampMs": 1781528489000,
+    "date": "2026-06-15",
+    "time": "13:01:29",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr\nOCR：9:022@-7@0.%20 Be ui! S ED & @ de.hhhl.cc CO @ ax = 加 聊天 RkR 人心 屏蔽管理 〇搜 > 10G带宽大鸡鸡claudegpt.fun ©) 2026/6/15 21:01:29 AR 受难民 手12点换key#我认为很多人没有准备好, 所以旧 Key限速改为1分钟30次防止恶意使用, 直到明天中 TER MIROCKe YIU AIA ies 审核标准依旧 @ 大战来我 另外声明一下-社区的活动给站点做渠道嘻底 不是为 站点运营 站点任何策划社区无法得知 所以站点任 {SHES AR HOE 2026/6/15 21:01:44 © Suis, 翻翻聊天记录, 看的是努力截图 “> 和数据, 综合考虑, 不是一天就杀, 不要误 会, 要是努力过了，,那就截图自己的行为当 证据, 我肯定放过, 不是我审的我也提意见 放一马,放心 SaaS_Survivor © 2026/6/15 21:01:57 O Bes wums Ez © 2026/6/15 21:02:13 & Ril 不早说误会了 G 在此键入信息 oY = M QO g @ <《 + =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-48f2b8665d0c5d2f",
+        "name": "08e3dd600491b8a3-Screenshot_2026-06-15-21-02-36-822_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/08e3dd600491b8a3-Screenshot_2026-06-15-21-02-36-822_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "48f2b8665d0c5d2f5f8e0381ce96a91f495312a7dbdb8dc14a446f3bb1f3f639",
+      "filePath": "2026-06-15/images/08e3dd600491b8a3-Screenshot_2026-06-15-21-02-36-822_com.microsoft.webp",
+      "fileName": "08e3dd600491b8a3-Screenshot_2026-06-15-21-02-36-822_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/08e3dd600491b8a3-Screenshot_2026-06-15-21-02-36-822_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anisfclf6q",
+      "sourceMessageCreatedAt": "2026-06-15T13:02:51.267Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": null,
+      "observedAt": "2026-06-15T13:01:29.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T13:01:29.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 21:01:29"
+        },
+        {
+          "value": "2026-06-15T13:01:44.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 21:01:44"
+        },
+        {
+          "value": "2026-06-15T13:01:57.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 21:01:57"
+        },
+        {
+          "value": "2026-06-15T13:02:13.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 21:02:13"
+        },
+        {
+          "value": "2026-06-15T13:01:29.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "21:01:29"
+        },
+        {
+          "value": "2026-06-15T13:01:44.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "21:01:44"
+        },
+        {
+          "value": "2026-06-15T13:01:57.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "21:01:57"
+        },
+        {
+          "value": "2026-06-15T13:02:13.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "21:02:13"
+        },
+        {
+          "value": "2026-06-15T13:02:36.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-15-21-02-36"
+        },
+        {
+          "value": "2026-06-15T13:02:51.267Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T13:02:51.267Z"
+        },
+        {
+          "value": "2026-06-19T11:50:35.350Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869835350.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "9:022@-7@0.%20        Be ui! S ED\n&         @ de.hhhl.cc          CO\n@ ax                                 =\n加 聊天 RkR 人心 屏蔽管理 〇搜 >\n10G带宽大鸡鸡claudegpt.fun ©) 2026/6/15 21:01:29\nAR 受难民\n手12点换key#我认为很多人没有准备好, 所以旧\nKey限速改为1分钟30次防止恶意使用, 直到明天中\nTER MIROCKe YIU AIA ies 审核标准依旧\n@  大战来我\n另外声明一下-社区的活动给站点做渠道嘻底 不是为\n站点运营 站点任何策划社区无法得知 所以站点任\n{SHES AR HOE      2026/6/15 21:01:44\n© Suis, 翻翻聊天记录, 看的是努力截图\n“> 和数据, 综合考虑, 不是一天就杀, 不要误\n会, 要是努力过了，,那就截图自己的行为当\n证据, 我肯定放过, 不是我审的我也提意见\n放一马,放心\nSaaS_Survivor © 2026/6/15 21:01:57\nO Bes wums\nEz © 2026/6/15 21:02:13\n&   Ril 不早说误会了\nG 在此键入信息                     oY\n=         M         QO         g\n@\n<《                +       ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-09a67e05c9eaecbf-00068",
+    "sequence": 68,
+    "createdAt": "2026-06-15T15:29:00.000Z",
+    "timestampMs": 1781537340000,
+    "date": "2026-06-15",
+    "time": "15:29:00",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr-partial\n原消息文本：😆教程发完了，跑路了\nOCR：23:29 00880 复加中会81% 国字 回帖子| Universe Federation Cc 《 > a) = < “@ Universe Federation F AR 2026 6月 今天 979% 158 本月 49.9% Q BR | AB 星期一 oe 455% ‘= @congyu @ AI hf.co白嫖容器部署NewApi教程 mysql 500m ## AE Q 通知 & e 加 聊天 = 访问令牌已创建 1 BB Aa Mit hf是运气封禁 io RRR, BME RIS 的”频道 加 牌1 的指示删除访问令牌。 、 siz > RS 会 页显示你的邮箱以及密 访问令牌已创建 1小时前 OQ ian ia lla a ona 注册成功他会在网页显示你的邮箱以及 a 如果不明白其用途，请遵循 [管理访问令 码，然后登录即可 “8 ,的捐示出除访问令牌。 Dp 公告 使 Kiyoshi _ 5 小时前 这一步是注册完sqlpub并且获取到连接串后 al laces aa Hp 更多! 然后hf.co怎么注册，我就不教你们了，访问我的仓库地址 ¢ wowed 2) a 7 小时前 https://huggingface.co/spaces/Murasame52/newapi C7 (Vedder shane @ ue 跟着图文走就行了 Fe : Oa a = 心 a (copes my 二 2 被提到 ® p -和 #公益站 有 1 BUBB) 1 EE) rs on i 1 BUBB) —» ) @conayu",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-09a67e05c9eaecbf",
+        "name": "0d260649ddf79de8-Screenshot_20260615_232910.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/0d260649ddf79de8-Screenshot_20260615_232910.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "09a67e05c9eaecbf48971693b3463dc7b2c7887f521e70f57c507f98abdb95ae",
+      "filePath": "2026-06-15/images/0d260649ddf79de8-Screenshot_20260615_232910.webp",
+      "fileName": "0d260649ddf79de8-Screenshot_20260615_232910.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/0d260649ddf79de8-Screenshot_20260615_232910.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anixp4aoho",
+      "sourceMessageCreatedAt": "2026-06-15T15:30:25.152Z",
+      "sourceUserName": "丛雨",
+      "sourceText": "😆教程发完了，跑路了",
+      "observedAt": "2026-06-15T15:29:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T15:29:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "23:29"
+        },
+        {
+          "value": "2026-06-15T15:29:10.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260615_232910"
+        },
+        {
+          "value": "2026-06-15T15:30:25.152Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T15:30:25.152Z"
+        },
+        {
+          "value": "2026-06-19T11:50:44.358Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869844358.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "23:29 00880                                                                                                        复加中会81% 国字\n回帖子| Universe Federation    Cc       《         >         a)        =\n<                                         “@ Universe Federation\nF                                                AR                                                 2026 6月        今天        979%\n158        本月       49.9%\nQ BR                    |  AB                                                              星期一        oe 455%\n‘=   @congyu\n@ AI\nhf.co白嫖容器部署NewApi教程 mysql 500m ## AE                           Q 通知                               &\ne\n加 聊天\n=                                                                                  访问令牌已创建                  1 BB\nAa Mit hf是运气封禁                                               io RRR, BME RIS\n的”频道                                                                                      加 牌1 的指示删除访问令牌。\n、                              siz >                 RS          会     页显示你的邮箱以及密                        访问令牌已创建              1小时前\nOQ ian                     ia lla a ona 注册成功他会在网页显示你的邮箱以及                 a 如果不明白其用途，请遵循 [管理访问令\n码，然后登录即可                                              “8 ,的捐示出除访问令牌。\nDp 公告                                                                  使 Kiyoshi   _        5 小时前\n这一步是注册完sqlpub并且获取到连接串后                                           al laces aa\nHp 更多!               然后hf.co怎么注册，我就不教你们了，访问我的仓库地址               ¢  wowed 2) a       7 小时前\nhttps://huggingface.co/spaces/Murasame52/newapi C7                            (Vedder shane\n@ ue                     跟着图文走就行了\nFe                 :                     Oa\na      =             心\na          (copes                          my\n二                   2 被提到\n®                             p                         -和                #公益站                         有\n1 BUBB)\n1 EE)\nrs                                              on                         i                1 BUBB)\n—» ) @conayu"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-5e9c5cb309985b89-00100",
+    "sequence": 100,
+    "createdAt": "2026-06-15T16:18:59.000Z",
+    "timestampMs": 1781540339000,
+    "date": "2026-06-15",
+    "time": "16:18:59",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr-partial\nOCR：07:50 @28:-@- Bt = Til SP © @weiweiwei| Universe Feder a weiweiwei @weiweiwei@dc.hhhl.cc 此用户尚无自我介绍 fl 注册于 2026/6/9 00:18:59 (1 周前) 6 4 0 帖子 关注中 关注者 四 文件 Vv bw 活动 oe Vv Pinned 帖子 全部 附件 weiweiwei 2 分前 @weiweiwei 发现个 0.05倍率的 gtp pro deepseek-v4-pro 免费调用 iifps://axiomcode.devy/login?ref=jrbU 器 = 向 全 g @ 《 > O =",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-5e9c5cb309985b89",
+        "name": "565426e55f751e3f-Screenshot_2026-06-17-07-50-46-07_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/565426e55f751e3f-Screenshot_2026-06-17-07-50-46-07_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "5e9c5cb309985b899560c50e2f2711b4ced495ac3ce16f7ff998ec073553ffa8",
+      "filePath": "2026-06-16/images/565426e55f751e3f-Screenshot_2026-06-17-07-50-46-07_a252b927494330.webp",
+      "fileName": "565426e55f751e3f-Screenshot_2026-06-17-07-50-46-07_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/565426e55f751e3f-Screenshot_2026-06-17-07-50-46-07_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ankv3q1z03",
+      "sourceMessageCreatedAt": "2026-06-16T23:53:20.039Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-15T16:18:59.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-08T16:18:59.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/9 00:18:59",
+          "ignored": true,
+          "reason": "context-date"
+        },
+        {
+          "value": "2026-06-15T16:18:59.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "00:18:59"
+        },
+        {
+          "value": "2026-06-15T23:50:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "07:50"
+        },
+        {
+          "value": "2026-06-16T23:50:46.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-17-07-50-46"
+        },
+        {
+          "value": "2026-06-16T23:53:20.039Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T23:53:20.039Z"
+        },
+        {
+          "value": "2026-06-19T11:51:26.082Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869886082.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "07:50 @28:-@-           Bt = Til SP\n© @weiweiwei| Universe Feder     a\nweiweiwei\n@weiweiwei@dc.hhhl.cc\n此用户尚无自我介绍\n\nfl 注册于 2026/6/9 00:18:59 (1 周前)\n6                 4                 0\n帖子               关注中              关注者\n四 文件                                Vv\nbw 活动                            oe    Vv\nPinned           帖子            全部            附件\n          weiweiwei                                             2 分前\n@weiweiwei\n发现个 0.05倍率的 gtp pro\ndeepseek-v4-pro 免费调用\niifps://axiomcode.devy/login?ref=jrbU 器\n=            向            全            g\n@\n《           >          O          ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d079c0c6224694de-00135",
+    "sequence": 135,
+    "createdAt": "2026-06-15T17:04:00.000Z",
+    "timestampMs": 1781543040000,
+    "date": "2026-06-15",
+    "time": "17:04:00",
+    "text": "[截图证据补录]\n来源用户：妖精\n时间来源：ocr-partial\n原消息文本：@AYANE225 老婆老婆，左下角三条杠-设置-个人资料-高级设置-喵喵喵？\nOCR：01:04 ASOBH AF Be © “hil D4 = 附加信息编辑 Y 最多可以在个人资料中以表格形式显示四条其他信息。 被关注时显示的消息 可以设置被关注时向对方显示的短消息。 需要批准才能关注的情况下，消息是在请求被批准后显示。 接受表情回应 全部 Vv 高级设置 个 @ 嘲!!!!II1I1I1111 Oa UO? ? @ Speak as a cat Your posts will get nyanified when in cat mode. If this isn't working, then please check that you dont have ‘Disable cat speak’ on under General/Note Display @ 这是一个机器人账号 如果此账户由程序控制，请启用此项。启用 = im) fal g @ 7 ) @ dc.hhhlcc @) 所 > + =",
+    "userId": "amkmewkf0f",
+    "userUuid": "ca1e6df6-fb49-6709-c286-53b233b3b4d0",
+    "user": {
+      "uuid": "ca1e6df6-fb49-6709-c286-53b233b3b4d0",
+      "id": "amkmewkf0f",
+      "username": "yaojin",
+      "name": "妖精",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F57c10618-49a8-43ca-949e-4297490e2825.jpg&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/3f3e14d91f5f892f-yaojin.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d079c0c6224694de",
+        "name": "f9b751b80f602809-Screenshot_2026-06-17-01-04-48-75_df198e73218682.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/f9b751b80f602809-Screenshot_2026-06-17-01-04-48-75_df198e73218682.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d079c0c6224694def003810e5b6400c9bc309d10ba1ea3e6033e60cd2a598c6e",
+      "filePath": "2026-06-16/images/f9b751b80f602809-Screenshot_2026-06-17-01-04-48-75_df198e73218682.webp",
+      "fileName": "f9b751b80f602809-Screenshot_2026-06-17-01-04-48-75_df198e73218682.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/f9b751b80f602809-Screenshot_2026-06-17-01-04-48-75_df198e73218682.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ankgl3poeg",
+      "sourceMessageCreatedAt": "2026-06-16T17:06:56.652Z",
+      "sourceUserName": "妖精",
+      "sourceText": "@AYANE225 老婆老婆，左下角三条杠-设置-个人资料-高级设置-喵喵喵？",
+      "observedAt": "2026-06-15T17:04:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:04:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:04"
+        },
+        {
+          "value": "2026-06-16T17:04:48.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-17-01-04-48"
+        },
+        {
+          "value": "2026-06-16T17:06:56.652Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T17:06:56.652Z"
+        },
+        {
+          "value": "2026-06-19T11:51:21.670Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869881670.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "01:04 ASOBH        AF Be © “hil D4\n= 附加信息编辑                               Y\n最多可以在个人资料中以表格形式显示四条其他信息。\n被关注时显示的消息\n可以设置被关注时向对方显示的短消息。\n需要批准才能关注的情况下，消息是在请求被批准后显示。\n接受表情回应\n全部                                              Vv\n高级设置                                         个\n@ 嘲!!!!II1I1I1111\nOa UO? ?\n@ Speak as a cat\nYour posts will get nyanified when in cat\nmode. If this isn't working, then please\ncheck that you dont have ‘Disable cat\nspeak’ on under General/Note Display\n@ 这是一个机器人账号\n如果此账户由程序控制，请启用此项。启用\n=             im)             fal             g\n@\n7 )               @ dc.hhhlcc                  @)\n所            > +         ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-345bf7cc2dfa78e0-00241",
+    "sequence": 241,
+    "createdAt": "2026-06-15T17:14:29.000Z",
+    "timestampMs": 1781543669000,
+    "date": "2026-06-15",
+    "time": "17:14:29",
+    "text": "[截图证据补录]\n来源用户：逗鲍\n时间来源：ocr\nOCR：23:45 ro eu eu > ze HOt KARA | Univer C @ 喜掀@社区公益节点 ve 加 聊天 Ree 心 屏蔽管理 ( 》 内部人基本都被他们消化了，我只能 (®) 把资源用来消化一下加入社区的新人 © 2026/6/16 01:14:14 j=Af] aaaaaaaa ©) 2026/6/16 01:14:29 F<) 我去试试速度 aaaaaaaa ©) 2026/6/16 01:14:40 四 一 aaaaaaaad ©) 2026/6/16 01:14:44 © 它的令牌我出了 © 2026/6/16 01:14:47 iB aif] 没有留意看具体是什么内容，好像是 (v 新加入的用不了开骂了 G 在此键入信息 © ZW — 向 fa g 《 > O =",
+    "userId": "an4pphigbh",
+    "userUuid": "c539c96a-7547-6364-96e2-fba98b7118a3",
+    "user": {
+      "uuid": "c539c96a-7547-6364-96e2-fba98b7118a3",
+      "id": "an4pphigbh",
+      "username": "beefjerky",
+      "name": "逗鲍",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Ff196d0d6-9518-4ec8-92bd-9086ec2a4830.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/705b253a86e684d1-beefjerky.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-345bf7cc2dfa78e0",
+        "name": "d3ae0c117f4043bd-Screenshot_20260618_234548.jpg.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-18/images/d3ae0c117f4043bd-Screenshot_20260618_234548.jpg.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "345bf7cc2dfa78e06d99f5b88be6f009b77ca5984ebd9c5a9f0edee483067984",
+      "filePath": "2026-06-18/images/d3ae0c117f4043bd-Screenshot_20260618_234548.jpg.webp",
+      "fileName": "d3ae0c117f4043bd-Screenshot_20260618_234548.jpg.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-18/images/d3ae0c117f4043bd-Screenshot_20260618_234548.jpg.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ann8nanczo",
+      "sourceMessageCreatedAt": "2026-06-18T15:48:00.552Z",
+      "sourceUserName": "逗鲍",
+      "sourceText": null,
+      "observedAt": "2026-06-15T17:14:29.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:14:14.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:14:14",
+          "ignored": true,
+          "reason": "context-date"
+        },
+        {
+          "value": "2026-06-15T17:14:29.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:14:29"
+        },
+        {
+          "value": "2026-06-15T17:14:40.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:14:40"
+        },
+        {
+          "value": "2026-06-15T17:14:44.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:14:44"
+        },
+        {
+          "value": "2026-06-15T17:14:47.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:14:47"
+        },
+        {
+          "value": "2026-06-17T17:14:14.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:14:14"
+        },
+        {
+          "value": "2026-06-17T17:14:29.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:14:29"
+        },
+        {
+          "value": "2026-06-17T17:14:40.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:14:40"
+        },
+        {
+          "value": "2026-06-17T17:14:44.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:14:44"
+        },
+        {
+          "value": "2026-06-17T17:14:47.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:14:47"
+        },
+        {
+          "value": "2026-06-18T15:45:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "23:45"
+        },
+        {
+          "value": "2026-06-18T15:45:48.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260618_234548"
+        },
+        {
+          "value": "2026-06-18T15:48:00.552Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-18T15:48:00.552Z"
+        },
+        {
+          "value": "2026-06-19T11:53:57.382Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781870037382.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "23:45                                         ro eu eu > ze\n  HOt KARA | Univer   C\n@ 喜掀@社区公益节点                  ve\n加 聊天 Ree 心 屏蔽管理 ( 》\n内部人基本都被他们消化了，我只能   (®)\n把资源用来消化一下加入社区的新人\n© 2026/6/16 01:14:14 j=Af]\naaaaaaaa ©) 2026/6/16 01:14:29\nF<)  我去试试速度\naaaaaaaa ©) 2026/6/16 01:14:40\n四 一\naaaaaaaad ©) 2026/6/16 01:14:44\n©  它的令牌我出了\n© 2026/6/16 01:14:47 iB aif]\n没有留意看具体是什么内容，好像是   (v\n新加入的用不了开骂了\nG 在此键入信息              © ZW\n—       向       fa       g\n《      >      O     ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-e424a08a66428343-00220",
+    "sequence": 220,
+    "createdAt": "2026-06-15T17:17:00.000Z",
+    "timestampMs": 1781543820000,
+    "date": "2026-06-15",
+    "time": "17:17:00",
+    "text": "[截图证据补录]\n来源用户：逗鲍\n时间来源：ocr\n原消息文本：所以我说的是大概\nOCR：23:45 ror 4 5 ie 97 5 oe HOt KARA | Univer C @ swotkana … 四 聊天 RRR 人心屏蔽管理 ( > © 2026/6/16 01:17:00 iB Sfl 二不好说 é aaaaaaaa ©) 2026/6/16 01:17:02 @- aaaaaaaa ©) 2026/6/16 01:17:10 © 我能联系站长 © 2026/6/16 01:17:17 j= ff 大概是有人用得慢就骂他 é B(BF © 2026/6/16 01:17:19 aa aT B(BF © 2026/6/16 01:17:30 G 在此键入信息 © WZ = A Q g 《 > O =",
+    "userId": "an4pphigbh",
+    "userUuid": "c539c96a-7547-6364-96e2-fba98b7118a3",
+    "user": {
+      "uuid": "c539c96a-7547-6364-96e2-fba98b7118a3",
+      "id": "an4pphigbh",
+      "username": "beefjerky",
+      "name": "逗鲍",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Ff196d0d6-9518-4ec8-92bd-9086ec2a4830.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/705b253a86e684d1-beefjerky.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-e424a08a66428343",
+        "name": "a306257fb5193fbc-Screenshot_20260618_234559.jpg.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-18/images/a306257fb5193fbc-Screenshot_20260618_234559.jpg.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "e424a08a66428343cf4fdb912736d418bb4ae82351a0ae3613687b778409fa46",
+      "filePath": "2026-06-18/images/a306257fb5193fbc-Screenshot_20260618_234559.jpg.webp",
+      "fileName": "a306257fb5193fbc-Screenshot_20260618_234559.jpg.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-18/images/a306257fb5193fbc-Screenshot_20260618_234559.jpg.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ann8o89qse",
+      "sourceMessageCreatedAt": "2026-06-18T15:48:44.126Z",
+      "sourceUserName": "逗鲍",
+      "sourceText": "所以我说的是大概",
+      "observedAt": "2026-06-15T17:17:00.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:17:00.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:00"
+        },
+        {
+          "value": "2026-06-15T17:17:02.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:02"
+        },
+        {
+          "value": "2026-06-15T17:17:10.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:10"
+        },
+        {
+          "value": "2026-06-15T17:17:17.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:17"
+        },
+        {
+          "value": "2026-06-15T17:17:19.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:19"
+        },
+        {
+          "value": "2026-06-15T17:17:30.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:17:30"
+        },
+        {
+          "value": "2026-06-17T17:17:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:00"
+        },
+        {
+          "value": "2026-06-17T17:17:02.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:02"
+        },
+        {
+          "value": "2026-06-17T17:17:10.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:10"
+        },
+        {
+          "value": "2026-06-17T17:17:17.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:17"
+        },
+        {
+          "value": "2026-06-17T17:17:19.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:19"
+        },
+        {
+          "value": "2026-06-17T17:17:30.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:17:30"
+        },
+        {
+          "value": "2026-06-18T15:45:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "23:45"
+        },
+        {
+          "value": "2026-06-18T15:45:59.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260618_234559"
+        },
+        {
+          "value": "2026-06-18T15:48:44.126Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-18T15:48:44.126Z"
+        },
+        {
+          "value": "2026-06-19T11:53:58.782Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781870038782.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "23:45                                 ror 4 5 ie 97 5 oe\n  HOt KARA | Univer   C\n@ swotkana                  …\n四 聊天 RRR 人心屏蔽管理 ( >\n© 2026/6/16 01:17:00 iB Sfl\n二不好说  é\naaaaaaaa ©) 2026/6/16 01:17:02\n@-\naaaaaaaa ©) 2026/6/16 01:17:10\n©  我能联系站长\n© 2026/6/16 01:17:17 j= ff\n大概是有人用得慢就骂他  é\nB(BF © 2026/6/16 01:17:19\naa  aT\nB(BF © 2026/6/16 01:17:30\nG 在此键入信息               © WZ\n=       A       Q       g\n《      >      O      ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-0f9df96d3ba816d8-00136",
+    "sequence": 136,
+    "createdAt": "2026-06-15T17:31:29.000Z",
+    "timestampMs": 1781544689000,
+    "date": "2026-06-15",
+    "time": "17:31:29",
+    "text": "[截图证据补录]\n来源用户：wawavd13\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 01:31:29",
+    "userId": "an2fxjn19f",
+    "userUuid": "24bb6f95-375c-77ad-9fe4-645548d41f2c",
+    "user": {
+      "uuid": "24bb6f95-375c-77ad-9fe4-645548d41f2c",
+      "id": "an2fxjn19f",
+      "username": "wawavd13",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F5f0b4bce-b960-4f5b-93b5-616c7fa4405b.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/2663e852258f906e-wawavd13.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-0f9df96d3ba816d8",
+        "name": "fda928e6b5404f9b-IMG_4441.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/fda928e6b5404f9b-IMG_4441.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "0f9df96d3ba816d8cd3a0d93a80a5c7614cd9a8821fb530e33107bf9b0e236d8",
+      "filePath": "2026-06-16/images/fda928e6b5404f9b-IMG_4441.webp",
+      "fileName": "fda928e6b5404f9b-IMG_4441.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/fda928e6b5404f9b-IMG_4441.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ankn3ivpc0",
+      "sourceMessageCreatedAt": "2026-06-16T20:09:13.813Z",
+      "sourceUserName": "wawavd13",
+      "sourceText": null,
+      "observedAt": "2026-06-15T17:31:29.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:31:29.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 01:31:29"
+        },
+        {
+          "value": "2026-06-15T17:31:29.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:31:29"
+        },
+        {
+          "value": "2026-06-16T20:09:13.813Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T20:09:13.813Z"
+        },
+        {
+          "value": "2026-06-19T11:51:25.146Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869885146.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/16 01:31:29"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-6986566b944588bd-00069",
+    "sequence": 69,
+    "createdAt": "2026-06-15T17:35:02.851Z",
+    "timestampMs": 1781544902851,
+    "date": "2026-06-15",
+    "time": "17:35:02",
+    "text": "[截图证据补录]\n来源用户：猪\n时间来源：source-message\n原消息文本：人机验证功能测试正常了 现在被标记的会直接做人机验证\nOCR：0118 S¢ Mw es SWWABE f@ 2% apiglmOtop/hhh + : 安全验证 当前账号需要完成人机验证后才能继续访问 控制台。 重新验证 ND",
+    "userId": "an2ikjpa8r",
+    "userUuid": "54cd160c-b54e-172b-32a5-f7f549c1779c",
+    "user": {
+      "uuid": "54cd160c-b54e-172b-32a5-f7f549c1779c",
+      "id": "an2ikjpa8r",
+      "username": "AAAA",
+      "name": "猪",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F33af0d4d-3b59-4a4e-bf0e-381c7ac18519.webp&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/afcbf623e16073ff-AAAA.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-6986566b944588bd",
+        "name": "1fdd6a960f4e689c-Screenshot_2026-06-16-01-18-14-25_40deb401b9ffe8.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/1fdd6a960f4e689c-Screenshot_2026-06-16-01-18-14-25_40deb401b9ffe8.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "6986566b944588bd26d6c25d4e1cecdf23c56d128520ce1f73c6d698b9cd9dc2",
+      "filePath": "2026-06-15/images/1fdd6a960f4e689c-Screenshot_2026-06-16-01-18-14-25_40deb401b9ffe8.webp",
+      "fileName": "1fdd6a960f4e689c-Screenshot_2026-06-16-01-18-14-25_40deb401b9ffe8.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-15/images/1fdd6a960f4e689c-Screenshot_2026-06-16-01-18-14-25_40deb401b9ffe8.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anj25e4jc7",
+      "sourceMessageCreatedAt": "2026-06-15T17:35:02.851Z",
+      "sourceUserName": "猪",
+      "sourceText": "人机验证功能测试正常了 现在被标记的会直接做人机验证",
+      "observedAt": "2026-06-15T17:35:02.851Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:18:14.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-01-18-14"
+        },
+        {
+          "value": "2026-06-15T17:35:02.851Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-15T17:35:02.851Z"
+        },
+        {
+          "value": "2026-06-19T11:50:47.366Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869847366.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "0118 S¢ Mw es      SWWABE\nf@ 2% apiglmOtop/hhh +      :\n安全验证\n当前账号需要完成人机验证后才能继续访问\n控制台。\n重新验证\nND"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-8ac9a016968765d1-00093",
+    "sequence": 93,
+    "createdAt": "2026-06-15T17:51:37.000Z",
+    "timestampMs": 1781545897000,
+    "date": "2026-06-15",
+    "time": "17:51:37",
+    "text": "[截图证据补录]\n来源用户：yaohuo8648\n时间来源：ocr-partial\n原消息文本：any可以蹬\nOCR：FA |本 账号 @ G Codex API HRS v @ san P BPH Key Ph 账号池 加 模型与能力 人 统计与日志 A Codex API服务 “运行吊，API服务-新 人 Ri计 | 日 Rt = v j ) : 大小 总请求数 图片请求 总Token 数 估算价值 平均延迟 91 0 5.1M $1.01 | 36.24s 成功 65 / 失败 26 / 取消 0 / 上游 | ERE 0 / Se85 0 1权限0 输入 51M / 输出 39.2K 按当前请求价格快照票计 | 成功率 71? BRAS 。 按账号统计 按模型统计 按 Key 统计 日 & 月 模型 SS API A 类型 状态 模式 错误 21D 邮箱或账号ID 名称或ID 全部类型 ”YY 全部状态 全部模式 由 错误分类 SRE 8 gpt-5.5 成功 API 服务-新) 06/17 01:54:41 文本 Default api-key-cbd3d44e 20.93s 49.9K Tokens $0.007262 请求ID 644628cf HTTP 200 gpt-5.5 成功 API 服务-新) 06/17 01:54:20 文本 Default api-key-cbd3d44e 20.06s 49.1K Tokens $0.006738 请求ID 50906b5c HTTP 200 gpt-5.5 成功 API 服务-新) 06/17 01:53:59 文本 Default api-key-cbd3d44e 67.98s 48.6K Tokens $0.009922 请求ID 271af439 HTTP 200 gpt-5.5 成功 Pi服务-新) 06/17 01:52:51 文本 Default api-key-cbd3d44e 14.95s 45.9K Tokens $0.005702 请求ID 95ffaad4 HTTP 200 gpt-5.5 成功 ‘API MRSS-$8) 06/17 01:52:36 文本 Default api-key-cbd3d44e 1915s 44.6K Tokens $0.006113 请求ID 4707b93d HTTP 200 gpt-5.5 成功 AP服务-新) 06/T7 01:52:17 文本 Default api-key-cbd3d44e 40.36s 44K Tokens $0.008460 请求ID f2f2ae78 HTTP 200 3) gpt-5.5 成功 APIi 服务-新) 06/17 01:51:37 文本 Default api-key-cbd3d44e 38.56s 42.9K Tokens $0.006611 i ID c4d288ac HTTP 200",
+    "userId": "anai21h2fh",
+    "userUuid": "8b06eac5-ffd0-aa16-580d-611267fb30ad",
+    "user": {
+      "uuid": "8b06eac5-ffd0-aa16-580d-611267fb30ad",
+      "id": "anai21h2fh",
+      "username": "yaohuo8648",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/yaohuo8648@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/a3ac4c0fb7020168-yaohuo8648.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-8ac9a016968765d1",
+        "name": "3f52cea768f9fcb2-IMG_0625.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/3f52cea768f9fcb2-IMG_0625.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "8ac9a016968765d19299f4f1bfbf4ee35addc15c19fedf2ee6cba95a20a0f906",
+      "filePath": "2026-06-16/images/3f52cea768f9fcb2-IMG_0625.webp",
+      "fileName": "3f52cea768f9fcb2-IMG_0625.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/3f52cea768f9fcb2-IMG_0625.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ankibuxk71",
+      "sourceMessageCreatedAt": "2026-06-16T17:55:44.600Z",
+      "sourceUserName": "yaohuo8648",
+      "sourceText": "any可以蹬",
+      "observedAt": "2026-06-15T17:51:37.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T17:51:37.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:51:37"
+        },
+        {
+          "value": "2026-06-15T17:52:17.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:52:17"
+        },
+        {
+          "value": "2026-06-15T17:52:36.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:52:36"
+        },
+        {
+          "value": "2026-06-15T17:52:51.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:52:51"
+        },
+        {
+          "value": "2026-06-15T17:53:59.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:53:59"
+        },
+        {
+          "value": "2026-06-15T17:54:20.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:54:20"
+        },
+        {
+          "value": "2026-06-15T17:54:41.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "01:54:41"
+        },
+        {
+          "value": "2026-06-16T17:55:44.600Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T17:55:44.600Z"
+        },
+        {
+          "value": "2026-06-19T11:51:22.454Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869882454.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "FA\n|本\n账号 @\nG Codex API HRS v           @ san     P BPH Key     Ph 账号池     加 模型与能力     人 统计与日志                                     A\n Codex API服务 “运行吊，API服务-新                             人                              Ri计 | 日 Rt         =\nv\nj                                                                                                  )     :                         大小\n总请求数                                              图片请求                                              总Token 数                                          估算价值                                              平均延迟\n91                   0                      5.1M                  $1.01                 | 36.24s\n成功 65 / 失败 26 / 取消 0 / 上游    | ERE 0 / Se85 0 1权限0          输入 51M / 输出 39.2K          按当前请求价格快照票计        | 成功率 71?\nBRAS 。 按账号统计 按模型统计 按 Key 统计                                                             日 & 月\n       模型             SS             API A           类型             状态             模式             错误\n21D                        邮箱或账号ID                名称或ID                      全部类型 ”YY           全部状态           全部模式       由         错误分类                      SRE\n8\ngpt-5.5         成功          API 服务-新) 06/17 01:54:41 文本 Default api-key-cbd3d44e 20.93s 49.9K Tokens $0.007262 请求ID 644628cf HTTP 200\n        gpt-5.5         成功          API 服务-新) 06/17 01:54:20 文本 Default api-key-cbd3d44e 20.06s 49.1K Tokens $0.006738 请求ID 50906b5c HTTP 200\ngpt-5.5         成功          API 服务-新) 06/17 01:53:59 文本 Default api-key-cbd3d44e 67.98s 48.6K Tokens $0.009922 请求ID 271af439 HTTP 200\ngpt-5.5         成功          Pi服务-新) 06/17 01:52:51 文本 Default api-key-cbd3d44e 14.95s 45.9K Tokens $0.005702 请求ID 95ffaad4 HTTP 200\ngpt-5.5         成功          ‘API MRSS-$8) 06/17 01:52:36 文本 Default api-key-cbd3d44e 1915s 44.6K Tokens $0.006113 请求ID 4707b93d HTTP 200\ngpt-5.5         成功          AP服务-新) 06/T7 01:52:17 文本 Default api-key-cbd3d44e 40.36s 44K Tokens $0.008460 请求ID f2f2ae78 HTTP 200\n3)        gpt-5.5         成功          APIi 服务-新) 06/17 01:51:37 文本 Default api-key-cbd3d44e 38.56s 42.9K Tokens $0.006611 i ID c4d288ac HTTP 200"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-db38164886f21973-00113",
+    "sequence": 113,
+    "createdAt": "2026-06-15T18:16:00.000Z",
+    "timestampMs": 1781547360000,
+    "date": "2026-06-15",
+    "time": "18:16:00",
+    "text": "[截图证据补录]\n来源用户：qihang\n时间来源：ocr-partial\n原消息文本：虽然丑了点，但是最起码能用了\nOCR：2:16 回 … core Tl Sell CD 用户名 邮箱 殴取验证到 重复密码 ptm 已有账号直接登录 会| C2 注册用户vvblack - Pow... 89 = — O 《",
+    "userId": "angyq9u3xq",
+    "userUuid": "15b339ef-0cd9-42b9-d4e3-db9f44e5d6b2",
+    "user": {
+      "uuid": "15b339ef-0cd9-42b9-d4e3-db9f44e5d6b2",
+      "id": "angyq9u3xq",
+      "username": "qihang",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F95feb610-00de-4236-8d58-2347e775a2eb.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/3b04c2a141170853-qihang.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-db38164886f21973",
+        "name": "88bc83adc6e617f3-Screenshot_2026-06-17-02-16-05-508_com.quark.bro.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/88bc83adc6e617f3-Screenshot_2026-06-17-02-16-05-508_com.quark.bro.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "db38164886f21973f7127e0ba9e84372f895cf8fdc383e812c37fd76c1f32f28",
+      "filePath": "2026-06-16/images/88bc83adc6e617f3-Screenshot_2026-06-17-02-16-05-508_com.quark.bro.webp",
+      "fileName": "88bc83adc6e617f3-Screenshot_2026-06-17-02-16-05-508_com.quark.bro.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-16/images/88bc83adc6e617f3-Screenshot_2026-06-17-02-16-05-508_com.quark.bro.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ankj2rbhrj",
+      "sourceMessageCreatedAt": "2026-06-16T18:16:39.629Z",
+      "sourceUserName": "qihang",
+      "sourceText": "虽然丑了点，但是最起码能用了",
+      "observedAt": "2026-06-15T18:16:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T18:16:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "2:16"
+        },
+        {
+          "value": "2026-06-16T18:16:05.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-17-02-16-05"
+        },
+        {
+          "value": "2026-06-16T18:16:39.629Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-16T18:16:39.629Z"
+        },
+        {
+          "value": "2026-06-19T11:51:23.602Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869883602.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "2:16 回 …                          core Tl Sell CD\n用户名\n邮箱\n殴取验证到\n重复密码\nptm\n已有账号直接登录\n\n会|   C2      注册用户vvblack - Pow...      89   =\n\n—           O           《"
+    }
+  }
+]

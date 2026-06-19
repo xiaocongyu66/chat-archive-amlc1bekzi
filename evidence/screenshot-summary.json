@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-06-19T13:39:30.307Z",
+  "roomId": "amlc1bekzi",
+  "total": 264,
+  "uniqueImages": 256,
+  "duplicates": 8,
+  "ocrAvailable": true,
+  "highConfidenceTimes": 121,
+  "mediumConfidenceTimes": 78,
+  "lowConfidenceTimes": 65
+}

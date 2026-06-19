@@ -1,0 +1,1382 @@
+[
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-bf255014b0c6cc7f-00254",
+    "sequence": 254,
+    "createdAt": "2026-06-12T02:56:11.000Z",
+    "timestampMs": 1781232971000,
+    "date": "2026-06-12",
+    "time": "02:56:11",
+    "text": "[截图证据补录]\n来源用户：哥伦比娅·希珀塞莱尼娅\n时间来源：ocr\n原消息文本：通过机器人导出所有聊天记录，目前正在准备蒸馏刀哥\nOCR：@〇，总部 - 聊天记录 C . 2Z2zzzzz @zzzzzzz 2026/6/12 10:56:11 ? (»,| Deep Sleep @ziyan 2026/6/12 10:56:12 ? ry 元宝 @wadmin 2026/6/12 10:56:12 ? Ss yannnicksong0106 @yannnicksong0106 2026/6/12 may 10:56:12 ? (p , suyu @suyu 2026/6/12 10:56:14 ? lp, , Deep Sleep @ziyan 2026/6/12 10:56:14 老大 we 111 @3071143220 2026/6/12 10:56:15 ? ma ZZZZZZZZ_@zzzzzzz 2026/6 /12 10:56:16 直接清空了? 《 > O =",
+    "userId": "ano38j98v4",
+    "userUuid": "26450b96-db3e-81b8-2991-ed495e20a730",
+    "user": {
+      "uuid": "26450b96-db3e-81b8-2991-ed495e20a730",
+      "id": "ano38j98v4",
+      "username": "ColumbinaHyposelenia",
+      "name": "哥伦比娅·希珀塞莱尼娅",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F3d144e6d-0756-4f86-aae1-1cb119a4fe72.webp&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/350ac299fb77697c-ColumbinaHyposelenia.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-bf255014b0c6cc7f",
+        "name": "32933056705a0379-Screenshot_2026-06-19-19-58-50-80_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-19/images/32933056705a0379-Screenshot_2026-06-19-19-58-50-80_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "bf255014b0c6cc7f81b05a4718391eada5bb550ccb80fae3ad476c85aa6a7e84",
+      "filePath": "2026-06-19/images/32933056705a0379-Screenshot_2026-06-19-19-58-50-80_a252b927494330.webp",
+      "fileName": "32933056705a0379-Screenshot_2026-06-19-19-58-50-80_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-19/images/32933056705a0379-Screenshot_2026-06-19-19-58-50-80_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anofz8oid0",
+      "sourceMessageCreatedAt": "2026-06-19T12:01:01.362Z",
+      "sourceUserName": "哥伦比娅·希珀塞莱尼娅",
+      "sourceText": "通过机器人导出所有聊天记录，目前正在准备蒸馏刀哥",
+      "observedAt": "2026-06-12T02:56:11.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T02:56:11.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/12 10:56:11"
+        },
+        {
+          "value": "2026-06-12T02:56:12.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/12 10:56:12"
+        },
+        {
+          "value": "2026-06-12T02:56:14.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/12 10:56:14"
+        },
+        {
+          "value": "2026-06-12T02:56:15.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/12 10:56:15"
+        },
+        {
+          "value": "2026-06-19T02:56:11.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "10:56:11"
+        },
+        {
+          "value": "2026-06-19T02:56:12.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "10:56:12"
+        },
+        {
+          "value": "2026-06-19T02:56:14.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "10:56:14"
+        },
+        {
+          "value": "2026-06-19T02:56:15.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "10:56:15"
+        },
+        {
+          "value": "2026-06-19T02:56:16.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "10:56:16"
+        },
+        {
+          "value": "2026-06-19T11:58:50.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-19-19-58-50"
+        },
+        {
+          "value": "2026-06-19T12:01:01.362Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-19T12:01:01.362Z"
+        },
+        {
+          "value": "2026-06-19T12:21:01.130Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781871661130.866"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "@〇，总部 - 聊天记录                       C\n.    2Z2zzzzz @zzzzzzz 2026/6/12 10:56:11\n?\n(»,| Deep Sleep @ziyan 2026/6/12 10:56:12\n?\nry   元宝 @wadmin 2026/6/12 10:56:12\n?\nSs   yannnicksong0106 @yannnicksong0106 2026/6/12\nmay 10:56:12\n?\n(p , suyu @suyu 2026/6/12 10:56:14\n?\nlp, , Deep Sleep @ziyan 2026/6/12 10:56:14\n老大\nwe   111 @3071143220 2026/6/12 10:56:15\n?\nma    ZZZZZZZZ_@zzzzzzz 2026/6 /12 10:56:16\n直接清空了?\n《         >        O        ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-286511f325ca6109-00005",
+    "sequence": 5,
+    "createdAt": "2026-06-12T04:00:33.332Z",
+    "timestampMs": 1781236833332,
+    "date": "2026-06-12",
+    "time": "04:00:33",
+    "text": "[截图证据补录]\n来源用户：jiujiuai\n时间来源：source-message\n原消息文本：这两大模型是不是很老了，之前白嫖的一个公益站的，现在就剩这两可以用了，还有3000多的余额\nOCR：未识别或未运行",
+    "userId": "amq91yf5ov",
+    "userUuid": "166136ad-d4e5-96a3-8e80-a40cdbc48380",
+    "user": {
+      "uuid": "166136ad-d4e5-96a3-8e80-a40cdbc48380",
+      "id": "amq91yf5ov",
+      "username": "jiujiuai",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fc8706c88-d07d-4074-98db-f0a5810f63ff.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/4ecbf37b390411ed-jiujiuai.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-286511f325ca6109",
+        "name": "6f27be5e59bfd6f2-2026-06-12_12-00-04_1.png.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/6f27be5e59bfd6f2-2026-06-12_12-00-04_1.png.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "286511f325ca6109697b58de1d6cae91312bd73e92d18d9599fe951befabe615",
+      "filePath": "2026-06-12/images/6f27be5e59bfd6f2-2026-06-12_12-00-04_1.png.webp",
+      "fileName": "6f27be5e59bfd6f2-2026-06-12_12-00-04_1.png.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/6f27be5e59bfd6f2-2026-06-12_12-00-04_1.png.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "andyqe5wtp",
+      "sourceMessageCreatedAt": "2026-06-12T04:00:33.332Z",
+      "sourceUserName": "jiujiuai",
+      "sourceText": "这两大模型是不是很老了，之前白嫖的一个公益站的，现在就剩这两可以用了，还有3000多的余额",
+      "observedAt": "2026-06-12T04:00:33.332Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T04:00:04.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-12_12-00-04"
+        },
+        {
+          "value": "2026-06-12T04:00:33.332Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T04:00:33.332Z"
+        },
+        {
+          "value": "2026-06-19T11:47:24.030Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869644030.8657"
+        }
+      ],
+      "ocrStatus": "not-run",
+      "ocrText": ""
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d0c297d3865d1c2c-00002",
+    "sequence": 2,
+    "createdAt": "2026-06-12T04:19:00.000Z",
+    "timestampMs": 1781237940000,
+    "date": "2026-06-12",
+    "time": "04:19:00",
+    "text": "[截图证据补录]\n来源用户：闭关中\n时间来源：ocr-partial\nOCR：半夜12:19A 回 e … 2.4K/s all Sell 念 CD， _ i e OQ 2s aihhhlcc/paneV#/tr + @ : RD Aro ane aes 流控 Bia oes 前活跃连接 已拉黑IP 单Key BR A 本 140 0 46 p | 未开启 | 10/83/0 i 全局默认限吉 HS Key 生效; 单 Key MAREE Key MERCH 人证文件 记录活跃连接画像 (关闭后仅保留限流，不再维护连接看板) RPM TPM 最大并发 0 0 0 mie 单请求图片上限 拒绝后冷却秒数 命中动作 群同 0 0 弹出提示 ‘ 限流提示信息 现在一分钟30次，冷却30秒，只能一个会话窗口 图片超限提示信息 服务器处理不了那么多图片,只能放3张 Claude Code 关键词 Codex 关键词 claude-cli codex_cli_rs，codex OpenClow 关键词 openclow, openclaw BS Key *i40 FSP MS OMI Key 时需要等待; 用于防止多 Key 轮询绕过单 Key 限和 启用阵 Key 切换冷却 冷却秒数 身份识别模式 300 组合指纹 (推荐) v 切换冷却提示信息 检测到频繁切换 Key，请稍后再斌 未检测到 Cloudflare JA 指纹头; 可在 Cloudflare Managed Transform 启用 Add JA3/JA4 headers，未启用时会降级为 IP 前缀 + User-Agent. 为避免流控页加载全量客户端 Key，单 Key 覆盖的查 = O <",
+    "userId": "amk1v51gkh1u0001",
+    "userUuid": "a8f32f0f-d4df-d78f-6478-b92b46cab39d",
+    "user": {
+      "uuid": "a8f32f0f-d4df-d78f-6478-b92b46cab39d",
+      "id": "amk1v51gkh1u0001",
+      "username": "ls",
+      "name": "闭关中",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/ls@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/a3cd9132d01e8cfb-ls.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d0c297d3865d1c2c",
+        "name": "5af523dff5c76927-Screenshot_2026-06-13-00-19-30-878_com.android.c.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5af523dff5c76927-Screenshot_2026-06-13-00-19-30-878_com.android.c.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d0c297d3865d1c2c110c3e82d3c73a8464bee44e712c7272ddbec1d61bdcad0f",
+      "filePath": "2026-06-12/images/5af523dff5c76927-Screenshot_2026-06-13-00-19-30-878_com.android.c.webp",
+      "fileName": "5af523dff5c76927-Screenshot_2026-06-13-00-19-30-878_com.android.c.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5af523dff5c76927-Screenshot_2026-06-13-00-19-30-878_com.android.c.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anep59zy0b",
+      "sourceMessageCreatedAt": "2026-06-12T16:19:57.790Z",
+      "sourceUserName": "闭关中",
+      "sourceText": null,
+      "observedAt": "2026-06-12T04:19:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T04:19:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "夜12:19A"
+        },
+        {
+          "value": "2026-06-12T16:19:30.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-00-19-30"
+        },
+        {
+          "value": "2026-06-12T16:19:57.790Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T16:19:57.790Z"
+        },
+        {
+          "value": "2026-06-19T11:48:05.342Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869685342.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "半夜12:19A 回 e …         2.4K/s all Sell 念 CD，\n_   i                                                   e\nOQ 2s aihhhlcc/paneV#/tr + @ :\nRD Aro            ane aes\n流控                                              Bia\noes           前活跃连接         已拉黑IP          单Key BR\nA 本               140               0                 46\np           | 未开启         | 10/83/0\ni           全局默认限吉           HS Key 生效; 单 Key MAREE Key MERCH\n人证文件 记录活跃连接画像 (关闭后仅保留限流，不再维护连接看板)\nRPM             TPM             最大并发\n0                0                0\nmie               单请求图片上限     拒绝后冷却秒数     命中动作\n群同                   0                     0                      弹出提示             ‘\n限流提示信息\n现在一分钟30次，冷却30秒，只能一个会话窗口\n图片超限提示信息\n服务器处理不了那么多图片,只能放3张\nClaude Code 关键词             Codex 关键词\nclaude-cli                       codex_cli_rs，codex\nOpenClow 关键词\nopenclow, openclaw\nBS Key *i40      FSP MS OMI Key 时需要等待; 用于防止多 Key 轮询绕过单 Key 限和\n启用阵 Key 切换冷却\n冷却秒数                   身份识别模式\n300                               组合指纹 (推荐)                   v\n切换冷却提示信息\n检测到频繁切换 Key，请稍后再斌\n未检测到 Cloudflare JA 指纹头; 可在 Cloudflare Managed\nTransform 启用 Add JA3/JA4 headers，未启用时会降级为 IP\n前缀 + User-Agent.\n为避免流控页加载全量客户端 Key，单 Key 覆盖的查\n=               O               <"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-ecdda0c5f7ca7823-00001",
+    "sequence": 1,
+    "createdAt": "2026-06-12T07:12:10.792Z",
+    "timestampMs": 1781248330792,
+    "date": "2026-06-12",
+    "time": "07:12:10",
+    "text": "[截图证据补录]\n来源用户：Nryana\n时间来源：source-message\n原消息文本：这提示\nOCR：° HE OQ == e bp ewe @o © 40 输入法 快捷键 电脑键盘 © ? Caps Lock Ctrl+C 编辑 大小写锁定 复制 Ctrl+V Ctrl+X Ctrl+A 粘贴 By) 全选 Ctrl+Z Ctrl+S Win 撤销 保存 开始 Win+D Win+Tab Win+L 显示桌面 切换窗口 锁屏",
+    "userId": "amko3w2v8p",
+    "userUuid": "1657d954-9b94-f8d2-ffd1-ae8b51e66432",
+    "user": {
+      "uuid": "1657d954-9b94-f8d2-ffd1-ae8b51e66432",
+      "id": "amko3w2v8p",
+      "username": "nryana",
+      "name": "Nryana",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F60ce3dcd-8a74-4910-ae03-1e9360592454.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/c92aaae704c359e0-nryana.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-ecdda0c5f7ca7823",
+        "name": "5af20eb75d529fae-IMG_0429.png",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5af20eb75d529fae-IMG_0429.png",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "ecdda0c5f7ca782300e448449459f587648acd4b5eb8c2508b8e3e97cce6f644",
+      "filePath": "2026-06-12/images/5af20eb75d529fae-IMG_0429.png",
+      "fileName": "5af20eb75d529fae-IMG_0429.png",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5af20eb75d529fae-IMG_0429.png",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ane5ktnsw6",
+      "sourceMessageCreatedAt": "2026-06-12T07:12:10.792Z",
+      "sourceUserName": "Nryana",
+      "sourceText": "这提示",
+      "observedAt": "2026-06-12T07:12:10.792Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T07:12:10.792Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T07:12:10.792Z"
+        },
+        {
+          "value": "2026-06-19T11:47:34.634Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869654634.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "°\nHE OQ ==    e bp ewe @o   ©   40\n输入法      快捷键       电脑键盘 ©\n?               Caps Lock            Ctrl+C\n编辑         大小写锁定         复制\nCtrl+V          Ctrl+X          Ctrl+A\n粘贴            By)            全选\nCtrl+Z          Ctrl+S           Win\n撤销            保存            开始\nWin+D         Win+Tab         Win+L\n显示桌面        切换窗口          锁屏"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-fbd439d2f28b7407-00008",
+    "sequence": 8,
+    "createdAt": "2026-06-12T08:24:02.900Z",
+    "timestampMs": 1781252642900,
+    "date": "2026-06-12",
+    "time": "08:24:02",
+    "text": "[截图证据补录]\n来源用户：猪\n时间来源：source-message\n原消息文本：接不到公益站倒卖狗急跳墙了😂\nOCR：二。 Chtholly 嘲~ 各 ~ 。 条 Chtholly 噶~ Chtholly lé~ CS ) @2SE 〈低价gpt签名) @AKA.富贵 @黎泽坦 Aionflux . Chtholly lé~ 管理都死了吗- » — LAr, Chtholly 吐~ WA) \\ >< 又是Is的部将吗- » = Se), Chtholly 嘲~ 你们不怕电脑中毒的就去用吧 - Is: a Chtholly 嘲~ Vs 中 tmd ls最近跟疯狗咬人一样友动 别人爆群 - as a Chtholly 嘲~ A: . ARMA TIIE . SS 一 Se Chtholly 嘲~ 我有ls投毒的证扼- a —",
+    "userId": "an2ikjpa8r",
+    "userUuid": "54cd160c-b54e-172b-32a5-f7f549c1779c",
+    "user": {
+      "uuid": "54cd160c-b54e-172b-32a5-f7f549c1779c",
+      "id": "an2ikjpa8r",
+      "username": "AAAA",
+      "name": "猪",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F33af0d4d-3b59-4a4e-bf0e-381c7ac18519.webp&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/afcbf623e16073ff-AAAA.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-fbd439d2f28b7407",
+        "name": "a3ea773e4483fb07-Screenshot_2026-06-12-16-23-14-08_9d26c6446fd7bb.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/a3ea773e4483fb07-Screenshot_2026-06-12-16-23-14-08_9d26c6446fd7bb.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "fbd439d2f28b74077711d7e260768919bebaf06412a3181fbfe318ae210c7424",
+      "filePath": "2026-06-12/images/a3ea773e4483fb07-Screenshot_2026-06-12-16-23-14-08_9d26c6446fd7bb.webp",
+      "fileName": "a3ea773e4483fb07-Screenshot_2026-06-12-16-23-14-08_9d26c6446fd7bb.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/a3ea773e4483fb07-Screenshot_2026-06-12-16-23-14-08_9d26c6446fd7bb.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "ane858wkt0",
+      "sourceMessageCreatedAt": "2026-06-12T08:24:02.900Z",
+      "sourceUserName": "猪",
+      "sourceText": "接不到公益站倒卖狗急跳墙了😂",
+      "observedAt": "2026-06-12T08:24:02.900Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T08:23:14.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-12-16-23-14"
+        },
+        {
+          "value": "2026-06-12T08:24:02.900Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T08:24:02.900Z"
+        },
+        {
+          "value": "2026-06-19T11:47:34.578Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869654578.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "二。 Chtholly 嘲~\n各\n~    。\n条 Chtholly 噶~\nChtholly lé~\n                        CS\n) @2SE 〈低价gpt签名)\n@AKA.富贵 @黎泽坦 Aionflux .\nChtholly lé~\n管理都死了吗-\n»          —\nLAr, Chtholly 吐~\nWA)            \\ ><\n又是Is的部将吗-\n»           =\nSe), Chtholly 嘲~\n你们不怕电脑中毒的就去用吧 -\nIs:\na Chtholly 嘲~\nVs\n中 tmd ls最近跟疯狗咬人一样友动\n别人爆群                -\nas\na Chtholly 嘲~\nA:\n. ARMA TIIE .\nSS             一\nSe Chtholly 嘲~\n我有ls投毒的证扼-\na             —"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-ac903c62cebe1079-00010",
+    "sequence": 10,
+    "createdAt": "2026-06-12T11:04:14.049Z",
+    "timestampMs": 1781262254049,
+    "date": "2026-06-12",
+    "time": "11:04:14",
+    "text": "[截图证据补录]\n来源用户：fsrm\n时间来源：source-message\nOCR：<¢ 。”模型与参数配置 Key ,LOU ITIvdllG_dapi_Key ININILLYPSE .auULI了 &. cy ty? API设置 API提供商 其他供应 v 点击选择API提供商 Hee API端点 例如: https://api.openai.com/v1/chat/completions https://ai2.hhhi.cc/ 实际请求地址: https://ai2.hhhl.cc/v1chat/completions 提示: 如果您输入的是基础URL，系统将自动补全路径。如 需禁用，请在URL末尾添加#号。 APl密钥 输入API密角 sk-free| 模型名称 例如: gpt-4, claude-5-opus-20240229...(可用去 号分隔多个模型) claude-opus-4-6,gpt-5.5 =",
+    "userId": "ammd1x5me7",
+    "userUuid": "20a8e541-2c21-7e5e-bdb4-a2b9174f393d",
+    "user": {
+      "uuid": "20a8e541-2c21-7e5e-bdb4-a2b9174f393d",
+      "id": "ammd1x5me7",
+      "username": "fsrm",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/fsrm@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e4bdc8554b30e10c-fsrm.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-ac903c62cebe1079",
+        "name": "e81038af20c64c7b-Screenshot_2026-06-12-19-03-59-52_79af5203a15a06.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/e81038af20c64c7b-Screenshot_2026-06-12-19-03-59-52_79af5203a15a06.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "ac903c62cebe1079547c46678054eff654c431da550bf2c4e7662ceb3d187887",
+      "filePath": "2026-06-12/images/e81038af20c64c7b-Screenshot_2026-06-12-19-03-59-52_79af5203a15a06.webp",
+      "fileName": "e81038af20c64c7b-Screenshot_2026-06-12-19-03-59-52_79af5203a15a06.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/e81038af20c64c7b-Screenshot_2026-06-12-19-03-59-52_79af5203a15a06.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anedv8wxu8",
+      "sourceMessageCreatedAt": "2026-06-12T11:04:14.049Z",
+      "sourceUserName": "fsrm",
+      "sourceText": null,
+      "observedAt": "2026-06-12T11:04:14.049Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T11:03:59.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-12-19-03-59"
+        },
+        {
+          "value": "2026-06-12T11:04:14.049Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T11:04:14.049Z"
+        },
+        {
+          "value": "2026-06-19T11:47:49.770Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869669770.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "<¢ 。”模型与参数配置\nKey ,LOU ITIvdllG_dapi_Key ININILLYPSE .auULI了\n&.        cy\nty?  API设置\nAPI提供商\n其他供应 v\n点击选择API提供商             Hee\nAPI端点\n例如:\nhttps://api.openai.com/v1/chat/completions\nhttps://ai2.hhhi.cc/\n实际请求地址:\nhttps://ai2.hhhl.cc/v1chat/completions\n提示: 如果您输入的是基础URL，系统将自动补全路径。如\n需禁用，请在URL末尾添加#号。\nAPl密钥\n输入API密角\nsk-free|\n模型名称\n例如: gpt-4, claude-5-opus-20240229...(可用去\n号分隔多个模型)\nclaude-opus-4-6,gpt-5.5           ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-3ebf5cd5f825bf47-00007",
+    "sequence": 7,
+    "createdAt": "2026-06-12T14:40:00.000Z",
+    "timestampMs": 1781275200000,
+    "date": "2026-06-12",
+    "time": "14:40:00",
+    "text": "[截图证据补录]\n来源用户：古月方源\n时间来源：ocr-partial\n原消息文本：话说这个幸运成就有什么用\nOCR：22:40 回目同日台 wee all S See % © 成就| Universe F… | © & Gas 第一次关注别人 图 最初的关注者 2026/6/7 第一次被关注 休息一下! 2026/6/6 启动客户端超过 30 分钟 9 夜猫子 2026/6/5 深夜发布帖子 ERB IZA SIE. s, 超高校级的幸运 2026/6/12 10 #4 0.005% 的概率自动获得 wasn Beco; 2026/6/5 机 你合成出了游戏里最大的Emoji 三 向 fa g < Q = Q 0",
+    "userId": "an1vpxlhqq",
+    "userUuid": "035bf8d5-7755-b3d8-230f-e42b2873dd55",
+    "user": {
+      "uuid": "035bf8d5-7755-b3d8-230f-e42b2873dd55",
+      "id": "an1vpxlhqq",
+      "username": "guyue",
+      "name": "古月方源",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F374f9e45-dea5-421d-a5d6-20468a2c457d.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/7f0c2afb878d55fe-guyue.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-3ebf5cd5f825bf47",
+        "name": "a2b6b882f8614108-Screenshot_20260612_224043.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/a2b6b882f8614108-Screenshot_20260612_224043.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "3ebf5cd5f825bf47a21946a6994899af1e03087384d9a7c5b2957e9660e7e831",
+      "filePath": "2026-06-12/images/a2b6b882f8614108-Screenshot_20260612_224043.webp",
+      "fileName": "a2b6b882f8614108-Screenshot_20260612_224043.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/a2b6b882f8614108-Screenshot_20260612_224043.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anelmenzdy",
+      "sourceMessageCreatedAt": "2026-06-12T14:41:18.527Z",
+      "sourceUserName": "古月方源",
+      "sourceText": "话说这个幸运成就有什么用",
+      "observedAt": "2026-06-12T14:40:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T14:40:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "22:40"
+        },
+        {
+          "value": "2026-06-12T14:40:43.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260612_224043"
+        },
+        {
+          "value": "2026-06-12T14:41:18.527Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T14:41:18.527Z"
+        },
+        {
+          "value": "2026-06-19T11:47:59.678Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869679678.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "22:40 回目同日台        wee all S See %\n© 成就| Universe F… | © &\nGas 第一次关注别人\n图 最初的关注者     2026/6/7\n\n第一次被关注\n 休息一下!        2026/6/6\n启动客户端超过 30 分钟\n9 夜猫子         2026/6/5\n深夜发布帖子\nERB IZA SIE.\ns, 超高校级的幸运   2026/6/12\n 10 #4 0.005% 的概率自动获得\nwasn Beco;                  2026/6/5\n  机\n你合成出了游戏里最大的Emoji\n三        向        fa        g\n<       Q      =      Q      0"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-eaf5f8fcca5d4667-00003",
+    "sequence": 3,
+    "createdAt": "2026-06-12T15:10:05.135Z",
+    "timestampMs": 1781277005135,
+    "date": "2026-06-12",
+    "time": "15:10:05",
+    "text": "[截图证据补录]\n来源用户：YuZ\n时间来源：source-message\n原消息文本：这个素 怎么回事啊啊\nOCR：Sn 演 Y @ Microsoft x | G HER X | Q cloudfare xX | we Workers & X (@ls) [Un x New APL X 图 dehhhicc x | 玫 a rl 会 — © (6 https://de.hhhl.cc/oauth/authorize?client_id=idkjusthhhl&redirect uri=https%3A%2F%2Ftan-definitions-yacht-... wv {3 | Se y docker causa - {\"error” :”BAD_REQUEST”, “error description”:”Invalid query \\“client id\\””} > Gordon : 2 Containers 3 Images ©) Logs ® Volumes Kubernete f \\\\ & Builds 二 \\ 图 Models Wy \\\\\\ © Docker Hu & MCP Tool &> Extension; |",
+    "userId": "ampm4hg24r",
+    "userUuid": "01e80999-51b3-c042-d6f8-232af396c844",
+    "user": {
+      "uuid": "01e80999-51b3-c042-d6f8-232af396c844",
+      "id": "ampm4hg24r",
+      "username": "YuZ",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fd48bf6d1-d8e8-4274-b877-46240d7b8e27.jpg&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/1591ebfe4e14c3a5-YuZ.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-eaf5f8fcca5d4667",
+        "name": "5ca950e11f9505a6-IMG_20260612_230902.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5ca950e11f9505a6-IMG_20260612_230902.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "eaf5f8fcca5d46671271ef69c08ab15c40ca75d7f638b27ae11432bad387f936",
+      "filePath": "2026-06-12/images/5ca950e11f9505a6-IMG_20260612_230902.webp",
+      "fileName": "5ca950e11f9505a6-IMG_20260612_230902.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/5ca950e11f9505a6-IMG_20260612_230902.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anemnexbzk",
+      "sourceMessageCreatedAt": "2026-06-12T15:10:05.135Z",
+      "sourceUserName": "YuZ",
+      "sourceText": "这个素 怎么回事啊啊",
+      "observedAt": "2026-06-12T15:10:05.135Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T15:09:02.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260612_230902"
+        },
+        {
+          "value": "2026-06-12T15:10:05.135Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T15:10:05.135Z"
+        },
+        {
+          "value": "2026-06-19T11:48:01.446Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869681446.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "Sn 演 Y  @ Microsoft x | G HER X | Q cloudfare xX | we Workers & X (@ls) [Un x   New APL X 图 dehhhicc x | 玫    a\nrl   会\n— © (6 https://de.hhhl.cc/oauth/authorize?client_id=idkjusthhhl&redirect uri=https%3A%2F%2Ftan-definitions-yacht-... wv {3 | Se\ny docker causa                                                              -\n{\"error” :”BAD_REQUEST”, “error description”:”Invalid query \\“client id\\””}\n> Gordon      :\n2 Containers\n3 Images\n©) Logs\n® Volumes\n  Kubernete                                             f \\\\\n& Builds                                                              二 \\\n图 Models                                       Wy \\\\\\\n© Docker Hu\n& MCP Tool\n&> Extension;\n|"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-44e2403be513d4dc-00040",
+    "sequence": 40,
+    "createdAt": "2026-06-12T16:00:00.000Z",
+    "timestampMs": 1781280000000,
+    "date": "2026-06-12",
+    "time": "16:00:00",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr\n原消息文本：我的正常在跑\nOCR：5:56 OO @&O- O PO 24 | & & philia093.qzz.io CO » . 0 @ cyrene api Q 搜索 A & rR] 通用日志 2026-06-13 00:00 ~ 2026-06-13 18:56 | BS 3H 126.8725 | RPM 27 TPM 1133692 人@ we GED az © opt-55 涟注 © 0.005784 时间 渠道 2026-06-13 17:55:58 #5 © 消耗 用户 oe yangzi123aaa20 & 123 耗时 Token e32.0s 9.8s 4,338 / 1,205 标准 涟洲 5 / HERR 30/M S gpt-5.5 HEYR 0.004574 < @ 2 3 4... 444 > 第1页, 共444 页 20 仿 € 二 =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-44e2403be513d4dc",
+        "name": "d6e20fe4cf9030fe-Screenshot_2026-06-13-17-56-18-145_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/d6e20fe4cf9030fe-Screenshot_2026-06-13-17-56-18-145_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "44e2403be513d4dcbe7b94ec2bf557a89790eac379e406d2857a22cf382d0089",
+      "filePath": "2026-06-13/images/d6e20fe4cf9030fe-Screenshot_2026-06-13-17-56-18-145_com.microsoft.webp",
+      "fileName": "d6e20fe4cf9030fe-Screenshot_2026-06-13-17-56-18-145_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/d6e20fe4cf9030fe-Screenshot_2026-06-13-17-56-18-145_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anfqwho8gu",
+      "sourceMessageCreatedAt": "2026-06-13T09:56:53.240Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": "我的正常在跑",
+      "observedAt": "2026-06-12T16:00:00.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T16:00:00.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 00:00"
+        },
+        {
+          "value": "2026-06-13T09:55:58.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 17:55:58"
+        },
+        {
+          "value": "2026-06-13T10:56:00.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 18:56"
+        },
+        {
+          "value": "2026-06-12T16:00:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "00:00"
+        },
+        {
+          "value": "2026-06-12T21:56:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "5:56"
+        },
+        {
+          "value": "2026-06-13T09:55:58.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "17:55:58"
+        },
+        {
+          "value": "2026-06-13T10:56:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "18:56"
+        },
+        {
+          "value": "2026-06-13T09:56:18.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-17-56-18"
+        },
+        {
+          "value": "2026-06-13T09:56:53.240Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-13T09:56:53.240Z"
+        },
+        {
+          "value": "2026-06-19T11:48:35.274Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869715274.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "5:56 OO @&O- O               PO 24 |\n&       & philia093.qzz.io        CO\n» .\n0 @ cyrene api        Q 搜索 A &  rR]\n通用日志\n  2026-06-13 00:00 ~ 2026-06-13 18:56\n| BS 3H 126.8725   | RPM 27\nTPM 1133692\n人@\nwe GED az\n© opt-55                涟注 © 0.005784\n时间                     渠道\n2026-06-13 17:55:58       #5\n© 消耗\n用户                     oe\nyangzi123aaa20              & 123\n耗时                     Token\ne32.0s 9.8s         4,338 / 1,205\n标准 涟洲 5 / HERR 30/M\nS gpt-5.5                      HEYR   0.004574\n<  @  2    3    4... 444   >\n第1页, 共444 页                                      20 仿\n€                二       ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-c77b55655de48659-00011",
+    "sequence": 11,
+    "createdAt": "2026-06-12T16:55:36.530Z",
+    "timestampMs": 1781283336530,
+    "date": "2026-06-12",
+    "time": "16:55:36",
+    "text": "[截图证据补录]\n来源用户：wuyu\n时间来源：source-message\nOCR：未识别或未运行",
+    "userId": "an0eq0usqn",
+    "userUuid": "af13bd59-0276-2e3b-4dfd-85d8da0fa619",
+    "user": {
+      "uuid": "af13bd59-0276-2e3b-4dfd-85d8da0fa619",
+      "id": "an0eq0usqn",
+      "username": "wuyu",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/wuyu@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/2b1b7600de266207-wuyu.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-c77b55655de48659",
+        "name": "f90903a2c5457471-Screenshot_20260613_005510.jpg",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/f90903a2c5457471-Screenshot_20260613_005510.jpg",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "c77b55655de486593e029fc8759070e5e57acb3a411da0c45ce8871cb1fbc1e0",
+      "filePath": "2026-06-12/images/f90903a2c5457471-Screenshot_20260613_005510.jpg",
+      "fileName": "f90903a2c5457471-Screenshot_20260613_005510.jpg",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/f90903a2c5457471-Screenshot_20260613_005510.jpg",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "aneqf49e1l",
+      "sourceMessageCreatedAt": "2026-06-12T16:55:36.530Z",
+      "sourceUserName": "wuyu",
+      "sourceText": null,
+      "observedAt": "2026-06-12T16:55:36.530Z",
+      "timeSource": "source-message",
+      "confidence": "low",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T16:55:10.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260613_005510"
+        },
+        {
+          "value": "2026-06-12T16:55:36.530Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T16:55:36.530Z"
+        },
+        {
+          "value": "2026-06-19T11:48:05.558Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869685558.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": ""
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-381a9d9dbcdba2cc-00006",
+    "sequence": 6,
+    "createdAt": "2026-06-12T18:20:23.000Z",
+    "timestampMs": 1781288423000,
+    "date": "2026-06-12",
+    "time": "18:20:23",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr\n原消息文本：睡觉之前看一眼服务器\nOCR：2:24@00-- tae atl all SS ED “ @ philia093.qzz.io CG 2 - © @ Cyrene api Q搜索 2 %@ 通用日志 © gpt-5.4 $ 0.000964 时间 渠道 2026-06-13 02:20:36 4st 。 消耗 用户 令牌 yj AN 耗时 Token e11.0s 4.9s 13,129 / 355 详情 标准 . $2.5 / $15/M G gpt-5.4 $ 0.000882 时间 渠道 2026-06-13 02:20:23 “a7 e 消耗 用户 She yj Anu 耗时 Token e9.0s5 4.1s 12,779 / 282 详情 标准 . $2.5 / $15/M < @ 2 3 4 .. 54 > 第1页，共 54 页 20 人 ‘S + =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-381a9d9dbcdba2cc",
+        "name": "997cd6c69bb1e11d-Screenshot_2026-06-13-02-24-05-540_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/997cd6c69bb1e11d-Screenshot_2026-06-13-02-24-05-540_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "381a9d9dbcdba2ccd25504be3f4d08c1e4f1d682b9c67b619b9f7bff9d986937",
+      "filePath": "2026-06-12/images/997cd6c69bb1e11d-Screenshot_2026-06-13-02-24-05-540_com.microsoft.webp",
+      "fileName": "997cd6c69bb1e11d-Screenshot_2026-06-13-02-24-05-540_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/997cd6c69bb1e11d-Screenshot_2026-06-13-02-24-05-540_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anetlji8zq",
+      "sourceMessageCreatedAt": "2026-06-12T18:24:35.072Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": "睡觉之前看一眼服务器",
+      "observedAt": "2026-06-12T18:20:23.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T18:20:23.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 02:20:23"
+        },
+        {
+          "value": "2026-06-12T18:20:36.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 02:20:36"
+        },
+        {
+          "value": "2026-06-11T18:20:23.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "02:20:23"
+        },
+        {
+          "value": "2026-06-11T18:20:36.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "02:20:36"
+        },
+        {
+          "value": "2026-06-11T18:24:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "2:24@"
+        },
+        {
+          "value": "2026-06-12T18:24:05.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-02-24-05"
+        },
+        {
+          "value": "2026-06-12T18:24:35.072Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T18:24:35.072Z"
+        },
+        {
+          "value": "2026-06-19T11:48:08.234Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869688234.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "2:24@00--                       tae atl all SS ED\n“        @ philia093.qzz.io         CG\n2  -\n© @ Cyrene api          Q搜索 2 %@\n通用日志\n© gpt-5.4                    $ 0.000964\n时间                     渠道\n2026-06-13 02:20:36         4st\n。 消耗\n用户                     令牌\nyj                             AN\n耗时                     Token\ne11.0s  4.9s            13,129 / 355\n详情\n标准 . $2.5 / $15/M\nG gpt-5.4                    $ 0.000882\n时间                     渠道\n2026-06-13 02:20:23         “a7\ne 消耗\n用户                     She\nyj                             Anu\n耗时                     Token\ne9.0s5 4.1s            12,779 / 282\n详情\n标准 . $2.5 / $15/M\n<  @  2 3 4 .. 54 >\n第1页，共 54 页                          20 人\n‘S                 +       ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-1be27a299c703e03-00004",
+    "sequence": 4,
+    "createdAt": "2026-06-12T18:41:46.000Z",
+    "timestampMs": 1781289706000,
+    "date": "2026-06-12",
+    "time": "18:41:46",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr\n原消息文本：再看一眼服务器\nOCR：2:43 地 e234 tl S ED & &@ philia093.qzz.io So 2 . (cB) © Cyrene API Q 搜索 A & rR) 通用日志 时间 Rie 2026-06-13 02:41:51 ao? e 消耗 用户 ow azh £111 HHHL - 0.1x 耗时 Token @19.0s 4.8s 36,599 / 753 详情 标准 - $2.5 / $15/M © opt-5.5 $ 0.026746 时间 渠道 2026-06-13 02:41:46 #5 e 消耗 用户 令牌 w279764086 只 Cyrene API HHHL - 0.1x 耗时 Token @7.0s 5.35 60,092 / 129 详情 《 @ 2 3 4... 59 > Bim, 共 59 页 20 仿 € = =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-1be27a299c703e03",
+        "name": "6c7be671ac099675-Screenshot_2026-06-13-02-43-22-017_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/6c7be671ac099675-Screenshot_2026-06-13-02-43-22-017_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "1be27a299c703e03fd98b8fc4ce1bd87a648d214d5b516e66fa124be706642f8",
+      "filePath": "2026-06-12/images/6c7be671ac099675-Screenshot_2026-06-13-02-43-22-017_com.microsoft.webp",
+      "fileName": "6c7be671ac099675-Screenshot_2026-06-13-02-43-22-017_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-12/images/6c7be671ac099675-Screenshot_2026-06-13-02-43-22-017_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "aneuadbu8y",
+      "sourceMessageCreatedAt": "2026-06-12T18:43:53.466Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": "再看一眼服务器",
+      "observedAt": "2026-06-12T18:41:46.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T18:41:46.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 02:41:46"
+        },
+        {
+          "value": "2026-06-12T18:41:51.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026-06-13 02:41:51"
+        },
+        {
+          "value": "2026-06-11T18:41:46.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "02:41:46"
+        },
+        {
+          "value": "2026-06-11T18:41:51.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "02:41:51"
+        },
+        {
+          "value": "2026-06-11T18:43:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "2:43"
+        },
+        {
+          "value": "2026-06-12T18:43:22.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-02-43-22"
+        },
+        {
+          "value": "2026-06-12T18:43:53.466Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-12T18:43:53.466Z"
+        },
+        {
+          "value": "2026-06-19T11:48:09.190Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869689190.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "2:43 地                               e234 tl S ED\n&       &@ philia093.qzz.io         So\n2 .\n(cB)  © Cyrene API        Q 搜索 A & rR)\n通用日志\n时间                    Rie\n2026-06-13 02:41:51        ao?\ne 消耗\n用户                    ow\nazh                        £111\nHHHL - 0.1x\n耗时                    Token\n@19.0s 4.8s          36,599 / 753\n详情\n标准 - $2.5 / $15/M\n© opt-5.5                  $ 0.026746\n时间                    渠道\n2026-06-13 02:41:46          #5\ne 消耗\n用户                    令牌\nw279764086                 只 Cyrene API\nHHHL - 0.1x\n耗时                    Token\n@7.0s  5.35          60,092 / 129\n详情\n《  @  2   3   4... 59   >\nBim, 共 59 页                                         20 仿\n€                =       ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d3db59db6bf164c9-00042",
+    "sequence": 42,
+    "createdAt": "2026-06-12T18:50:00.000Z",
+    "timestampMs": 1781290200000,
+    "date": "2026-06-12",
+    "time": "18:50:00",
+    "text": "[截图证据补录]\n来源用户：cyc0828\n时间来源：ocr-partial\nOCR：02:50 @ WSC ie? au “at ED O 仪表盘 - 斑马API- ALA… | O B = Oo mae 我的订阅 1 个有效订阅 2 PROS ithiT 01 剩余 1个月 每月 0.00 / 4000.00 积分 查看全部订阅 oo 0 0.0000 积分/ 本 图00000 积分 总计: 0.0000 积分 / 0.0000 积分 今日 Token 累计 Token 加 0 0 输入: 0 / 输出: 0 输入: 0 / 输出: 0 性能指标 平均响应 4 0 RpM © Oms 0 TPM 平均时间 按平台拆分 0 个平台 Claude 0.0000 积分 今日消费 0.0000 积分 请求 - Token - OpenAl 0.0000 积分 今日消费 0.0000 积分 请求 - < > = a)",
+    "userId": "amlzwhth5r",
+    "userUuid": "4fb8759f-c97d-a4e4-4726-fbbb247626e4",
+    "user": {
+      "uuid": "4fb8759f-c97d-a4e4-4726-fbbb247626e4",
+      "id": "amlzwhth5r",
+      "username": "cyc0828",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/cyc0828@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/8677d725f17b7ec0-cyc0828.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d3db59db6bf164c9",
+        "name": "eed65a252e4b45bb-Screenshot_20260614_025000.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/eed65a252e4b45bb-Screenshot_20260614_025000.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d3db59db6bf164c9711f103a0d3d06ffc99d84a7fea3ccb2cfaffb104a824b25",
+      "filePath": "2026-06-13/images/eed65a252e4b45bb-Screenshot_20260614_025000.webp",
+      "fileName": "eed65a252e4b45bb-Screenshot_20260614_025000.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/eed65a252e4b45bb-Screenshot_20260614_025000.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "angadxp4nf",
+      "sourceMessageCreatedAt": "2026-06-13T19:02:19.864Z",
+      "sourceUserName": "cyc0828",
+      "sourceText": null,
+      "observedAt": "2026-06-12T18:50:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T18:50:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "02:50"
+        },
+        {
+          "value": "2026-06-13T18:50:00.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260614_025000"
+        },
+        {
+          "value": "2026-06-13T19:02:19.864Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-13T19:02:19.864Z"
+        },
+        {
+          "value": "2026-06-19T11:48:57.074Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869737074.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "02:50 @                       WSC ie? au “at ED\nO 仪表盘 - 斑马API- ALA… | O B\n=                        Oo mae\n我的订阅\n1 个有效订阅\n2   PROS ithiT 01                   剩余 1个月\n每月                              0.00 / 4000.00 积分\n查看全部订阅\noo 0                           0.0000 积分/\n本                            图00000 积分\n总计: 0.0000 积分 /\n0.0000 积分\n今日 Token                          累计 Token\n加 0   0\n输入: 0 / 输出: 0                          输入: 0 / 输出: 0\n性能指标                       平均响应\n4 0 RpM                  © Oms\n0 TPM                     平均时间\n按平台拆分                                             0 个平台\nClaude                          0.0000 积分\n今日消费                                0.0000 积分\n请求                                            -\nToken                                          -\nOpenAl                          0.0000 积分\n今日消费                                0.0000 积分\n请求                                            -\n<           >         =         a)"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-5c93de0425780650-00025",
+    "sequence": 25,
+    "createdAt": "2026-06-12T19:16:00.000Z",
+    "timestampMs": 1781291760000,
+    "date": "2026-06-12",
+    "time": "19:16:00",
+    "text": "[截图证据补录]\n来源用户：baizhixian\n时间来源：ocr-partial\n原消息文本：没有哎\nOCR：03:16 a Fe) DO @ coseApl Q搜索 A % © 模型调用分析 % ”偏好设置 Ip tt BR © BRE 6 4$6 S 总TOKEN 数 O 平均 RPM 6 9 4 平均 TPM 2 SS 消耗分布 Bit: $0.00 凯 柱状图 lo 面积图 1 0.8 0.6 0.4 0.2 0 《 = 2api.closeapi.top C eee",
+    "userId": "an58f5k6bx",
+    "userUuid": "7ca000c4-5bfa-2b95-740b-3c7b263a65ba",
+    "user": {
+      "uuid": "7ca000c4-5bfa-2b95-740b-3c7b263a65ba",
+      "id": "an58f5k6bx",
+      "username": "baizhixian",
+      "name": null,
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/baizhixian@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/cd6000f1f1bbeaae-baizhixian.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-5c93de0425780650",
+        "name": "6e395bc96a30c3f6-IMG_0065.png",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/6e395bc96a30c3f6-IMG_0065.png",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "5c93de042578065040df7125507d72fccce16c7c828264e0592f8b8653702a02",
+      "filePath": "2026-06-13/images/6e395bc96a30c3f6-IMG_0065.png",
+      "fileName": "6e395bc96a30c3f6-IMG_0065.png",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/6e395bc96a30c3f6-IMG_0065.png",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "angawg4zqb",
+      "sourceMessageCreatedAt": "2026-06-13T19:16:43.571Z",
+      "sourceUserName": "baizhixian",
+      "sourceText": "没有哎",
+      "observedAt": "2026-06-12T19:16:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T19:16:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "03:16"
+        },
+        {
+          "value": "2026-06-13T19:16:43.571Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-13T19:16:43.571Z"
+        },
+        {
+          "value": "2026-06-19T11:48:57.490Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869737490.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "03:16                   a Fe)\nDO @ coseApl        Q搜索 A % ©\n模型调用分析\n% ”偏好设置 Ip\ntt BR              © BRE\n6                 4$6\nS 总TOKEN 数            O 平均 RPM\n6                 9\n4 平均 TPM\n2\nSS 消耗分布 Bit: $0.00\n凯 柱状图 lo 面积图\n1\n0.8\n0.6\n0.4\n0.2\n0\n《   = 2api.closeapi.top C  eee"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-573bc789b4b71af9-00026",
+    "sequence": 26,
+    "createdAt": "2026-06-12T21:06:00.000Z",
+    "timestampMs": 1781298360000,
+    "date": "2026-06-12",
+    "time": "21:06:00",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr-partial\n原消息文本：我的都有名字\nOCR：5:06 ©OORO-7 O eB at! > ED & @ philia093.qzz.io So 0 @ cyrene Api Q 搜索 A & @ 用户 十 添加用户 按用户名、姓名或邮箱筛选… ® 状态 © 角色 查看 2456254270 e@ 已启用 额度 分组 iia 30 nea 30 e default 角色 & 用户 64asd e 已启用 额度 分组 HET 27.89 涟洲 30 e@ default 角色 & 用户 swhyyds e 已启用 额度 分组 jE} 30 涟注 30 e@ default 角色 & AR 《 @ 2 3 4 .. 39 > 第1页, 共 39 页 10 © < 二 =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-573bc789b4b71af9",
+        "name": "7062ebc697c1638c-Screenshot_2026-06-13-17-06-44-886_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/7062ebc697c1638c-Screenshot_2026-06-13-17-06-44-886_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "573bc789b4b71af92a48f2ed0c5fd1bba688ac4952aacbe8bea5cbb684bfdfd8",
+      "filePath": "2026-06-13/images/7062ebc697c1638c-Screenshot_2026-06-13-17-06-44-886_com.microsoft.webp",
+      "fileName": "7062ebc697c1638c-Screenshot_2026-06-13-17-06-44-886_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/7062ebc697c1638c-Screenshot_2026-06-13-17-06-44-886_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anfp5ur6c5",
+      "sourceMessageCreatedAt": "2026-06-13T09:08:10.866Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": "我的都有名字",
+      "observedAt": "2026-06-12T21:06:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T21:06:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "5:06"
+        },
+        {
+          "value": "2026-06-13T09:06:44.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-17-06-44"
+        },
+        {
+          "value": "2026-06-13T09:08:10.866Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-13T09:08:10.866Z"
+        },
+        {
+          "value": "2026-06-19T11:48:33.274Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869713274.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "5:06 ©OORO-7 O             eB at! > ED\n&             @ philia093.qzz.io                So\n0 @ cyrene Api           Q 搜索 A &  @\n用户                                    十 添加用户\n按用户名、姓名或邮箱筛选…\n® 状态      © 角色                                    查看\n2456254270                                      e@ 已启用\n额度                           分组\niia 30             nea 30       e default\n角色\n& 用户\n64asd                                              e 已启用\n额度                           分组\nHET 27.89         涟洲 30       e@ default\n角色\n& 用户\nswhyyds                                           e 已启用\n额度                           分组\njE} 30             涟注 30       e@ default\n角色\n& AR\n《   @   2     3     4 .. 39     >\n第1页, 共 39 页                                         10 ©\n<                       二          ="
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-e78af1bf5b748f77-00033",
+    "sequence": 33,
+    "createdAt": "2026-06-12T22:32:33.000Z",
+    "timestampMs": 1781303553000,
+    "date": "2026-06-12",
+    "time": "22:32:33",
+    "text": "[截图证据补录]\n来源用户：卢本伟\n时间来源：ocr\n原消息文本：我没有开限制啊\nOCR：232 @& O70 Va 721) & &@ philia093.qzz.io So (0 @ cyrene api Q 搜索 A & rR ) 你是什么模型 上 G&G w © 错误 Request error occurred: 您已达到总请求 数限制: 1分钟内最多请求3次, 包括失败次 A, 请检查您的请求是否正确 (request id: 202606130632334363019428268d9d6hmQDfcdX ooBwW 川 Analyze data © Surprise me (=) Summarize text < + =",
+    "userId": "amyinw6r87",
+    "userUuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+    "user": {
+      "uuid": "d5bd2280-d68a-e089-bb8b-cd21eccc2dc3",
+      "id": "amyinw6r87",
+      "username": "lubenwei",
+      "name": "卢本伟",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F9fd1b42f-743b-41ed-acb5-0ce6ff1f40f1.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/5d17bc5e9d7a4788-lubenwei.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-e78af1bf5b748f77",
+        "name": "990b39106901220d-Screenshot_2026-06-13-14-32-40-791_com.microsoft.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/990b39106901220d-Screenshot_2026-06-13-14-32-40-791_com.microsoft.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "e78af1bf5b748f77cd22eeed3f4a8d09935c134135607d6ce596f5745bff8bf8",
+      "filePath": "2026-06-13/images/990b39106901220d-Screenshot_2026-06-13-14-32-40-791_com.microsoft.webp",
+      "fileName": "990b39106901220d-Screenshot_2026-06-13-14-32-40-791_com.microsoft.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-13/images/990b39106901220d-Screenshot_2026-06-13-14-32-40-791_com.microsoft.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anfjmgrlsm",
+      "sourceMessageCreatedAt": "2026-06-13T06:33:08.193Z",
+      "sourceUserName": "卢本伟",
+      "sourceText": "我没有开限制啊",
+      "observedAt": "2026-06-12T22:32:33.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-12T22:32:33.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "20260613063233"
+        },
+        {
+          "value": "2026-06-13T06:32:40.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-13-14-32-40"
+        },
+        {
+          "value": "2026-06-13T06:33:08.193Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-13T06:33:08.193Z"
+        },
+        {
+          "value": "2026-06-19T11:48:26.414Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869706414.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "232 @& O70                    Va 721)\n&       &@ philia093.qzz.io         So\n(0 @ cyrene api         Q 搜索 A &  rR )\n你是什么模型\n上 G&G w\n© 错误\nRequest error occurred: 您已达到总请求\n数限制: 1分钟内最多请求3次, 包括失败次\nA, 请检查您的请求是否正确 (request id:\n202606130632334363019428268d9d6hmQDfcdX\nooBwW\n川 Analyze data        © Surprise me        (=) Summarize text\n<                   +        ="
+    }
+  }
+]

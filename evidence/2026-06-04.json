@@ -1,0 +1,89 @@
+[
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-d559b4d973f83e02-00161",
+    "sequence": 161,
+    "createdAt": "2026-06-04T08:52:00.000Z",
+    "timestampMs": 1780563120000,
+    "date": "2026-06-04",
+    "time": "08:52:00",
+    "text": "[截图证据补录]\n来源用户：丛雨\n时间来源：ocr\nOCR：22428! O88 Bi: 3 49% ae < 群公告 vee Iwlw 181人已读 2026年6月4日 16:52 全河三| https://share.feijipan.com/s/ZFaLoEiV?code=hhh grok2api 项目地址指路 https://github.com/chenyme/grok2api gpt-plus注册机指路 (协议注册到生卡支付) chatgpt2api注册机指路 (gpt-image-2生图) https://github.com/basketikun/chatgpt2api",
+    "userId": "an336vjf47",
+    "userUuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+    "user": {
+      "uuid": "59e733ff-660f-88ed-c11d-13d9baecce8d",
+      "id": "an336vjf47",
+      "username": "congyu",
+      "name": "丛雨",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F03c6ee88-8dfd-4379-a47f-de037982d5b2.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/ed66d61ac32af8ea-congyu.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-d559b4d973f83e02",
+        "name": "622a9e920bcb5fb8-Screenshot_20260617_224228.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/2026-06-17/images/622a9e920bcb5fb8-Screenshot_20260617_224228.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "d559b4d973f83e02984976448368a81e32b545c7b28f2ee87ad739a64411563d",
+      "filePath": "2026-06-17/images/622a9e920bcb5fb8-Screenshot_20260617_224228.webp",
+      "fileName": "622a9e920bcb5fb8-Screenshot_20260617_224228.webp",
+      "localUrl": "/archive-media/amlc1bekzi/2026-06-17/images/622a9e920bcb5fb8-Screenshot_20260617_224228.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": "anlqvnnd0y",
+      "sourceMessageCreatedAt": "2026-06-17T14:42:51.385Z",
+      "sourceUserName": "丛雨",
+      "sourceText": null,
+      "observedAt": "2026-06-04T08:52:00.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-04T08:52:00.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026年6月4日 16:52"
+        },
+        {
+          "value": "2026-06-17T08:52:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "16:52"
+        },
+        {
+          "value": "2026-06-17T14:42:28.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260617_224228"
+        },
+        {
+          "value": "2026-06-17T14:42:51.385Z",
+          "source": "source-message",
+          "confidence": "low",
+          "raw": "2026-06-17T14:42:51.385Z"
+        },
+        {
+          "value": "2026-06-19T11:52:26.818Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781869946818.8657"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "22428! O88                                                                                               Bi: 3 49% ae\n\n<                                                                                      群公告                                                                                     vee\nIwlw                                                                                                                                                                181人已读\n2026年6月4日 16:52\n\n全河三|\n\nhttps://share.feijipan.com/s/ZFaLoEiV?code=hhh\n\ngrok2api 项目地址指路\n\nhttps://github.com/chenyme/grok2api\n\ngpt-plus注册机指路 (协议注册到生卡支付)\n\nchatgpt2api注册机指路 (gpt-image-2生图)\n\nhttps://github.com/basketikun/chatgpt2api"
+    }
+  }
+]
