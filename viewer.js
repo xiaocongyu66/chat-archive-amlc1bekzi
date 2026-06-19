@@ -185,6 +185,10 @@ function messageMatches(message, query) {
     message.evidence && message.evidence.filePath,
     message.evidence && message.evidence.sourceRelativePath,
     message.evidence && message.evidence.sourceUserName,
+    message.evidence && message.evidence.speakerName,
+    message.evidence && message.evidence.speakerUsername,
+    message.evidence && message.evidence.speakerMatchedUserUuid,
+    message.evidence && message.evidence.attribution,
     message.evidence && message.evidence.sourceText,
     message.evidence && message.evidence.timeSource,
     displayName(user),
@@ -264,8 +268,16 @@ function renderMessages() {
     const reactions = reactionCounts(message.reactions).map(function(item) {
       return '<span>' + escapeHtml(item.reaction) + ' ' + item.count + '</span>';
     }).join("");
-    const evidenceMeta = message.manual
-      ? '<div class="evidence-meta"><strong>截图证据补录</strong><span>时间来源 ' + escapeHtml(evidence.timeSource || "unknown") + '</span><span>置信度 ' + escapeHtml(evidence.confidence || "unknown") + '</span>' + (evidence.duplicateOf ? '<span>重复图</span>' : '') + '</div>'
+    const evidenceMeta = message.manual || evidence.speakerName || evidence.sourceUserName
+      ? '<div class="evidence-meta">'
+        + (message.manual ? '<strong>截图证据补录</strong>' : '')
+        + (evidence.speakerName ? '<span>截图发言人 ' + escapeHtml(evidence.speakerName) + (evidence.speakerUsername ? ' @' + escapeHtml(evidence.speakerUsername) : '') + '</span>' : '')
+        + (evidence.sourceUserName ? '<span>原上传者 ' + escapeHtml(evidence.sourceUserName) + '</span>' : '')
+        + (evidence.attribution ? '<span>归属 ' + escapeHtml(evidence.attribution) + '</span>' : '')
+        + '<span>时间来源 ' + escapeHtml(evidence.timeSource || "unknown") + '</span>'
+        + '<span>置信度 ' + escapeHtml(evidence.confidence || "unknown") + '</span>'
+        + (evidence.duplicateOf ? '<span>重复图</span>' : '')
+        + '</div>'
       : "";
     return dayDivider
       + '<article class="message-row ' + (mine ? 'mine' : '') + (message.manual ? ' evidence-row' : '') + '" data-message-id="' + escapeHtml(message.id) + '">'

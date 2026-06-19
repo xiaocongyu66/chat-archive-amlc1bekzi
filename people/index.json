@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:03:15.694Z",
+  "generatedAt": "2026-06-19T19:38:52.745Z",
   "archiveDir": "/root/jqr/data/archive-media/amlc1bekzi",
   "roomId": "amlc1bekzi",
   "roomName": "总部",
@@ -35,7 +35,7 @@
         "2026-06-19": 243
       },
       "slug": "丛雨-59e733ff",
-      "generated": false,
+      "generated": true,
       "path": "丛雨-59e733ff/index.html"
     },
     {
@@ -2261,7 +2261,7 @@
         "2026-06-19": 4
       },
       "slug": "天网软件工作室-老刀-ec9524ef",
-      "generated": false,
+      "generated": true,
       "path": "天网软件工作室-老刀-ec9524ef/index.html"
     },
     {
