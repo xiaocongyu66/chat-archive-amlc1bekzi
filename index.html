@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>聊天记录归档</title>
+    <link rel="stylesheet" href="./viewer.css" />
+  </head>
+  <body>
+    <main class="archive-shell">
+      <header class="archive-header">
+        <div>
+          <h1 id="roomTitle">聊天记录归档</h1>
+          <p id="roomStats">正在加载资源目录...</p>
+        </div>
+        <div class="header-actions">
+          <a href="./README.md" target="_blank" rel="noreferrer">说明</a>
+          <a href="./manifest.json" target="_blank" rel="noreferrer">清单</a>
+        </div>
+      </header>
+
+      <section class="toolbar">
+        <label>
+          <span>日期</span>
+          <select id="daySelect"></select>
+        </label>
+        <label class="search-field">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="用户名、正文、OCR、文件名、时间" />
+        </label>
+        <button id="loadDayButton" type="button">加载日期</button>
+        <button id="loadAllButton" type="button">加载全部</button>
+        <button id="searchAllButton" type="button">全量搜索</button>
+        <button id="clearButton" type="button">清除</button>
+      </section>
+
+      <section class="progress-panel" id="progressPanel" hidden>
+        <div class="progress-head">
+          <strong id="progressTitle">加载中</strong>
+          <span id="progressText">0 / 0</span>
+        </div>
+        <div class="progress-track">
+          <div id="progressBar" class="progress-bar"></div>
+        </div>
+      </section>
+
+      <section class="status-line" id="statusLine"></section>
+      <section class="chat-replay" id="chatReplay"></section>
+      <div class="load-more" id="loadMoreWrap" hidden>
+        <button id="loadMoreButton" type="button">加载更多</button>
+      </div>
+    </main>
+    <script src="./viewer.js"></script>
+  </body>
+</html>

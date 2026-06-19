@@ -1,0 +1,102 @@
+[
+  {
+    "day": "2026-06-04",
+    "count": 1,
+    "apiCount": 0,
+    "manualCount": 1,
+    "messagesPath": "2026-06-04/messages.json",
+    "apiMessagesPath": "2026-06-04/api-messages.json",
+    "timelinePath": "2026-06-04/timeline.json",
+    "textPath": "2026-06-04/messages.txt"
+  },
+  {
+    "day": "2026-06-11",
+    "count": 1,
+    "apiCount": 0,
+    "manualCount": 1,
+    "messagesPath": "2026-06-11/messages.json",
+    "apiMessagesPath": "2026-06-11/api-messages.json",
+    "timelinePath": "2026-06-11/timeline.json",
+    "textPath": "2026-06-11/messages.txt"
+  },
+  {
+    "day": "2026-06-12",
+    "count": 12356,
+    "apiCount": 12340,
+    "manualCount": 16,
+    "messagesPath": "2026-06-12/messages.json",
+    "apiMessagesPath": "2026-06-12/api-messages.json",
+    "timelinePath": "2026-06-12/timeline.json",
+    "textPath": "2026-06-12/messages.txt"
+  },
+  {
+    "day": "2026-06-13",
+    "count": 10140,
+    "apiCount": 10103,
+    "manualCount": 37,
+    "messagesPath": "2026-06-13/messages.json",
+    "apiMessagesPath": "2026-06-13/api-messages.json",
+    "timelinePath": "2026-06-13/timeline.json",
+    "textPath": "2026-06-13/messages.txt"
+  },
+  {
+    "day": "2026-06-14",
+    "count": 8237,
+    "apiCount": 8220,
+    "manualCount": 17,
+    "messagesPath": "2026-06-14/messages.json",
+    "apiMessagesPath": "2026-06-14/api-messages.json",
+    "timelinePath": "2026-06-14/timeline.json",
+    "textPath": "2026-06-14/messages.txt"
+  },
+  {
+    "day": "2026-06-15",
+    "count": 7093,
+    "apiCount": 7065,
+    "manualCount": 28,
+    "messagesPath": "2026-06-15/messages.json",
+    "apiMessagesPath": "2026-06-15/api-messages.json",
+    "timelinePath": "2026-06-15/timeline.json",
+    "textPath": "2026-06-15/messages.txt"
+  },
+  {
+    "day": "2026-06-16",
+    "count": 7883,
+    "apiCount": 7836,
+    "manualCount": 47,
+    "messagesPath": "2026-06-16/messages.json",
+    "apiMessagesPath": "2026-06-16/api-messages.json",
+    "timelinePath": "2026-06-16/timeline.json",
+    "textPath": "2026-06-16/messages.txt"
+  },
+  {
+    "day": "2026-06-17",
+    "count": 6885,
+    "apiCount": 6836,
+    "manualCount": 49,
+    "messagesPath": "2026-06-17/messages.json",
+    "apiMessagesPath": "2026-06-17/api-messages.json",
+    "timelinePath": "2026-06-17/timeline.json",
+    "textPath": "2026-06-17/messages.txt"
+  },
+  {
+    "day": "2026-06-18",
+    "count": 6739,
+    "apiCount": 6681,
+    "manualCount": 58,
+    "messagesPath": "2026-06-18/messages.json",
+    "apiMessagesPath": "2026-06-18/api-messages.json",
+    "timelinePath": "2026-06-18/timeline.json",
+    "textPath": "2026-06-18/messages.txt"
+  },
+  {
+    "day": "2026-06-19",
+    "count": 2369,
+    "apiCount": 2359,
+    "manualCount": 10,
+    "messagesPath": "2026-06-19/messages.json",
+    "apiMessagesPath": "2026-06-19/api-messages.json",
+    "timelinePath": "2026-06-19/timeline.json",
+    "textPath": "2026-06-19/messages.txt"
+  }
+]
