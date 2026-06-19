@@ -43,7 +43,7 @@
   const text = (m) => [m.text, m.evidence?.ocrText, m.evidence?.sourceText, m.evidence?.sourceUserName, m.evidence?.speakerName, m.evidence?.speakerUsername, m.evidence?.speakerMatchedUserUuid, m.evidence?.attribution, ...(m.files||[]).map(f=>f.name||"")].filter(Boolean).join("\n");
   const matches = (m,q) => !q || [text(m), m.createdAt, m.date, m.time, m.id, m.evidence?.timeSource].join("\n").toLowerCase().includes(q.toLowerCase());
   const imgSrc = (f) => asset(f.thumbnailLocalUrl || f.localUrl || f.thumbnailUrl || f.url || "");
-  const attributionLabel = (v) => ({ uploader:"按上传者", speaker:"按截图发言人", both:"上传者+截图发言人", "speaker-from-both":"截图发言人归属", "uploader-or-speaker":"上传者或截图发言人" }[v] || v || "");
+  const attributionLabel = (v) => ({ uploader:"上传/留档者", speaker:"截图内发言人", both:"实际发言人", "actual-speaker":"截图内实际发言人", "direct-message":"普通消息发送者", "speaker-from-both":"截图内实际发言人", "uploader-or-speaker":"上传者或截图发言人" }[v] || v || "");
   function evidenceMeta(m) {
     const e = m.evidence || {};
     const items = [

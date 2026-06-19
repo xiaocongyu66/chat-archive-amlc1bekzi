@@ -1,179 +1,51 @@
 [
   {
-    "keyword": "2026",
-    "count": 595
-  },
-  {
-    "keyword": "老刀",
-    "count": 358
-  },
-  {
-    "keyword": "screenshot",
-    "count": 328
-  },
-  {
     "keyword": "刀哥",
-    "count": 326
-  },
-  {
-    "keyword": "16",
-    "count": 282
+    "count": 276
   },
   {
     "keyword": "原神",
-    "count": 260
+    "count": 246
   },
   {
-    "keyword": "丛雨",
-    "count": 242
-  },
-  {
-    "keyword": "来源",
-    "count": 242
-  },
-  {
-    "keyword": "ocr",
-    "count": 235
-  },
-  {
-    "keyword": "06",
-    "count": 228
-  },
-  {
-    "keyword": "17",
+    "keyword": "screenshot",
     "count": 214
   },
   {
+    "keyword": "2026",
+    "count": 211
+  },
+  {
     "keyword": "jpg",
-    "count": 212
+    "count": 211
   },
   {
     "keyword": "原石",
     "count": 186
   },
   {
-    "keyword": "18",
-    "count": 183
-  },
-  {
-    "keyword": "用户",
-    "count": 174
-  },
-  {
-    "keyword": "时间",
-    "count": 148
-  },
-  {
-    "keyword": "小时",
-    "count": 147
-  },
-  {
-    "keyword": "工作",
-    "count": 144
-  },
-  {
-    "keyword": "作室",
-    "count": 141
-  },
-  {
-    "keyword": "天网",
-    "count": 141
-  },
-  {
-    "keyword": "老大",
-    "count": 141
-  },
-  {
-    "keyword": "社区",
-    "count": 140
-  },
-  {
-    "keyword": "15",
-    "count": 136
-  },
-  {
-    "keyword": "件工",
-    "count": 136
-  },
-  {
-    "keyword": "网软",
-    "count": 136
-  },
-  {
-    "keyword": "软件",
-    "count": 136
-  },
-  {
-    "keyword": "截图",
-    "count": 134
-  },
-  {
-    "keyword": "webp",
-    "count": 133
+    "keyword": "06",
+    "count": 152
   },
   {
     "keyword": "a252b927494330cdc2c8ba3b3f952e5e",
     "count": 127
   },
   {
-    "keyword": "聊天",
-    "count": 126
-  },
-  {
-    "keyword": "证据",
-    "count": 125
-  },
-  {
-    "keyword": "图证",
-    "count": 121
-  },
-  {
-    "keyword": "据补",
-    "count": 121
-  },
-  {
-    "keyword": "时间来源",
-    "count": 121
-  },
-  {
-    "keyword": "来源用户",
-    "count": 121
-  },
-  {
-    "keyword": "注册",
-    "count": 121
-  },
-  {
-    "keyword": "源用",
-    "count": 121
-  },
-  {
-    "keyword": "补录",
-    "count": 121
-  },
-  {
-    "keyword": "间来",
-    "count": 121
-  },
-  {
-    "keyword": "ai",
+    "keyword": "老大",
     "count": 113
   },
   {
-    "keyword": "频道",
-    "count": 108
+    "keyword": "社区",
+    "count": 106
+  },
+  {
+    "keyword": "16",
+    "count": 103
   },
   {
     "keyword": "招工",
     "count": 103
-  },
-  {
-    "keyword": "回复",
-    "count": 99
-  },
-  {
-    "keyword": "key",
-    "count": 98
   },
   {
     "keyword": "工喵",
@@ -188,48 +60,12 @@
     "count": 95
   },
   {
-    "keyword": "帖子",
-    "count": 93
-  },
-  {
-    "keyword": "11",
-    "count": 92
-  },
-  {
-    "keyword": "公益",
-    "count": 92
-  },
-  {
-    "keyword": "中转",
-    "count": 91
+    "keyword": "注册",
+    "count": 89
   },
   {
     "keyword": "每天",
-    "count": 85
-  },
-  {
-    "keyword": "png",
-    "count": 84
-  },
-  {
-    "keyword": "分前",
-    "count": 84
-  },
-  {
-    "keyword": "登录",
-    "count": 84
-  },
-  {
-    "keyword": "之前",
-    "count": 83
-  },
-  {
-    "keyword": "管理",
-    "count": 82
-  },
-  {
-    "keyword": "14",
-    "count": 80
+    "count": 81
   },
   {
     "keyword": "我玩",
@@ -240,23 +76,11 @@
     "count": 79
   },
   {
-    "keyword": "设置",
-    "count": 79
-  },
-  {
     "keyword": "200",
     "count": 78
   },
   {
-    "keyword": "出来",
-    "count": 78
-  },
-  {
-    "keyword": "api",
-    "count": 77
-  },
-  {
-    "keyword": "hhhl",
+    "keyword": "小时",
     "count": 77
   },
   {
@@ -269,10 +93,6 @@
   },
   {
     "keyword": "货币",
-    "count": 75
-  },
-  {
-    "keyword": "通知",
     "count": 75
   },
   {
@@ -316,7 +136,187 @@
     "count": 74
   },
   {
-    "keyword": "知道",
+    "keyword": "石和",
     "count": 74
+  },
+  {
+    "keyword": "陪我",
+    "count": 74
+  },
+  {
+    "keyword": "api",
+    "count": 73
+  },
+  {
+    "keyword": "hhhl",
+    "count": 71
+  },
+  {
+    "keyword": "中转",
+    "count": 71
+  },
+  {
+    "keyword": "之前",
+    "count": 71
+  },
+  {
+    "keyword": "17",
+    "count": 70
+  },
+  {
+    "keyword": "出来",
+    "count": 66
+  },
+  {
+    "keyword": "ai",
+    "count": 65
+  },
+  {
+    "keyword": "公益",
+    "count": 64
+  },
+  {
+    "keyword": "登录",
+    "count": 62
+  },
+  {
+    "keyword": "知道",
+    "count": 62
+  },
+  {
+    "keyword": "玩原",
+    "count": 61
+  },
+  {
+    "keyword": "还有",
+    "count": 61
+  },
+  {
+    "keyword": "老刀",
+    "count": 58
+  },
+  {
+    "keyword": "我刀",
+    "count": 55
+  },
+  {
+    "keyword": "key",
+    "count": 54
+  },
+  {
+    "keyword": "时原",
+    "count": 54
+  },
+  {
+    "keyword": "转站",
+    "count": 54
+  },
+  {
+    "keyword": "png",
+    "count": 53
+  },
+  {
+    "keyword": "这样",
+    "count": 53
+  },
+  {
+    "keyword": "神喵",
+    "count": 51
+  },
+  {
+    "keyword": "有没",
+    "count": 49
+  },
+  {
+    "keyword": "令牌",
+    "count": 48
+  },
+  {
+    "keyword": "管理",
+    "count": 48
+  },
+  {
+    "keyword": "ls",
+    "count": 47
+  },
+  {
+    "keyword": "其实",
+    "count": 47
+  },
+  {
+    "keyword": "看看",
+    "count": 47
+  },
+  {
+    "keyword": "账号",
+    "count": 47
+  },
+  {
+    "keyword": "生成",
+    "count": 46
+  },
+  {
+    "keyword": "12",
+    "count": 45
+  },
+  {
+    "keyword": "webp",
+    "count": 45
+  },
+  {
+    "keyword": "就行",
+    "count": 44
+  },
+  {
+    "keyword": "广告",
+    "count": 44
+  },
+  {
+    "keyword": "支持",
+    "count": 43
+  },
+  {
+    "keyword": "是不",
+    "count": 43
+  },
+  {
+    "keyword": "渠道",
+    "count": 43
+  },
+  {
+    "keyword": "也是",
+    "count": 42
+  },
+  {
+    "keyword": "你的",
+    "count": 42
+  },
+  {
+    "keyword": "成令",
+    "count": 42
+  },
+  {
+    "keyword": "不如",
+    "count": 41
+  },
+  {
+    "keyword": "录公",
+    "count": 41
+  },
+  {
+    "keyword": "登录公益",
+    "count": 40
+  },
+  {
+    "keyword": "神了",
+    "count": 40
+  },
+  {
+    "keyword": "链接",
+    "count": 40
+  },
+  {
+    "keyword": "我去",
+    "count": 39
   }
 ]
