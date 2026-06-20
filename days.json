@@ -81,8 +81,8 @@
   },
   {
     "day": "2026-06-20",
-    "count": 1269,
-    "apiCount": 886,
+    "count": 1540,
+    "apiCount": 1157,
     "manualCount": 383,
     "messagesPath": "2026-06-20/messages.json",
     "apiMessagesPath": "2026-06-20/api-messages.json",
