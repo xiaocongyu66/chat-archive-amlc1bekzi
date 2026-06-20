@@ -13,6 +13,8 @@ const state = {
   filteredMessages: [],
   renderLimit: renderBatchSize,
   viewerUuid: "",
+  activeScope: "day",
+  loadAllPromise: null,
   loading: false
 };
 
@@ -217,8 +219,10 @@ function updateStatus() {
   }, 0);
   const rendered = Math.min(state.renderLimit, state.filteredMessages.length);
   const query = dom.searchInput.value.trim();
+  const scope = state.activeScope === "all" ? "全部日期" : "日期 " + (dom.daySelect.value || "-");
   dom.statusLine.textContent = [
     "已加载 " + loadedCount + " 条",
+    "范围 " + scope,
     query ? "匹配 " + state.filteredMessages.length + " 条" : "当前 " + state.activeMessages.length + " 条",
     "已渲染 " + rendered + " 条"
   ].join("；");
@@ -301,12 +305,22 @@ function applyFilter() {
   renderMessages();
 }
 
+function searchCurrentQuery() {
+  const query = dom.searchInput.value.trim();
+  if (query && state.activeScope !== "all") {
+    loadAllDays("正在为搜索加载全部日期");
+    return;
+  }
+  applyFilter();
+}
+
 function mergeLoadedMessages() {
   const messages = [];
   for (const day of state.days) {
     if (state.messagesByDay.has(day.day)) messages.push.apply(messages, state.messagesByDay.get(day.day));
   }
   state.activeMessages = sortMessages(messages);
+  state.activeScope = "all";
 }
 
 function loadDay(day) {
@@ -327,7 +341,8 @@ function loadSelectedDay() {
   loadDay(day).then(function(messages) {
     showProgress("正在加载日期", 1, 1);
     state.activeMessages = sortMessages(messages || []);
-    applyFilter();
+    state.activeScope = "day";
+    searchCurrentQuery();
   }).catch(function(error) {
     dom.statusLine.textContent = error.message;
   }).finally(function() {
@@ -336,21 +351,30 @@ function loadSelectedDay() {
   });
 }
 
-async function loadAllDays() {
-  setLoading(true);
-  try {
-    for (let index = 0; index < state.days.length; index += 1) {
-      showProgress("正在加载全部日期", index, state.days.length);
-      await loadDay(state.days[index].day);
+async function loadAllDays(title) {
+  if (state.loadAllPromise) return state.loadAllPromise;
+  state.loadAllPromise = (async function() {
+    const progressTitle = typeof title === "string" ? title : "正在加载全部日期";
+    setLoading(true);
+    try {
+      for (let index = 0; index < state.days.length; index += 1) {
+        showProgress(progressTitle, index, state.days.length);
+        await loadDay(state.days[index].day);
+      }
+      showProgress(progressTitle, state.days.length, state.days.length);
+      mergeLoadedMessages();
+      applyFilter();
+    } catch (error) {
+      dom.statusLine.textContent = error.message;
+    } finally {
+      setLoading(false);
+      hideProgress();
     }
-    showProgress("正在加载全部日期", state.days.length, state.days.length);
-    mergeLoadedMessages();
-    applyFilter();
-  } catch (error) {
-    dom.statusLine.textContent = error.message;
+  })();
+  try {
+    return await state.loadAllPromise;
   } finally {
-    setLoading(false);
-    hideProgress();
+    state.loadAllPromise = null;
   }
 }
 
@@ -393,7 +417,7 @@ function initEvents() {
   dom.loadMoreButton.addEventListener("click", loadMore);
   dom.searchInput.addEventListener("input", function() {
     window.clearTimeout(dom.searchInput._timer);
-    dom.searchInput._timer = window.setTimeout(applyFilter, 160);
+    dom.searchInput._timer = window.setTimeout(searchCurrentQuery, 160);
   });
   window.addEventListener("scroll", onScroll, { passive: true });
 }
