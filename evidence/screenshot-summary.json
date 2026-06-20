@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T09:07:04.596Z",
+  "generatedAt": "2026-06-20T10:00:04.214Z",
   "roomId": "amlc1bekzi",
   "sourceDir": "/root/jqr/data/archive-media/ang2f0u6je",
   "importedImageDir": "/root/jqr/data/archive-media/amlc1bekzi/evidence/images",
@@ -15,7 +15,7 @@
   "duplicates": 6,
   "ocrAvailable": true,
   "ocrStatus": "run",
-  "highConfidenceTimes": 205,
-  "mediumConfidenceTimes": 10,
-  "lowConfidenceTimes": 381
+  "highConfidenceTimes": 133,
+  "mediumConfidenceTimes": 9,
+  "lowConfidenceTimes": 454
 }

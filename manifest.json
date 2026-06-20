@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-20T09:28:54.104Z",
+  "generatedAt": "2026-06-20T10:03:44.641Z",
   "roomId": "amlc1bekzi",
   "roomName": "总部",
   "viewerUuid": "26450b96-db3e-81b8-2991-ed495e20a730",
   "viewerId": "ano38j98v4",
   "mediaMode": "local",
-  "messageCount": 62750,
+  "messageCount": 62850,
   "manualMessageCount": 596,
-  "mergedMessageCount": 63346,
-  "userCount": 2008,
+  "mergedMessageCount": 63446,
+  "userCount": 2009,
   "publicPrefix": "/archive-media/amlc1bekzi",
   "files": {
     "archive": "archive.json",
@@ -47819,6 +47819,14 @@
       ]
     },
     {
+      "url": "https://dc.hhhl.cc/files/f50bdf36-3b4a-477f-b20c-ec513717a532.png",
+      "path": "2026-06-20/images/0f6cc78bf2a2873f-2026-06-20_17-18-25_1.png.webp.png",
+      "kind": "image",
+      "messages": [
+        "anppm5xd5f"
+      ]
+    },
+    {
       "url": "https://dc.hhhl.cc/files/91e60ab6-f906-4156-95d2-81593198692e.webp",
       "path": "2026-06-20/images/135731a621b7c779-2026-06-20_16-40-55_1.png.webp",
       "kind": "image",
@@ -47840,6 +47848,14 @@
       "kind": "image",
       "messages": [
         "anpd19n0qs"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/616d90aa-d545-469d-8104-05d52997d79a.webp",
+      "path": "2026-06-20/images/2e3ab86d290aa5a5-Screenshot_2026-06-20-17-29-20-96_com.microsoft..webp",
+      "kind": "image",
+      "messages": [
+        "anpq0mfop1"
       ]
     },
     {
@@ -47923,6 +47939,14 @@
       ]
     },
     {
+      "url": "https://dc.hhhl.cc/files/b4c96068-1aab-468f-a466-a5d650c6041c.webp",
+      "path": "2026-06-20/images/767bece3ccda7547-2026-06-20_17-22-57_1.png.webp",
+      "kind": "image",
+      "messages": [
+        "anpps58dll"
+      ]
+    },
+    {
       "url": "https://dc.hhhl.cc/files/162005d0-1803-45c4-b49e-c43cc3541e73.webp",
       "path": "2026-06-20/images/869b723d9ae107f2-2026-06-20_10-03-38_1.png.webp",
       "kind": "image",
@@ -47944,6 +47968,14 @@
       "kind": "image",
       "messages": [
         "anpnu2v5in"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/9c33ff42-cf44-4f7d-a1ac-7f9a464e2d3b.webp",
+      "path": "2026-06-20/images/8c541abd024ebd0f-2026-06-20_17-23-44_1.png.webp",
+      "kind": "image",
+      "messages": [
+        "anppt90w7n"
       ]
     },
     {
@@ -47984,6 +48016,14 @@
       "kind": "image",
       "messages": [
         "anpokp8z8g"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/734003ab-6843-4163-a475-d6c7cea1a8a6.webp",
+      "path": "2026-06-20/images/a9c31f221a60de77-2026-06-20_17-20-50_1.png.webp",
+      "kind": "image",
+      "messages": [
+        "anppp9wy6j"
       ]
     },
     {
@@ -48067,6 +48107,30 @@
       ]
     },
     {
+      "url": "https://dc.hhhl.cc/files/33ed0271-2880-4e80-9424-57d4fd6e78e5.webp",
+      "path": "2026-06-20/images/e8bc844642d67ece-2026-06-20_17-26-53_1.png.webp",
+      "kind": "image",
+      "messages": [
+        "anppx2e2kq"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/ccc61d9b-44f2-44ef-ba64-15785ce366af.webp",
+      "path": "2026-06-20/images/ed2af5e8b487f728-2026-06-20_17-36-37_1.png.webp",
+      "kind": "image",
+      "messages": [
+        "anpq9hxz3h"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/webpublic-0226f937-7cd3-4fb6-b2d8-1826cd6d813c.jpg",
+      "path": "2026-06-20/images/fe486894733dcd11-IMG_4472.webp",
+      "kind": "image",
+      "messages": [
+        "anpq8vcp22"
+      ]
+    },
+    {
       "url": "https://dc.hhhl.cc/files/thumbnail-1139728a-b6bf-4a96-badb-94502412adce.webp",
       "path": "2026-06-20/thumbnails/0664848a0e37f324-2026-06-20_16-44-56_1.png.webp",
       "kind": "thumbnail",
@@ -48099,11 +48163,27 @@
       ]
     },
     {
+      "url": "https://dc.hhhl.cc/files/thumbnail-46d06e45-ef0a-43fd-a3f6-c684fa1a87cb.jpg",
+      "path": "2026-06-20/thumbnails/19dc8e93be7c4d8a-IMG_4472.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anpq8vcp22"
+      ]
+    },
+    {
       "url": "https://dc.hhhl.cc/files/thumbnail-1556b3b1-6ed4-4085-a4dd-7ccfd7d9042e.png",
       "path": "2026-06-20/thumbnails/28a2704c1b363224-2026-06-20_16-15-07_1.png.webp.webp",
       "kind": "thumbnail",
       "messages": [
         "anpncmz0a6"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-84ee5d8d-24d4-4571-805f-bc83bbeeca41.webp",
+      "path": "2026-06-20/thumbnails/293bf5e199d6be96-2026-06-20_17-36-37_1.png.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anpq9hxz3h"
       ]
     },
     {
@@ -48131,6 +48211,22 @@
       ]
     },
     {
+      "url": "https://dc.hhhl.cc/files/thumbnail-44902065-5ea3-4359-ab04-ab6af7cd697d.webp",
+      "path": "2026-06-20/thumbnails/50a07072f18c1afc-2026-06-20_17-23-44_1.png.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anppt90w7n"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-ded6161a-84f3-4682-bc81-f15b0415e3cd.webp",
+      "path": "2026-06-20/thumbnails/54145383524b3e8c-Screenshot_2026-06-20-17-29-20-96_com.microsoft..webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anpq0mfop1"
+      ]
+    },
+    {
       "url": "https://dc.hhhl.cc/files/thumbnail-309121b4-8866-405d-a65d-667b6434e8b8.webp",
       "path": "2026-06-20/thumbnails/553e72a699998b2b-2026-06-20_14-07-21_1.png.webp",
       "kind": "thumbnail",
@@ -48144,6 +48240,22 @@
       "kind": "thumbnail",
       "messages": [
         "anpd19n0qs"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-6b4f5e75-3784-4f1e-8198-d61d4ce8c6c6.webp",
+      "path": "2026-06-20/thumbnails/5a7277af6c285982-2026-06-20_17-26-53_1.png.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anppx2e2kq"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-a9884c9c-3fdf-4fe7-b064-cca6e0802b69.png",
+      "path": "2026-06-20/thumbnails/5c20512ab50a2d91-2026-06-20_17-18-25_1.png.webp.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anppm5xd5f"
       ]
     },
     {
@@ -48192,6 +48304,14 @@
       "kind": "thumbnail",
       "messages": [
         "anpo9zk0no"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-a006b116-3f40-4d86-831c-02623a6b4c42.webp",
+      "path": "2026-06-20/thumbnails/9f419c846e8c4f85-2026-06-20_17-22-57_1.png.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anpps58dll"
       ]
     },
     {
@@ -48288,6 +48408,14 @@
       "kind": "thumbnail",
       "messages": [
         "anpkv3p234"
+      ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/files/thumbnail-6855c6cb-4158-4b17-8e8b-f758340a3a8e.webp",
+      "path": "2026-06-20/thumbnails/d975bfa6d3fcb775-2026-06-20_17-20-50_1.png.webp",
+      "kind": "thumbnail",
+      "messages": [
+        "anppp9wy6j"
       ]
     },
     {
@@ -58061,7 +58189,8 @@
       "path": "profile/avatars/1abbcc5d8a52f27d-evanus.webp",
       "kind": "avatar",
       "messages": [
-        "anka11x7y5"
+        "anka11x7y5",
+        "anppxo0otx"
       ]
     },
     {
@@ -58116,7 +58245,8 @@
         "annfxxjqot",
         "anng1ip6ne",
         "anng4bnlt2",
-        "anpkqjud8n"
+        "anpkqjud8n",
+        "anpq31n1tp"
       ]
     },
     {
@@ -59149,7 +59279,8 @@
       "kind": "avatar",
       "messages": [
         "anjzdnyev3",
-        "anpncu9cot"
+        "anpncu9cot",
+        "anppxv7kl6"
       ]
     },
     {
@@ -61088,7 +61219,19 @@
         "anpnsi62px",
         "anpnthm3q3",
         "anpntr14ii",
-        "anpo5y7xut"
+        "anpo5y7xut",
+        "anppoyr3jo",
+        "anppprap1k",
+        "anppqs9ez7",
+        "anpps8y43p",
+        "anppwtmwkn",
+        "anpq5jbcpu",
+        "anpq5ogwv6",
+        "anpq5ufb9h",
+        "anpq6dqt1f",
+        "anpq6qv2rl",
+        "anpq8lro1q",
+        "anpq8vcp22"
       ]
     },
     {
@@ -61159,7 +61302,11 @@
       "messages": [
         "anna1g6yxa",
         "anna5fyv17",
-        "anpp5f8n48"
+        "anpp5f8n48",
+        "anppq4nh1m",
+        "anppru7u3l",
+        "anpptj13ih",
+        "anpqa4qetc"
       ]
     },
     {
@@ -66331,7 +66478,8 @@
         "anpofutj4t",
         "anpog1h1y2",
         "anpolxh0rs",
-        "anpoz3h821"
+        "anpoz3h821",
+        "anpq2419p6"
       ]
     },
     {
@@ -69614,7 +69762,13 @@
         "anpnalmpjj",
         "anpnjxv0n4",
         "anpnrp0lhl",
-        "anpoul3jwx"
+        "anpoul3jwx",
+        "anppwxrnmt",
+        "anppxa1nqm",
+        "anpq6a2upv",
+        "anpq6fn7e4",
+        "anpqbjfwhp",
+        "anpqbptz33"
       ]
     },
     {
@@ -70583,7 +70737,10 @@
         "anlxtlqqm3",
         "anlytcwthz",
         "anlytijdro",
-        "anmufnwfxf"
+        "anmufnwfxf",
+        "anppx1o2nk",
+        "anppxwlul7",
+        "anpq1ce4o5"
       ]
     },
     {
@@ -71268,6 +71425,12 @@
         "ani38785ns",
         "ani8olhqco"
       ]
+    },
+    {
+      "url": "https://dc.hhhl.cc/identicon/poi963@dc.hhhl.cc",
+      "path": "profile/avatars/5072356c05ff073e-poi963.png",
+      "kind": "avatar",
+      "messages": []
     },
     {
       "url": "https://dc.hhhl.cc/identicon/heweinianchu@dc.hhhl.cc",
@@ -75425,7 +75588,11 @@
         "anpo794gvg",
         "anpoqxynts",
         "anpou8hayc",
-        "anpoum1fwz"
+        "anpoum1fwz",
+        "anpq9edig3",
+        "anpq9y2fgp",
+        "anpqaiyhg4",
+        "anpqaqs42s"
       ]
     },
     {
@@ -76269,7 +76436,8 @@
       "path": "profile/avatars/68920ad02e886158-Steel.webp",
       "kind": "avatar",
       "messages": [
-        "ane497iuzj"
+        "ane497iuzj",
+        "anpqa1eggu"
       ]
     },
     {
@@ -77011,6 +77179,8 @@
         "ano6dc4ul1",
         "ano6dv2mnf",
         "ano6etvqub",
+        "anpq94cyra",
+        "anpq9dx7wp",
         "manual-screenshot-c15580f8d376dfe4-00216",
         "manual-screenshot-ffba5ee959e7e12f-00369"
       ]
@@ -77054,7 +77224,10 @@
         "anep7ckner",
         "anppl3croy",
         "anppl9qzpl",
-        "anppljqrw3"
+        "anppljqrw3",
+        "anppmgimbk",
+        "anppnly5il",
+        "anppnvtlpi"
       ]
     },
     {
@@ -80684,7 +80857,12 @@
         "ankawfg0u4",
         "ankb43cz41",
         "ankbeekks4",
-        "ankbl90wlp"
+        "ankbl90wlp",
+        "anppwblz1u",
+        "anppwjgl6p",
+        "anppxwe6r1",
+        "anpq0mfop1",
+        "anpq8h8cs5"
       ]
     },
     {
@@ -82881,7 +83059,11 @@
         "anpp3gev2i",
         "anpp3ner2j",
         "anpp5ecal9",
-        "anpp5wh473"
+        "anpp5wh473",
+        "anpqa1ek3q",
+        "anpqakg844",
+        "anpqawvtbt",
+        "anpqb2tf2t"
       ]
     },
     {
@@ -83154,7 +83336,11 @@
         "anop4sqikb",
         "anpi2y2ruy",
         "anpidtkoby",
-        "anpo2utqsx"
+        "anpo2utqsx",
+        "anpps58dll",
+        "anppt90w7n",
+        "anppy1vmr7",
+        "anpq04bcot"
       ]
     },
     {
@@ -85368,7 +85554,10 @@
         "annjsfyaf5",
         "anoq5pkf67",
         "anoq9lb9x8",
-        "anoqaau28r"
+        "anoqaau28r",
+        "anppmcybbh",
+        "anpqa4ebh8",
+        "anpqaazr40"
       ]
     },
     {
@@ -95136,7 +95325,12 @@
         "anpolso5tx",
         "anpp27cebt",
         "anpp320vbz",
-        "anpplmvcw4"
+        "anpplmvcw4",
+        "anpplwvb52",
+        "anppm56oj8",
+        "anppmv4g62",
+        "anppxnr62i",
+        "anppxy1yny"
       ]
     },
     {
@@ -98794,7 +98988,8 @@
         "anov0tfhfs",
         "anpo4se8ib",
         "anpo5061ic",
-        "anpo571xob"
+        "anpo571xob",
+        "anppqhsak3"
       ]
     },
     {
@@ -106952,7 +107147,30 @@
         "anpp42z5ce",
         "anpp5dzd2p",
         "anpplokrqe",
-        "anpplt9xqg"
+        "anpplt9xqg",
+        "anppmol661",
+        "anppmtc3p9",
+        "anppn5gscl",
+        "anpq2y6dws",
+        "anpq36kxtq",
+        "anpq3ameam",
+        "anpq3eknwt",
+        "anpq3m4ax9",
+        "anpq4952y0",
+        "anpq5qck9g",
+        "anpq5ufqep",
+        "anpq6lbpq3",
+        "anpq6pbkez",
+        "anpq765cf8",
+        "anpq7hrhad",
+        "anpq7n6ozt",
+        "anpq8xlo2c",
+        "anpq9d0ag5",
+        "anpq9hxz3h",
+        "anpq9y1cgo",
+        "anpqa44zgy",
+        "anpqapgex6",
+        "anpqb72hsi"
       ]
     },
     {
@@ -115481,6 +115699,17 @@
         "anpi2g8x8w",
         "anpi2qetdg",
         "anpku77r73",
+        "anppm5xd5f",
+        "anppnnrb64",
+        "anppp9wy6j",
+        "anppsf9slm",
+        "anppx2e2kq",
+        "anppxabwqn",
+        "anppxughl5",
+        "anppxyggl8",
+        "anppyg9mmq",
+        "anppymkr8l",
+        "anppyr9euk",
         "manual-screenshot-67deebdd6751ecac-00179",
         "manual-screenshot-fac27914296ca1bd-00055",
         "manual-screenshot-17b859ef0d30d4fb-00008",
@@ -122854,7 +123083,12 @@
         "anpp30hr3y",
         "anpp3p1h6g",
         "anpp6454ml",
-        "anppip2wh5"
+        "anppip2wh5",
+        "anppp5xj6h",
+        "anppsj1xui",
+        "anppsnvvln",
+        "anpptxuesv",
+        "anpq733czs"
       ]
     },
     {
