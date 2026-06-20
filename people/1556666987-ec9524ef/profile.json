@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T10:22:39.909Z",
+  "generatedAt": "2026-06-20T10:42:44.182Z",
   "archiveDir": "/root/jqr/data/archive-media/amlc1bekzi",
   "roomId": "amlc1bekzi",
   "roomName": "总部",
@@ -24,17 +24,17 @@
       "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
       "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
     },
-    "messageCount": 331,
-    "manualCount": 138,
-    "imageCount": 152,
-    "fileCount": 152,
+    "messageCount": 329,
+    "manualCount": 136,
+    "imageCount": 150,
+    "fileCount": 150,
     "reactionCount": 164,
-    "characterCount": 47429,
+    "characterCount": 46797,
     "firstAt": "2026-06-15T07:23:21.000Z",
     "lastAt": "2026-06-20T09:28:21.122Z",
     "days": {
-      "2026-06-15": 13,
-      "2026-06-16": 27,
+      "2026-06-15": 12,
+      "2026-06-16": 26,
       "2026-06-17": 119,
       "2026-06-18": 152,
       "2026-06-19": 4,
@@ -44,71 +44,71 @@
   "keywords": [
     {
       "keyword": "2026",
-      "count": 710
+      "count": 698
     },
     {
       "keyword": "老刀",
-      "count": 564
+      "count": 556
     },
     {
       "keyword": "来源",
-      "count": 414
+      "count": 408
     },
     {
       "keyword": "06",
-      "count": 338
+      "count": 332
     },
     {
       "keyword": "用户",
-      "count": 282
+      "count": 278
     },
     {
       "keyword": "工作",
-      "count": 276
+      "count": 272
     },
     {
       "keyword": "ocr",
-      "count": 275
+      "count": 271
     },
     {
       "keyword": "screenshot",
-      "count": 274
+      "count": 270
     },
     {
       "keyword": "件工",
-      "count": 274
+      "count": 270
     },
     {
       "keyword": "作室",
-      "count": 274
+      "count": 270
     },
     {
       "keyword": "天网",
-      "count": 274
+      "count": 270
     },
     {
       "keyword": "网软",
-      "count": 274
+      "count": 270
     },
     {
       "keyword": "软件",
-      "count": 274
-    },
-    {
-      "keyword": "16",
-      "count": 266
+      "count": 270
     },
     {
       "keyword": "17",
       "count": 261
     },
     {
+      "keyword": "16",
+      "count": 250
+    },
+    {
       "keyword": "webp",
-      "count": 240
+      "count": 236
     },
     {
       "keyword": "18",
-      "count": 203
+      "count": 201
     },
     {
       "keyword": "哈哈",
@@ -116,71 +116,71 @@
     },
     {
       "keyword": "a252b927494330",
-      "count": 156
+      "count": 152
     },
     {
       "keyword": "截图",
-      "count": 140
+      "count": 138
     },
     {
       "keyword": "图片",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "图证",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "据补",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "时间",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "时间来源",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "未知",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "未知用户",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "来源图片",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "来源用户",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "源图",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "源用",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "知用",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "补录",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "证据",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "间来",
-      "count": 138
+      "count": 136
     },
     {
       "keyword": "11",
@@ -192,11 +192,11 @@
     },
     {
       "keyword": "15",
-      "count": 88
+      "count": 84
     },
     {
       "keyword": "thumbnails",
-      "count": 84
+      "count": 82
     },
     {
       "keyword": "回复",
@@ -240,23 +240,23 @@
     },
     {
       "keyword": "ie",
-      "count": 40
+      "count": 36
     },
     {
       "keyword": "33",
-      "count": 38
+      "count": 34
     },
     {
       "keyword": "sh",
       "count": 34
     },
     {
-      "keyword": "03",
+      "keyword": "43",
       "count": 32
     },
     {
-      "keyword": "43",
-      "count": 32
+      "keyword": "03",
+      "count": 30
     },
     {
       "keyword": "你是",
@@ -279,10 +279,6 @@
       "count": 27
     },
     {
-      "keyword": "02",
-      "count": 26
-    },
-    {
       "keyword": "20",
       "count": 26
     },
@@ -295,12 +291,12 @@
       "count": 26
     },
     {
-      "keyword": "08",
+      "keyword": "32",
       "count": 25
     },
     {
-      "keyword": "32",
-      "count": 25
+      "keyword": "02",
+      "count": 24
     },
     {
       "keyword": "49",
@@ -311,6 +307,10 @@
       "count": 24
     },
     {
+      "keyword": "08",
+      "count": 23
+    },
+    {
       "keyword": "24",
       "count": 23
     },
@@ -319,20 +319,8 @@
       "count": 23
     },
     {
-      "keyword": "28",
-      "count": 22
-    },
-    {
-      "keyword": "57",
-      "count": 22
-    },
-    {
       "keyword": "一帮",
       "count": 22
-    },
-    {
-      "keyword": "34",
-      "count": 21
     },
     {
       "keyword": "47",
@@ -355,22 +343,34 @@
       "count": 20
     },
     {
+      "keyword": "28",
+      "count": 20
+    },
+    {
       "keyword": "41",
       "count": 20
     },
     {
       "keyword": "48",
       "count": 20
+    },
+    {
+      "keyword": "51",
+      "count": 20
+    },
+    {
+      "keyword": "57",
+      "count": 20
     }
   ],
   "byDay": [
     {
       "day": "2026-06-15",
-      "count": 13
+      "count": 12
     },
     {
       "day": "2026-06-16",
-      "count": 27
+      "count": 26
     },
     {
       "day": "2026-06-17",
@@ -424,7 +424,7 @@
     },
     {
       "hour": 8,
-      "count": 60
+      "count": 58
     },
     {
       "hour": 9,
@@ -488,6 +488,93 @@
     }
   ],
   "representativeMessages": [
+    {
+      "manual": true,
+      "manualKind": "screenshot-evidence",
+      "id": "manual-screenshot-67deebdd6751ecac-00179",
+      "sequence": 179,
+      "createdAt": "2026-06-15T07:23:21.000Z",
+      "timestampMs": 1781508201000,
+      "date": "2026-06-15",
+      "time": "07:23:21",
+      "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 15:23:21 ‘ge 没事，你们可劲讨伐，别用就完了",
+      "userId": "amknc3y85s",
+      "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "user": {
+        "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+        "id": "amknc3y85s",
+        "username": "1556666987",
+        "name": "天网软件工作室-老刀",
+        "host": null,
+        "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+        "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+      },
+      "replyId": null,
+      "reply": null,
+      "quoteId": null,
+      "quote": null,
+      "reactions": [],
+      "files": [
+        {
+          "id": "manual-file-67deebdd6751ecac",
+          "name": "e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+          "type": null,
+          "url": null,
+          "thumbnailUrl": null,
+          "localUrl": "/archive-media/amlc1bekzi/evidence/images/67deebdd6751ecac-e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+          "isImage": true
+        }
+      ],
+      "evidence": {
+        "sha256": "67deebdd6751ecacb85c63fc5b29ee802baf72e1f7e1e74d39637ca682a65a0e",
+        "filePath": "evidence/images/67deebdd6751ecac-e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "fileName": "e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/67deebdd6751ecac-e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "sourceRelativePath": "2026-06-16/thumbnails/e4d5594de1fb3c5c-Screenshot_2026-06-16-12-41-44-67_a252b927494330.webp",
+        "duplicateOf": null,
+        "duplicateCount": 1,
+        "sourceMessageId": null,
+        "sourceMessageCreatedAt": null,
+        "sourceUserName": "截图证据",
+        "sourceText": null,
+        "observedAt": "2026-06-15T07:23:21.000Z",
+        "timeSource": "ocr",
+        "confidence": "high",
+        "timeCandidates": [
+          {
+            "value": "2026-06-15T07:23:21.000Z",
+            "source": "ocr",
+            "confidence": "high",
+            "raw": "2026/6/15 15:23:21"
+          },
+          {
+            "value": "2026-06-16T07:23:21.000Z",
+            "source": "ocr-partial",
+            "confidence": "medium",
+            "raw": "15:23:21"
+          },
+          {
+            "value": "2026-06-16T04:41:44.000Z",
+            "source": "filename",
+            "confidence": "low",
+            "raw": "2026-06-16-12-41-44"
+          },
+          {
+            "value": "2026-06-20T08:17:32.350Z",
+            "source": "file-mtime",
+            "confidence": "low",
+            "raw": "1781943452350.87"
+          }
+        ],
+        "ocrStatus": "ok",
+        "ocrText": "天网软件工作室-老刀 © 2026/6/15 15:23:21\n‘ge  没事，你们可劲讨伐，别用就完了",
+        "speakerName": "天网软件工作室-老刀",
+        "speakerUsername": null,
+        "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+        "speakerConfidence": "medium",
+        "attribution": "actual-speaker"
+      }
+    },
     {
       "manual": true,
       "manualKind": "screenshot-evidence",
@@ -852,105 +939,6 @@
           }
         ],
         "ocrStatus": "ok",
-        "ocrText": "天网软件工作室-老刀 © 2026/6/15 16:33:34\nie)  我昨天出去摸摸唱到早上五点\n© 2026/6/15 16:33:35 ”从十\n刀哥你怎么急了  Ie",
-        "speakerName": "天网软件工作室-老刀",
-        "speakerUsername": null,
-        "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-        "speakerConfidence": "medium",
-        "attribution": "actual-speaker"
-      }
-    },
-    {
-      "manual": true,
-      "manualKind": "screenshot-evidence",
-      "id": "manual-screenshot-a1575b9b4eb4b9d9-00168",
-      "sequence": 168,
-      "createdAt": "2026-06-15T08:33:34.000Z",
-      "timestampMs": 1781512414000,
-      "date": "2026-06-15",
-      "time": "08:33:34",
-      "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/15 16:33:34 ie) 我昨天出去摸摸唱到早上五点 © 2026/6/15 16:33:35 ”从十 刀哥你怎么急了 Ie",
-      "userId": "amknc3y85s",
-      "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-      "user": {
-        "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-        "id": "amknc3y85s",
-        "username": "1556666987",
-        "name": "天网软件工作室-老刀",
-        "host": null,
-        "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
-        "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
-      },
-      "replyId": null,
-      "reply": null,
-      "quoteId": null,
-      "quote": null,
-      "reactions": [],
-      "files": [
-        {
-          "id": "manual-file-a1575b9b4eb4b9d9",
-          "name": "c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-          "type": null,
-          "url": null,
-          "thumbnailUrl": null,
-          "localUrl": "/archive-media/amlc1bekzi/evidence/images/a1575b9b4eb4b9d9-c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-          "isImage": true
-        }
-      ],
-      "evidence": {
-        "sha256": "a1575b9b4eb4b9d9abef7bb524f6f8864b8aff1b8b92a69c12907a299f8f7b55",
-        "filePath": "evidence/images/a1575b9b4eb4b9d9-c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-        "fileName": "c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/a1575b9b4eb4b9d9-c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-        "sourceRelativePath": "2026-06-16/thumbnails/c7f4bc57df404ddc-Screenshot_2026-06-16-09-08-28-57_a252b927494330.webp",
-        "duplicateOf": "manual-screenshot-a1575b9b4eb4b9d9-00117",
-        "duplicateCount": 2,
-        "sourceMessageId": null,
-        "sourceMessageCreatedAt": null,
-        "sourceUserName": "截图证据",
-        "sourceText": null,
-        "observedAt": "2026-06-15T08:33:34.000Z",
-        "timeSource": "ocr",
-        "confidence": "high",
-        "timeCandidates": [
-          {
-            "value": "2026-06-15T08:33:34.000Z",
-            "source": "ocr",
-            "confidence": "high",
-            "raw": "2026/6/15 16:33:34"
-          },
-          {
-            "value": "2026-06-15T08:33:35.000Z",
-            "source": "ocr",
-            "confidence": "high",
-            "raw": "2026/6/15 16:33:35"
-          },
-          {
-            "value": "2026-06-16T08:33:34.000Z",
-            "source": "ocr-partial",
-            "confidence": "medium",
-            "raw": "16:33:34"
-          },
-          {
-            "value": "2026-06-16T08:33:35.000Z",
-            "source": "ocr-partial",
-            "confidence": "medium",
-            "raw": "16:33:35"
-          },
-          {
-            "value": "2026-06-16T01:08:28.000Z",
-            "source": "filename",
-            "confidence": "low",
-            "raw": "2026-06-16-09-08-28"
-          },
-          {
-            "value": "2026-06-20T08:17:30.970Z",
-            "source": "file-mtime",
-            "confidence": "low",
-            "raw": "1781943450970.87"
-          }
-        ],
-        "ocrStatus": "duplicate",
         "ocrText": "天网软件工作室-老刀 © 2026/6/15 16:33:34\nie)  我昨天出去摸摸唱到早上五点\n© 2026/6/15 16:33:35 ”从十\n刀哥你怎么急了  Ie",
         "speakerName": "天网软件工作室-老刀",
         "speakerUsername": null,
