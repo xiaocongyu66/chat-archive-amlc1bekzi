@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-06-19T13:39:30.307Z",
+  "generatedAt": "2026-06-20T07:36:57.464Z",
   "roomId": "amlc1bekzi",
-  "total": 264,
-  "uniqueImages": 256,
-  "duplicates": 8,
+  "sourceDir": "/root/jqr/data/archive-media/ang2f0u6je",
+  "importedImageDir": "/root/jqr/data/archive-media/amlc1bekzi/evidence/images",
+  "scannedImages": 820,
+  "candidateImages": 820,
+  "includeAllImages": true,
+  "includeNamePattern": "(?:screenshot|screen\\s*shot|截屏|截图|qq_|wechat|微信|telegram|img_)",
+  "includeTextPattern": null,
+  "excludePattern": null,
+  "ocrLanguage": "chi_sim+eng",
+  "total": 820,
+  "uniqueImages": 805,
+  "duplicates": 15,
   "ocrAvailable": true,
-  "highConfidenceTimes": 121,
-  "mediumConfidenceTimes": 78,
-  "lowConfidenceTimes": 65
+  "ocrStatus": "run",
+  "highConfidenceTimes": 190,
+  "mediumConfidenceTimes": 9,
+  "lowConfidenceTimes": 621
 }
