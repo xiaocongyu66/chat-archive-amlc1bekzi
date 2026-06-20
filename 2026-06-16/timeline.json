@@ -20774,8 +20774,8 @@
     "quoteId": null
   },
   {
-    "sequence": 224,
-    "id": "manual-screenshot-765ee5cb3393a127-00224",
+    "sequence": 186,
+    "id": "manual-screenshot-765ee5cb3393a127-00186",
     "createdAt": "2026-06-16T03:30:37.000Z",
     "timestampMs": 1781580637000,
     "date": "2026-06-16",
@@ -20791,8 +20791,8 @@
     "quoteId": null
   },
   {
-    "sequence": 87,
-    "id": "manual-screenshot-82e0e19bf19e14e0-00087",
+    "sequence": 73,
+    "id": "manual-screenshot-82e0e19bf19e14e0-00073",
     "createdAt": "2026-06-16T03:30:37.000Z",
     "timestampMs": 1781580637000,
     "date": "2026-06-16",
@@ -21114,8 +21114,8 @@
     "quoteId": null
   },
   {
-    "sequence": 171,
-    "id": "manual-screenshot-00ceb11354c3eef5-00171",
+    "sequence": 143,
+    "id": "manual-screenshot-00ceb11354c3eef5-00143",
     "createdAt": "2026-06-16T03:34:28.000Z",
     "timestampMs": 1781580868000,
     "date": "2026-06-16",
@@ -21165,8 +21165,8 @@
     "quoteId": null
   },
   {
-    "sequence": 170,
-    "id": "manual-screenshot-03c45a50b158deab-00170",
+    "sequence": 142,
+    "id": "manual-screenshot-03c45a50b158deab-00142",
     "createdAt": "2026-06-16T03:34:49.000Z",
     "timestampMs": 1781580889000,
     "date": "2026-06-16",
@@ -21554,6 +21554,23 @@
     "imageCount": 0,
     "replyId": null,
     "quoteId": "anjnmfbhv1"
+  },
+  {
+    "sequence": 150,
+    "id": "manual-screenshot-45354adfc3ab060a-00150",
+    "createdAt": "2026-06-16T03:36:34.000Z",
+    "timestampMs": 1781580994000,
+    "date": "2026-06-16",
+    "time": "03:36:34",
+    "userUuid": "b1121541-6942-b7fc-904c-c4fd30ce2c8a",
+    "userId": "an43izbwzy",
+    "userName": "行云流水",
+    "username": "power",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：行云流水 OC 2026/6/16 11:36:34 e | © 回复 你放心，我渠道以后不可能开 什么意思，我就问了一句，而且我还 加了爱称“刀哥”",
+    "fileCount": 1,
+    "imageCount": 1,
+    "replyId": null,
+    "quoteId": null
   },
   {
     "sequence": 38993,
@@ -25364,8 +25381,8 @@
     "quoteId": null
   },
   {
-    "sequence": 115,
-    "id": "manual-screenshot-50e41509390d3399-00115",
+    "sequence": 96,
+    "id": "manual-screenshot-50e41509390d3399-00096",
     "createdAt": "2026-06-16T04:28:08.000Z",
     "timestampMs": 1781584088000,
     "date": "2026-06-16",
@@ -25381,8 +25398,8 @@
     "quoteId": null
   },
   {
-    "sequence": 100,
-    "id": "manual-screenshot-fc7949aa68754986-00100",
+    "sequence": 83,
+    "id": "manual-screenshot-fc7949aa68754986-00083",
     "createdAt": "2026-06-16T04:28:08.000Z",
     "timestampMs": 1781584088000,
     "date": "2026-06-16",
@@ -25428,6 +25445,23 @@
     "text": "杂种一个",
     "fileCount": 0,
     "imageCount": 0,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
+    "sequence": 141,
+    "id": "manual-screenshot-6dc9f11efd97fe60-00141",
+    "createdAt": "2026-06-16T04:28:20.000Z",
+    "timestampMs": 1781584100000,
+    "date": "2026-06-16",
+    "time": "04:28:20",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 12:28:20 Sh 我加的那是人吗? 人能边吃边骂司 ~ 子7 97772707 797 2 7 2 7 2 9 GU",
+    "fileCount": 1,
+    "imageCount": 1,
     "replyId": null,
     "quoteId": null
   },
@@ -31246,8 +31280,8 @@
     "quoteId": null
   },
   {
-    "sequence": 154,
-    "id": "manual-screenshot-0046c683cdff840d-00154",
+    "sequence": 129,
+    "id": "manual-screenshot-0046c683cdff840d-00129",
     "createdAt": "2026-06-16T05:55:55.000Z",
     "timestampMs": 1781589355000,
     "date": "2026-06-16",
@@ -31263,8 +31297,8 @@
     "quoteId": null
   },
   {
-    "sequence": 112,
-    "id": "manual-screenshot-800c7e88051aaf49-00112",
+    "sequence": 93,
+    "id": "manual-screenshot-800c7e88051aaf49-00093",
     "createdAt": "2026-06-16T05:55:55.000Z",
     "timestampMs": 1781589355000,
     "date": "2026-06-16",
@@ -31314,6 +31348,23 @@
     "quoteId": null
   },
   {
+    "sequence": 112,
+    "id": "manual-screenshot-46fe60e1c578ac8d-00112",
+    "createdAt": "2026-06-16T05:56:13.000Z",
+    "timestampMs": 1781589373000,
+    "date": "2026-06-16",
+    "time": "05:56:13",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 13:56:13 | | 所 回复 万割这人不诚实呵，典型的挂- PROGR 2 2 2 2 7 RERDRAR",
+    "fileCount": 1,
+    "imageCount": 1,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
     "sequence": 39563,
     "id": "anjsmn8w2t",
     "createdAt": "2026-06-16T05:56:17.840Z",
@@ -31331,8 +31382,8 @@
     "quoteId": null
   },
   {
-    "sequence": 78,
-    "id": "manual-screenshot-6af8267438efe054-00078",
+    "sequence": 65,
+    "id": "manual-screenshot-6af8267438efe054-00065",
     "createdAt": "2026-06-16T05:57:08.000Z",
     "timestampMs": 1781589428000,
     "date": "2026-06-16",
@@ -31348,8 +31399,8 @@
     "quoteId": null
   },
   {
-    "sequence": 227,
-    "id": "manual-screenshot-891fba4933ad9917-00227",
+    "sequence": 189,
+    "id": "manual-screenshot-891fba4933ad9917-00189",
     "createdAt": "2026-06-16T05:57:08.000Z",
     "timestampMs": 1781589428000,
     "date": "2026-06-16",
@@ -31518,8 +31569,8 @@
     "quoteId": null
   },
   {
-    "sequence": 181,
-    "id": "manual-screenshot-0daa4258ca8586a3-00181",
+    "sequence": 151,
+    "id": "manual-screenshot-0daa4258ca8586a3-00151",
     "createdAt": "2026-06-16T05:58:35.000Z",
     "timestampMs": 1781589515000,
     "date": "2026-06-16",
@@ -31620,8 +31671,8 @@
     "quoteId": null
   },
   {
-    "sequence": 48,
-    "id": "manual-screenshot-77dbe18e630eeea0-00048",
+    "sequence": 39,
+    "id": "manual-screenshot-77dbe18e630eeea0-00039",
     "createdAt": "2026-06-16T05:58:55.000Z",
     "timestampMs": 1781589535000,
     "date": "2026-06-16",
@@ -31875,8 +31926,8 @@
     "quoteId": null
   },
   {
-    "sequence": 9,
-    "id": "manual-screenshot-2c0433320006d253-00009",
+    "sequence": 7,
+    "id": "manual-screenshot-2c0433320006d253-00007",
     "createdAt": "2026-06-16T06:00:08.000Z",
     "timestampMs": 1781589608000,
     "date": "2026-06-16",
@@ -31892,8 +31943,8 @@
     "quoteId": null
   },
   {
-    "sequence": 139,
-    "id": "manual-screenshot-59c3641807562d06-00139",
+    "sequence": 116,
+    "id": "manual-screenshot-59c3641807562d06-00116",
     "createdAt": "2026-06-16T06:00:08.000Z",
     "timestampMs": 1781589608000,
     "date": "2026-06-16",
@@ -39015,8 +39066,8 @@
     "quoteId": null
   },
   {
-    "sequence": 113,
-    "id": "manual-screenshot-686f63b0c6e79dc6-00113",
+    "sequence": 94,
+    "id": "manual-screenshot-686f63b0c6e79dc6-00094",
     "createdAt": "2026-06-16T06:37:10.000Z",
     "timestampMs": 1781591830000,
     "date": "2026-06-16",
@@ -39032,8 +39083,8 @@
     "quoteId": null
   },
   {
-    "sequence": 153,
-    "id": "manual-screenshot-b46b54ee998045c5-00153",
+    "sequence": 128,
+    "id": "manual-screenshot-b46b54ee998045c5-00128",
     "createdAt": "2026-06-16T06:37:10.000Z",
     "timestampMs": 1781591830000,
     "date": "2026-06-16",
@@ -52513,8 +52564,8 @@
     "quoteId": null
   },
   {
-    "sequence": 129,
-    "id": "manual-screenshot-04e988fd3e8433bf-00129",
+    "sequence": 109,
+    "id": "manual-screenshot-04e988fd3e8433bf-00109",
     "createdAt": "2026-06-16T08:02:00.000Z",
     "timestampMs": 1781596920000,
     "date": "2026-06-16",
@@ -52530,8 +52581,8 @@
     "quoteId": null
   },
   {
-    "sequence": 39,
-    "id": "manual-screenshot-5121847af0316eca-00039",
+    "sequence": 31,
+    "id": "manual-screenshot-5121847af0316eca-00031",
     "createdAt": "2026-06-16T08:02:00.000Z",
     "timestampMs": 1781596920000,
     "date": "2026-06-16",
@@ -52751,8 +52802,8 @@
     "quoteId": null
   },
   {
-    "sequence": 213,
-    "id": "manual-screenshot-e91c5b14647294e0-00213",
+    "sequence": 178,
+    "id": "manual-screenshot-e91c5b14647294e0-00178",
     "createdAt": "2026-06-16T08:03:06.000Z",
     "timestampMs": 1781596986000,
     "date": "2026-06-16",
@@ -55822,40 +55873,6 @@
     "userName": "猪",
     "username": "AAAA",
     "text": "问号tv 再这样搞我要删库跑路了😭",
-    "fileCount": 1,
-    "imageCount": 1,
-    "replyId": null,
-    "quoteId": null
-  },
-  {
-    "sequence": 61,
-    "id": "manual-screenshot-2d32418cfddc2743-00061",
-    "createdAt": "2026-06-16T08:24:06.000Z",
-    "timestampMs": 1781598246000,
-    "date": "2026-06-16",
-    "time": "08:24:06",
-    "userUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-    "userId": "an2ysiltbn",
-    "userName": "promise",
-    "username": "hjypromise",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/images/7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：promise © 2026/6/16 16:24:06 8 HH 天网软件工作室-老刀 © 2026/6/16 16:24:09 & 先别领了~",
-    "fileCount": 1,
-    "imageCount": 1,
-    "replyId": null,
-    "quoteId": null
-  },
-  {
-    "sequence": 131,
-    "id": "manual-screenshot-a402f942983aa6c1-00131",
-    "createdAt": "2026-06-16T08:24:06.000Z",
-    "timestampMs": 1781598246000,
-    "date": "2026-06-16",
-    "time": "08:24:06",
-    "userUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-    "userId": "an2ysiltbn",
-    "userName": "promise",
-    "username": "hjypromise",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：promise © 2026/6/16 16:24:06 e) HH 天网软件工作室-老刀 © 2026/6/16 16:24:09 & 先别领了~",
     "fileCount": 1,
     "imageCount": 1,
     "replyId": null,
@@ -59500,8 +59517,8 @@
     "quoteId": null
   },
   {
-    "sequence": 184,
-    "id": "manual-screenshot-08227015b5cb517c-00184",
+    "sequence": 154,
+    "id": "manual-screenshot-08227015b5cb517c-00154",
     "createdAt": "2026-06-16T09:01:31.000Z",
     "timestampMs": 1781600491000,
     "date": "2026-06-16",
@@ -59517,8 +59534,8 @@
     "quoteId": null
   },
   {
-    "sequence": 85,
-    "id": "manual-screenshot-84474820df2edc4d-00085",
+    "sequence": 71,
+    "id": "manual-screenshot-84474820df2edc4d-00071",
     "createdAt": "2026-06-16T09:01:31.000Z",
     "timestampMs": 1781600491000,
     "date": "2026-06-16",
@@ -59717,6 +59734,23 @@
     "text": "我基本上都是反问，然后说按照你的理解去推进",
     "fileCount": 0,
     "imageCount": 0,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
+    "sequence": 157,
+    "id": "manual-screenshot-daf85202442958be-00157",
+    "createdAt": "2026-06-16T09:02:09.000Z",
+    "timestampMs": 1781600529000,
+    "date": "2026-06-16",
+    "time": "09:02:09",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/961080963f936b57-IMG_20260615_170630.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：天网软件工作室-老刀 © 2026/6/15 17:02:09 ie | © 回复 老刀那个昨天注册了，早上登~- 我清你妈了个逼了，来，把你被清空 的日志截图发出来，",
+    "fileCount": 1,
+    "imageCount": 1,
     "replyId": null,
     "quoteId": null
   },
@@ -62492,8 +62526,8 @@
     "quoteId": null
   },
   {
-    "sequence": 228,
-    "id": "manual-screenshot-9472fc906afd818f-00228",
+    "sequence": 190,
+    "id": "manual-screenshot-9472fc906afd818f-00190",
     "createdAt": "2026-06-16T09:33:24.000Z",
     "timestampMs": 1781602404000,
     "date": "2026-06-16",
@@ -63359,23 +63393,6 @@
     "quoteId": null
   },
   {
-    "sequence": 132,
-    "id": "manual-screenshot-c5568fb4a464c8e4-00132",
-    "createdAt": "2026-06-16T09:47:48.000Z",
-    "timestampMs": 1781603268000,
-    "date": "2026-06-16",
-    "time": "09:47:48",
-    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-    "userId": "amknc3y85s",
-    "userName": "天网软件工作室-老刀",
-    "username": "1556666987",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：”天网软件工作室-老刀 © 2026/6/16 17:47:48 > 4 Hf 我产品一个月充值项你们这帮吃着碗 ” ”里骂着厨子的傻逼一辈子的存款了",
-    "fileCount": 1,
-    "imageCount": 1,
-    "replyId": null,
-    "quoteId": null
-  },
-  {
     "sequence": 41431,
     "id": "ank0wuqv83",
     "createdAt": "2026-06-16T09:48:11.047Z",
@@ -63444,8 +63461,8 @@
     "quoteId": null
   },
   {
-    "sequence": 46,
-    "id": "manual-screenshot-10ed875763a94bb3-00046",
+    "sequence": 37,
+    "id": "manual-screenshot-10ed875763a94bb3-00037",
     "createdAt": "2026-06-16T09:48:22.000Z",
     "timestampMs": 1781603302000,
     "date": "2026-06-16",
@@ -63461,8 +63478,8 @@
     "quoteId": null
   },
   {
-    "sequence": 141,
-    "id": "manual-screenshot-58e97026922188d9-00141",
+    "sequence": 118,
+    "id": "manual-screenshot-58e97026922188d9-00118",
     "createdAt": "2026-06-16T09:48:22.000Z",
     "timestampMs": 1781603302000,
     "date": "2026-06-16",
@@ -63699,8 +63716,8 @@
     "quoteId": null
   },
   {
-    "sequence": 17,
-    "id": "manual-screenshot-6342368a4a3b424d-00017",
+    "sequence": 14,
+    "id": "manual-screenshot-6342368a4a3b424d-00014",
     "createdAt": "2026-06-16T09:50:05.000Z",
     "timestampMs": 1781603405000,
     "date": "2026-06-16",
@@ -63716,8 +63733,8 @@
     "quoteId": null
   },
   {
-    "sequence": 185,
-    "id": "manual-screenshot-800494d8d986f782-00185",
+    "sequence": 155,
+    "id": "manual-screenshot-800494d8d986f782-00155",
     "createdAt": "2026-06-16T09:50:05.000Z",
     "timestampMs": 1781603405000,
     "date": "2026-06-16",
@@ -64090,6 +64107,23 @@
     "quoteId": null
   },
   {
+    "sequence": 137,
+    "id": "manual-screenshot-fb52892410f31d55-00137",
+    "createdAt": "2026-06-16T09:51:45.000Z",
+    "timestampMs": 1781603505000,
+    "date": "2026-06-16",
+    "time": "09:51:45",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 17:51:45 | 就是一帮吃着免费Hoken的，说一个拿 ~ 着自己渠道放出来给大家路的站长乱 改模型价格",
+    "fileCount": 1,
+    "imageCount": 1,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
     "sequence": 41469,
     "id": "ank11tfegi",
     "createdAt": "2026-06-16T09:52:02.618Z",
@@ -64120,6 +64154,23 @@
     "text": "你查得我id用你的吗",
     "fileCount": 0,
     "imageCount": 0,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
+    "sequence": 120,
+    "id": "manual-screenshot-8d13a03dc0ff418a-00120",
+    "createdAt": "2026-06-16T09:52:18.000Z",
+    "timestampMs": 1781603538000,
+    "date": "2026-06-16",
+    "time": "09:52:18",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 17:52:18 Sh 你始了个各你不想跑别人的价格，你 ~ 倒是跑你自己渠道跑你自己价格啊?",
+    "fileCount": 1,
+    "imageCount": 1,
     "replyId": null,
     "quoteId": null
   },
@@ -66436,8 +66487,8 @@
     "quoteId": null
   },
   {
-    "sequence": 117,
-    "id": "manual-screenshot-56e84a7a900011c2-00117",
+    "sequence": 98,
+    "id": "manual-screenshot-56e84a7a900011c2-00098",
     "createdAt": "2026-06-16T10:06:27.000Z",
     "timestampMs": 1781604387000,
     "date": "2026-06-16",
@@ -66878,8 +66929,8 @@
     "quoteId": null
   },
   {
-    "sequence": 128,
-    "id": "manual-screenshot-1d56bdf293681346-00128",
+    "sequence": 108,
+    "id": "manual-screenshot-1d56bdf293681346-00108",
     "createdAt": "2026-06-16T10:07:44.000Z",
     "timestampMs": 1781604464000,
     "date": "2026-06-16",
@@ -66895,8 +66946,8 @@
     "quoteId": null
   },
   {
-    "sequence": 22,
-    "id": "manual-screenshot-9db28b1ff1f01420-00022",
+    "sequence": 19,
+    "id": "manual-screenshot-9db28b1ff1f01420-00019",
     "createdAt": "2026-06-16T10:07:44.000Z",
     "timestampMs": 1781604464000,
     "date": "2026-06-16",
@@ -67252,8 +67303,8 @@
     "quoteId": null
   },
   {
-    "sequence": 124,
-    "id": "manual-screenshot-33b140d8e9bcb4fd-00124",
+    "sequence": 104,
+    "id": "manual-screenshot-33b140d8e9bcb4fd-00104",
     "createdAt": "2026-06-16T10:09:00.000Z",
     "timestampMs": 1781604540000,
     "date": "2026-06-16",
@@ -67320,8 +67371,8 @@
     "quoteId": null
   },
   {
-    "sequence": 146,
-    "id": "manual-screenshot-c627ff001b12f681-00146",
+    "sequence": 123,
+    "id": "manual-screenshot-c627ff001b12f681-00123",
     "createdAt": "2026-06-16T10:09:08.000Z",
     "timestampMs": 1781604548000,
     "date": "2026-06-16",
@@ -72216,6 +72267,23 @@
     "quoteId": null
   },
   {
+    "sequence": 97,
+    "id": "manual-screenshot-e8d082bee9a5465d-00097",
+    "createdAt": "2026-06-16T10:33:27.000Z",
+    "timestampMs": 1781606007000,
+    "date": "2026-06-16",
+    "time": "10:33:27",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "userId": "amknc3y85s",
+    "userName": "天网软件工作室-老刀",
+    "username": "1556666987",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 OC 2026/6/16 18:33:27 ie 不敢用快去别人那用，别尼玛在这儿 SER, Ist SHARE KREIS 呢?",
+    "fileCount": 1,
+    "imageCount": 1,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
     "sequence": 41942,
     "id": "ank2j7wv7f",
     "createdAt": "2026-06-16T10:33:34.159Z",
@@ -72947,8 +73015,8 @@
     "quoteId": null
   },
   {
-    "sequence": 159,
-    "id": "manual-screenshot-742994861d4de47c-00159",
+    "sequence": 133,
+    "id": "manual-screenshot-742994861d4de47c-00133",
     "createdAt": "2026-06-16T10:37:21.000Z",
     "timestampMs": 1781606241000,
     "date": "2026-06-16",
@@ -72958,23 +73026,6 @@
     "userName": "铁山靠",
     "username": "1963641534",
     "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/63821e88d85232a8-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：铁山靠 © 2026/6/16 18:37:21 & TAMAR, SEMLER 骂过刀没，就说了句不敢用，刚才这 玩意就骂我",
-    "fileCount": 1,
-    "imageCount": 1,
-    "replyId": null,
-    "quoteId": null
-  },
-  {
-    "sequence": 52,
-    "id": "manual-screenshot-c9091b038c94f894-00052",
-    "createdAt": "2026-06-16T10:37:21.000Z",
-    "timestampMs": 1781606241000,
-    "date": "2026-06-16",
-    "time": "10:37:21",
-    "userUuid": "4deb9e67-4d5e-bc67-dd1b-c7d0727d6989",
-    "userId": "anfnwknocs",
-    "userName": "铁山靠",
-    "username": "1963641534",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/images/63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：铁山靠 ©) 2026/6/16 18:37:21 TAMAR, SEALER I S808, MRT ARB, MTB RERSH",
     "fileCount": 1,
     "imageCount": 1,
     "replyId": null,
@@ -85901,8 +85952,8 @@
     "quoteId": null
   },
   {
-    "sequence": 134,
-    "id": "manual-screenshot-3a3632158833b0be-00134",
+    "sequence": 113,
+    "id": "manual-screenshot-3a3632158833b0be-00113",
     "createdAt": "2026-06-16T12:54:38.000Z",
     "timestampMs": 1781614478000,
     "date": "2026-06-16",
@@ -85918,8 +85969,8 @@
     "quoteId": null
   },
   {
-    "sequence": 77,
-    "id": "manual-screenshot-634b112f3343817f-00077",
+    "sequence": 64,
+    "id": "manual-screenshot-634b112f3343817f-00064",
     "createdAt": "2026-06-16T12:54:38.000Z",
     "timestampMs": 1781614478000,
     "date": "2026-06-16",
@@ -86700,8 +86751,8 @@
     "quoteId": null
   },
   {
-    "sequence": 188,
-    "id": "manual-screenshot-b15051ff7271efcf-00188",
+    "sequence": 158,
+    "id": "manual-screenshot-b15051ff7271efcf-00158",
     "createdAt": "2026-06-16T13:01:06.000Z",
     "timestampMs": 1781614866000,
     "date": "2026-06-16",
@@ -86717,8 +86768,8 @@
     "quoteId": null
   },
   {
-    "sequence": 47,
-    "id": "manual-screenshot-bb3d9585a1aff1c9-00047",
+    "sequence": 38,
+    "id": "manual-screenshot-bb3d9585a1aff1c9-00038",
     "createdAt": "2026-06-16T13:01:06.000Z",
     "timestampMs": 1781614866000,
     "date": "2026-06-16",
@@ -109633,8 +109684,8 @@
     "quoteId": null
   },
   {
-    "sequence": 144,
-    "id": "manual-screenshot-b0f8c05c5d79e939-00144",
+    "sequence": 121,
+    "id": "manual-screenshot-b0f8c05c5d79e939-00121",
     "createdAt": "2026-06-16T15:54:00.000Z",
     "timestampMs": 1781625240000,
     "date": "2026-06-16",
@@ -109769,8 +109820,25 @@
     "quoteId": null
   },
   {
-    "sequence": 226,
-    "id": "manual-screenshot-fea0ec2c01025e71-00226",
+    "sequence": 2,
+    "id": "manual-screenshot-97dd90d2943d8c32-00002",
+    "createdAt": "2026-06-16T15:55:00.000Z",
+    "timestampMs": 1781625300000,
+    "date": "2026-06-16",
+    "time": "15:55:00",
+    "userUuid": "d9330586-724e-c5d4-933e-ecfbd3729690",
+    "userId": "anhmc50547",
+    "userName": "666",
+    "username": "1368948522",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/images/0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：老刀-1556666987 省着让你误以为所有ls下游都炸 了 23:55 未读消息 v @J)-1556666987 啊-~~~ 25:55",
+    "fileCount": 1,
+    "imageCount": 1,
+    "replyId": null,
+    "quoteId": null
+  },
+  {
+    "sequence": 188,
+    "id": "manual-screenshot-fea0ec2c01025e71-00188",
     "createdAt": "2026-06-16T15:55:00.000Z",
     "timestampMs": 1781625300000,
     "date": "2026-06-16",
@@ -113849,8 +113917,8 @@
     "quoteId": null
   },
   {
-    "sequence": 196,
-    "id": "manual-screenshot-26b205da4c578935-00196",
+    "sequence": 165,
+    "id": "manual-screenshot-26b205da4c578935-00165",
     "createdAt": "2026-06-16T16:29:32.000Z",
     "timestampMs": 1781627372000,
     "date": "2026-06-16",
@@ -113866,8 +113934,8 @@
     "quoteId": null
   },
   {
-    "sequence": 29,
-    "id": "manual-screenshot-339048df9692f7b4-00029",
+    "sequence": 23,
+    "id": "manual-screenshot-339048df9692f7b4-00023",
     "createdAt": "2026-06-16T16:29:32.000Z",
     "timestampMs": 1781627372000,
     "date": "2026-06-16",
@@ -132392,23 +132460,6 @@
     "text": "这样的",
     "fileCount": 0,
     "imageCount": 0,
-    "replyId": null,
-    "quoteId": null
-  },
-  {
-    "sequence": 323,
-    "id": "manual-screenshot-a6c1e81ac2483663-00323",
-    "createdAt": "2026-06-16T22:12:52.000Z",
-    "timestampMs": 1781647972000,
-    "date": "2026-06-16",
-    "time": "22:12:52",
-    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-    "userId": "amknc3y85s",
-    "userName": "天网软件工作室-老刀",
-    "username": "1556666987",
-    "text": "[截图证据补录]\n来源图片：2026-06-17/images/d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/17 6:12:52 & 等有时间了，我也去倒腾些FREE号给大家路，这几天新项目上线，根 本没空整这些东西。",
-    "fileCount": 1,
-    "imageCount": 1,
     "replyId": null,
     "quoteId": null
   },

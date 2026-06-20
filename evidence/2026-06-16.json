@@ -2,8 +2,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-765ee5cb3393a127-00224",
-    "sequence": 224,
+    "id": "manual-screenshot-765ee5cb3393a127-00186",
+    "sequence": 186,
     "createdAt": "2026-06-16T03:30:37.000Z",
     "timestampMs": 1781580637000,
     "date": "2026-06-16",
@@ -71,10 +71,10 @@
           "raw": "2026-06-16-11-38-28"
         },
         {
-          "value": "2026-06-20T06:34:52.254Z",
+          "value": "2026-06-20T08:17:29.958Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937292254.8699"
+          "raw": "1781943449958.87"
         }
       ],
       "ocrStatus": "ok",
@@ -89,8 +89,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-82e0e19bf19e14e0-00087",
-    "sequence": 87,
+    "id": "manual-screenshot-82e0e19bf19e14e0-00073",
+    "sequence": 73,
     "createdAt": "2026-06-16T03:30:37.000Z",
     "timestampMs": 1781580637000,
     "date": "2026-06-16",
@@ -157,10 +157,10 @@
           "raw": "2026-06-16-11-38-28"
         },
         {
-          "value": "2026-06-20T06:34:52.222Z",
+          "value": "2026-06-20T08:17:30.018Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937292222.8699"
+          "raw": "1781943450018.87"
         }
       ],
       "ocrStatus": "ok",
@@ -175,8 +175,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-00ceb11354c3eef5-00171",
-    "sequence": 171,
+    "id": "manual-screenshot-00ceb11354c3eef5-00143",
+    "sequence": 143,
     "createdAt": "2026-06-16T03:34:28.000Z",
     "timestampMs": 1781580868000,
     "date": "2026-06-16",
@@ -244,10 +244,10 @@
           "raw": "2026-06-16-11-38-47"
         },
         {
-          "value": "2026-06-20T06:34:53.006Z",
+          "value": "2026-06-20T08:17:30.138Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937293006.8699"
+          "raw": "1781943450138.87"
         }
       ],
       "ocrStatus": "ok",
@@ -262,8 +262,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-03c45a50b158deab-00170",
-    "sequence": 170,
+    "id": "manual-screenshot-03c45a50b158deab-00142",
+    "sequence": 142,
     "createdAt": "2026-06-16T03:34:49.000Z",
     "timestampMs": 1781580889000,
     "date": "2026-06-16",
@@ -331,10 +331,10 @@
           "raw": "2026-06-16-11-39-01"
         },
         {
-          "value": "2026-06-20T06:34:52.454Z",
+          "value": "2026-06-20T08:17:30.178Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937292454.8699"
+          "raw": "1781943450178.87"
         }
       ],
       "ocrStatus": "ok",
@@ -349,8 +349,95 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-50e41509390d3399-00115",
-    "sequence": 115,
+    "id": "manual-screenshot-45354adfc3ab060a-00150",
+    "sequence": 150,
+    "createdAt": "2026-06-16T03:36:34.000Z",
+    "timestampMs": 1781580994000,
+    "date": "2026-06-16",
+    "time": "03:36:34",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：行云流水 OC 2026/6/16 11:36:34 e | © 回复 你放心，我渠道以后不可能开 什么意思，我就问了一句，而且我还 加了爱称“刀哥”",
+    "userId": "an43izbwzy",
+    "userUuid": "b1121541-6942-b7fc-904c-c4fd30ce2c8a",
+    "user": {
+      "uuid": "b1121541-6942-b7fc-904c-c4fd30ce2c8a",
+      "id": "an43izbwzy",
+      "username": "power",
+      "name": "行云流水",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/identicon/power@dc.hhhl.cc",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/a4f94a2e2b0661b4-power.png"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-45354adfc3ab060a",
+        "name": "8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/45354adfc3ab060a-8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "45354adfc3ab060afdc30ae6708f2e0a31d86be5ddc51b5f1d3b8153e1d6effd",
+      "filePath": "evidence/images/45354adfc3ab060a-8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+      "fileName": "8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/45354adfc3ab060a-8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/8e19866a0933d174-Screenshot_2026-06-16-11-39-19-40_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T03:36:34.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T03:36:34.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 11:36:34"
+        },
+        {
+          "value": "2026-06-16T03:36:34.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "11:36:34"
+        },
+        {
+          "value": "2026-06-16T03:39:19.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-11-39-19"
+        },
+        {
+          "value": "2026-06-20T08:17:30.246Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943450246.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "行云流水 OC 2026/6/16 11:36:34\n\ne  | © 回复 你放心，我渠道以后不可能开\n什么意思，我就问了一句，而且我还\n加了爱称“刀哥”",
+      "speakerName": "行云流水 OC",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "b1121541-6942-b7fc-904c-c4fd30ce2c8a",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-50e41509390d3399-00096",
+    "sequence": 96,
     "createdAt": "2026-06-16T04:28:08.000Z",
     "timestampMs": 1781584088000,
     "date": "2026-06-16",
@@ -418,10 +505,10 @@
           "raw": "2026-06-16-12-47-07"
         },
         {
-          "value": "2026-06-20T06:35:00.778Z",
+          "value": "2026-06-20T08:17:32.662Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937300778.8699"
+          "raw": "1781943452662.87"
         }
       ],
       "ocrStatus": "ok",
@@ -436,8 +523,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-fc7949aa68754986-00100",
-    "sequence": 100,
+    "id": "manual-screenshot-fc7949aa68754986-00083",
+    "sequence": 83,
     "createdAt": "2026-06-16T04:28:08.000Z",
     "timestampMs": 1781584088000,
     "date": "2026-06-16",
@@ -505,10 +592,10 @@
           "raw": "2026-06-16-12-47-07"
         },
         {
-          "value": "2026-06-20T06:35:00.446Z",
+          "value": "2026-06-20T08:17:32.534Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937300446.8699"
+          "raw": "1781943452534.87"
         }
       ],
       "ocrStatus": "ok",
@@ -523,8 +610,95 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-0046c683cdff840d-00154",
-    "sequence": 154,
+    "id": "manual-screenshot-6dc9f11efd97fe60-00141",
+    "sequence": 141,
+    "createdAt": "2026-06-16T04:28:20.000Z",
+    "timestampMs": 1781584100000,
+    "date": "2026-06-16",
+    "time": "04:28:20",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 12:28:20 Sh 我加的那是人吗? 人能边吃边骂司 ~ 子7 97772707 797 2 7 2 7 2 9 GU",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-6dc9f11efd97fe60",
+        "name": "72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/6dc9f11efd97fe60-72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "6dc9f11efd97fe602de0693a63276864dfbdf41805f56406c4c2ac47cbc9c90d",
+      "filePath": "evidence/images/6dc9f11efd97fe60-72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+      "fileName": "72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/6dc9f11efd97fe60-72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/72b7d8cf07f71f17-Screenshot_2026-06-16-12-46-52-51_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T04:28:20.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T04:28:20.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 12:28:20"
+        },
+        {
+          "value": "2026-06-16T04:28:20.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "12:28:20"
+        },
+        {
+          "value": "2026-06-16T04:46:52.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-12-46-52"
+        },
+        {
+          "value": "2026-06-20T08:17:32.682Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943452682.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/16 12:28:20\nSh   我加的那是人吗? 人能边吃边骂司\n~  子7 97772707 797 2 7 2 7 2 9\nGU",
+      "speakerName": "天网软件工作室-老刀",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-0046c683cdff840d-00129",
+    "sequence": 129,
     "createdAt": "2026-06-16T05:55:55.000Z",
     "timestampMs": 1781589355000,
     "date": "2026-06-16",
@@ -592,10 +766,10 @@
           "raw": "2026-06-16-13-56-24"
         },
         {
-          "value": "2026-06-20T06:35:02.330Z",
+          "value": "2026-06-20T08:17:32.994Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937302330.8699"
+          "raw": "1781943452994.87"
         }
       ],
       "ocrStatus": "ok",
@@ -610,8 +784,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-800c7e88051aaf49-00112",
-    "sequence": 112,
+    "id": "manual-screenshot-800c7e88051aaf49-00093",
+    "sequence": 93,
     "createdAt": "2026-06-16T05:55:55.000Z",
     "timestampMs": 1781589355000,
     "date": "2026-06-16",
@@ -679,10 +853,10 @@
           "raw": "2026-06-16-13-56-24"
         },
         {
-          "value": "2026-06-20T06:35:02.638Z",
+          "value": "2026-06-20T08:17:32.906Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937302638.8699"
+          "raw": "1781943452906.87"
         }
       ],
       "ocrStatus": "ok",
@@ -697,8 +871,95 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-6af8267438efe054-00078",
-    "sequence": 78,
+    "id": "manual-screenshot-46fe60e1c578ac8d-00112",
+    "sequence": 112,
+    "createdAt": "2026-06-16T05:56:13.000Z",
+    "timestampMs": 1781589373000,
+    "date": "2026-06-16",
+    "time": "05:56:13",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 13:56:13 | | 所 回复 万割这人不诚实呵，典型的挂- PROGR 2 2 2 2 7 RERDRAR",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-46fe60e1c578ac8d",
+        "name": "276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/46fe60e1c578ac8d-276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "46fe60e1c578ac8d2a92fe8f87b581cbaa0ebae9c18623e3d690e308bdab817a",
+      "filePath": "evidence/images/46fe60e1c578ac8d-276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+      "fileName": "276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/46fe60e1c578ac8d-276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/276ef08ed2a4b54e-Screenshot_2026-06-16-13-56-40-44_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T05:56:13.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T05:56:13.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 13:56:13"
+        },
+        {
+          "value": "2026-06-16T05:56:13.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "13:56:13"
+        },
+        {
+          "value": "2026-06-16T05:56:40.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-13-56-40"
+        },
+        {
+          "value": "2026-06-20T08:17:32.934Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943452934.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/16 13:56:13\n\n|  | 所 回复 万割这人不诚实呵，典型的挂-\nPROGR 2 2 2 2 7\nRERDRAR",
+      "speakerName": "天网软件工作室-老刀",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-6af8267438efe054-00065",
+    "sequence": 65,
     "createdAt": "2026-06-16T05:57:08.000Z",
     "timestampMs": 1781589428000,
     "date": "2026-06-16",
@@ -766,10 +1027,10 @@
           "raw": "2026-06-16-13-57-50"
         },
         {
-          "value": "2026-06-20T06:35:04.086Z",
+          "value": "2026-06-20T08:17:33.006Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937304086.8699"
+          "raw": "1781943453006.87"
         }
       ],
       "ocrStatus": "ok",
@@ -784,8 +1045,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-891fba4933ad9917-00227",
-    "sequence": 227,
+    "id": "manual-screenshot-891fba4933ad9917-00189",
+    "sequence": 189,
     "createdAt": "2026-06-16T05:57:08.000Z",
     "timestampMs": 1781589428000,
     "date": "2026-06-16",
@@ -853,10 +1114,10 @@
           "raw": "2026-06-16-13-57-50"
         },
         {
-          "value": "2026-06-20T06:35:03.302Z",
+          "value": "2026-06-20T08:17:33.074Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937303302.8699"
+          "raw": "1781943453074.87"
         }
       ],
       "ocrStatus": "ok",
@@ -871,8 +1132,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-0daa4258ca8586a3-00181",
-    "sequence": 181,
+    "id": "manual-screenshot-0daa4258ca8586a3-00151",
+    "sequence": 151,
     "createdAt": "2026-06-16T05:58:35.000Z",
     "timestampMs": 1781589515000,
     "date": "2026-06-16",
@@ -940,10 +1201,10 @@
           "raw": "2026-06-16-14-01-00"
         },
         {
-          "value": "2026-06-20T06:35:03.450Z",
+          "value": "2026-06-20T08:17:33.046Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937303450.8699"
+          "raw": "1781943453046.87"
         }
       ],
       "ocrStatus": "ok",
@@ -958,8 +1219,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-77dbe18e630eeea0-00048",
-    "sequence": 48,
+    "id": "manual-screenshot-77dbe18e630eeea0-00039",
+    "sequence": 39,
     "createdAt": "2026-06-16T05:58:55.000Z",
     "timestampMs": 1781589535000,
     "date": "2026-06-16",
@@ -1029,10 +1290,10 @@
           "raw": "2026-06-16-14-01-00"
         },
         {
-          "value": "2026-06-20T06:35:03.726Z",
+          "value": "2026-06-20T08:17:33.138Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937303726.8699"
+          "raw": "1781943453138.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1047,8 +1308,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-2c0433320006d253-00009",
-    "sequence": 9,
+    "id": "manual-screenshot-2c0433320006d253-00007",
+    "sequence": 7,
     "createdAt": "2026-06-16T06:00:08.000Z",
     "timestampMs": 1781589608000,
     "date": "2026-06-16",
@@ -1116,10 +1377,10 @@
           "raw": "2026-06-16-14-00-38"
         },
         {
-          "value": "2026-06-20T06:35:05.370Z",
+          "value": "2026-06-20T08:17:33.146Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937305370.8699"
+          "raw": "1781943453146.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1134,8 +1395,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-59c3641807562d06-00139",
-    "sequence": 139,
+    "id": "manual-screenshot-59c3641807562d06-00116",
+    "sequence": 116,
     "createdAt": "2026-06-16T06:00:08.000Z",
     "timestampMs": 1781589608000,
     "date": "2026-06-16",
@@ -1203,10 +1464,10 @@
           "raw": "2026-06-16-14-00-38"
         },
         {
-          "value": "2026-06-20T06:35:03.866Z",
+          "value": "2026-06-20T08:17:33.194Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937303866.8699"
+          "raw": "1781943453194.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1221,8 +1482,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-686f63b0c6e79dc6-00113",
-    "sequence": 113,
+    "id": "manual-screenshot-686f63b0c6e79dc6-00094",
+    "sequence": 94,
     "createdAt": "2026-06-16T06:37:10.000Z",
     "timestampMs": 1781591830000,
     "date": "2026-06-16",
@@ -1289,10 +1550,10 @@
           "raw": "2026-06-16-14-37-34"
         },
         {
-          "value": "2026-06-20T06:35:04.986Z",
+          "value": "2026-06-20T08:17:34.470Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937304986.8699"
+          "raw": "1781943454470.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1307,8 +1568,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-b46b54ee998045c5-00153",
-    "sequence": 153,
+    "id": "manual-screenshot-b46b54ee998045c5-00128",
+    "sequence": 128,
     "createdAt": "2026-06-16T06:37:10.000Z",
     "timestampMs": 1781591830000,
     "date": "2026-06-16",
@@ -1375,10 +1636,10 @@
           "raw": "2026-06-16-14-37-34"
         },
         {
-          "value": "2026-06-20T06:35:04.322Z",
+          "value": "2026-06-20T08:17:33.238Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937304322.8699"
+          "raw": "1781943453238.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1393,8 +1654,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-04e988fd3e8433bf-00129",
-    "sequence": 129,
+    "id": "manual-screenshot-04e988fd3e8433bf-00109",
+    "sequence": 109,
     "createdAt": "2026-06-16T08:02:00.000Z",
     "timestampMs": 1781596920000,
     "date": "2026-06-16",
@@ -1462,10 +1723,10 @@
           "raw": "2026-06-16-16-03-18"
         },
         {
-          "value": "2026-06-20T06:35:05.446Z",
+          "value": "2026-06-20T08:17:33.386Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937305446.8699"
+          "raw": "1781943453386.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1480,8 +1741,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-5121847af0316eca-00039",
-    "sequence": 39,
+    "id": "manual-screenshot-5121847af0316eca-00031",
+    "sequence": 31,
     "createdAt": "2026-06-16T08:02:00.000Z",
     "timestampMs": 1781596920000,
     "date": "2026-06-16",
@@ -1549,10 +1810,10 @@
           "raw": "2026-06-16-16-03-18"
         },
         {
-          "value": "2026-06-20T06:35:05.966Z",
+          "value": "2026-06-20T08:17:33.334Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937305966.8699"
+          "raw": "1781943453334.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1636,10 +1897,10 @@
           "raw": "2026-06-16-16-03-31"
         },
         {
-          "value": "2026-06-20T06:35:07.014Z",
+          "value": "2026-06-20T08:17:33.446Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937307014.8699"
+          "raw": "1781943453446.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1654,8 +1915,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-e91c5b14647294e0-00213",
-    "sequence": 213,
+    "id": "manual-screenshot-e91c5b14647294e0-00178",
+    "sequence": 178,
     "createdAt": "2026-06-16T08:03:06.000Z",
     "timestampMs": 1781596986000,
     "date": "2026-06-16",
@@ -1723,10 +1984,10 @@
           "raw": "2026-06-16-16-03-31"
         },
         {
-          "value": "2026-06-20T06:35:05.790Z",
+          "value": "2026-06-20T08:17:34.382Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937305790.8699"
+          "raw": "1781943454382.87"
         }
       ],
       "ocrStatus": "ok",
@@ -1741,194 +2002,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-2d32418cfddc2743-00061",
-    "sequence": 61,
-    "createdAt": "2026-06-16T08:24:06.000Z",
-    "timestampMs": 1781598246000,
-    "date": "2026-06-16",
-    "time": "08:24:06",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/images/7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：promise © 2026/6/16 16:24:06 8 HH 天网软件工作室-老刀 © 2026/6/16 16:24:09 & 先别领了~",
-    "userId": "an2ysiltbn",
-    "userUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-    "user": {
-      "uuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-      "id": "an2ysiltbn",
-      "username": "hjypromise",
-      "name": "promise",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/identicon/hjypromise@dc.hhhl.cc",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/1d7b3f8ae7058b85-hjypromise.png"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-2d32418cfddc2743",
-        "name": "7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/2d32418cfddc2743-7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "2d32418cfddc27436dc920f8b0f062512456c16d9346b1cda28bb26e6ad9b9e5",
-      "filePath": "evidence/images/2d32418cfddc2743-7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "fileName": "7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/2d32418cfddc2743-7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "sourceRelativePath": "2026-06-16/images/7bff3288d18e9a1c-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-16T08:24:06.000Z",
-      "timeSource": "ocr",
-      "confidence": "high",
-      "timeCandidates": [
-        {
-          "value": "2026-06-16T08:24:06.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 16:24:06"
-        },
-        {
-          "value": "2026-06-16T08:24:09.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 16:24:09"
-        },
-        {
-          "value": "2026-06-16T08:24:06.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "16:24:06"
-        },
-        {
-          "value": "2026-06-16T08:24:09.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "16:24:09"
-        },
-        {
-          "value": "2026-06-20T06:35:14.310Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937314310.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "promise © 2026/6/16 16:24:06\n8    HH\n\n天网软件工作室-老刀 © 2026/6/16 16:24:09\n&    先别领了~",
-      "speakerName": "promise",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-a402f942983aa6c1-00131",
-    "sequence": 131,
-    "createdAt": "2026-06-16T08:24:06.000Z",
-    "timestampMs": 1781598246000,
-    "date": "2026-06-16",
-    "time": "08:24:06",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：promise © 2026/6/16 16:24:06 e) HH 天网软件工作室-老刀 © 2026/6/16 16:24:09 & 先别领了~",
-    "userId": "an2ysiltbn",
-    "userUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-    "user": {
-      "uuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-      "id": "an2ysiltbn",
-      "username": "hjypromise",
-      "name": "promise",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/identicon/hjypromise@dc.hhhl.cc",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/1d7b3f8ae7058b85-hjypromise.png"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-a402f942983aa6c1",
-        "name": "26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/a402f942983aa6c1-26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "a402f942983aa6c16e8448b7ca9e25dbb683cffad52435823f2ad1f669198d96",
-      "filePath": "evidence/images/a402f942983aa6c1-26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "fileName": "26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/a402f942983aa6c1-26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "sourceRelativePath": "2026-06-16/thumbnails/26b3cffc4b147542-thumbnail-712494cc-3aa9-4894-98a4-738115025fdc.j.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-16T08:24:06.000Z",
-      "timeSource": "ocr",
-      "confidence": "high",
-      "timeCandidates": [
-        {
-          "value": "2026-06-16T08:24:06.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 16:24:06"
-        },
-        {
-          "value": "2026-06-16T08:24:09.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 16:24:09"
-        },
-        {
-          "value": "2026-06-16T08:24:06.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "16:24:06"
-        },
-        {
-          "value": "2026-06-16T08:24:09.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "16:24:09"
-        },
-        {
-          "value": "2026-06-20T06:35:14.506Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937314506.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "promise © 2026/6/16 16:24:06\ne)    HH\n\n天网软件工作室-老刀 © 2026/6/16 16:24:09\n&    先别领了~",
-      "speakerName": "promise",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "72db3156-3af8-65f7-d21d-e3b831ea8d77",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-08227015b5cb517c-00184",
-    "sequence": 184,
+    "id": "manual-screenshot-08227015b5cb517c-00154",
+    "sequence": 154,
     "createdAt": "2026-06-16T09:01:31.000Z",
     "timestampMs": 1781600491000,
     "date": "2026-06-16",
@@ -1998,10 +2073,10 @@
           "raw": "20260615_170615"
         },
         {
-          "value": "2026-06-20T06:34:50.662Z",
+          "value": "2026-06-20T08:17:29.706Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937290662.8699"
+          "raw": "1781943449706.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2016,8 +2091,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-84474820df2edc4d-00085",
-    "sequence": 85,
+    "id": "manual-screenshot-84474820df2edc4d-00071",
+    "sequence": 71,
     "createdAt": "2026-06-16T09:01:31.000Z",
     "timestampMs": 1781600491000,
     "date": "2026-06-16",
@@ -2087,10 +2162,10 @@
           "raw": "20260615_170615"
         },
         {
-          "value": "2026-06-20T06:34:51.102Z",
+          "value": "2026-06-20T08:17:29.618Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937291102.8699"
+          "raw": "1781943449618.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2105,8 +2180,97 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-9472fc906afd818f-00228",
-    "sequence": 228,
+    "id": "manual-screenshot-daf85202442958be-00157",
+    "sequence": 157,
+    "createdAt": "2026-06-16T09:02:09.000Z",
+    "timestampMs": 1781600529000,
+    "date": "2026-06-16",
+    "time": "09:02:09",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/961080963f936b57-IMG_20260615_170630.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：天网软件工作室-老刀 © 2026/6/15 17:02:09 ie | © 回复 老刀那个昨天注册了，早上登~- 我清你妈了个逼了，来，把你被清空 的日志截图发出来，",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-daf85202442958be",
+        "name": "961080963f936b57-IMG_20260615_170630.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/daf85202442958be-961080963f936b57-IMG_20260615_170630.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "daf85202442958be4d34fd8ce8fe12dbc7dd1c83ae924465056ce77810f3f550",
+      "filePath": "evidence/images/daf85202442958be-961080963f936b57-IMG_20260615_170630.webp",
+      "fileName": "961080963f936b57-IMG_20260615_170630.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/daf85202442958be-961080963f936b57-IMG_20260615_170630.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/961080963f936b57-IMG_20260615_170630.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T09:02:09.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-15T09:02:09.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/15 17:02:09",
+          "ignored": true,
+          "reason": "context-date"
+        },
+        {
+          "value": "2026-06-16T09:02:09.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "17:02:09"
+        },
+        {
+          "value": "2026-06-15T09:06:30.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "20260615_170630"
+        },
+        {
+          "value": "2026-06-20T08:17:29.658Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943449658.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/15 17:02:09\n\nie  | © 回复 老刀那个昨天注册了，早上登~-\n我清你妈了个逼了，来，把你被清空\n的日志截图发出来，",
+      "speakerName": "天网软件工作室-老刀",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-9472fc906afd818f-00190",
+    "sequence": 190,
     "createdAt": "2026-06-16T09:33:24.000Z",
     "timestampMs": 1781602404000,
     "date": "2026-06-16",
@@ -2188,10 +2352,10 @@
           "raw": "2026-06-16-17-35-20"
         },
         {
-          "value": "2026-06-20T06:35:07.154Z",
+          "value": "2026-06-20T08:17:33.642Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937307154.8699"
+          "raw": "1781943453642.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2206,95 +2370,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-c5568fb4a464c8e4-00132",
-    "sequence": 132,
-    "createdAt": "2026-06-16T09:47:48.000Z",
-    "timestampMs": 1781603268000,
-    "date": "2026-06-16",
-    "time": "09:47:48",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：”天网软件工作室-老刀 © 2026/6/16 17:47:48 > 4 Hf 我产品一个月充值项你们这帮吃着碗 ” ”里骂着厨子的傻逼一辈子的存款了",
-    "userId": "amknc3y85s",
-    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-    "user": {
-      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-      "id": "amknc3y85s",
-      "username": "1556666987",
-      "name": "天网软件工作室-老刀",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-c5568fb4a464c8e4",
-        "name": "26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/c5568fb4a464c8e4-26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "c5568fb4a464c8e470a94128c2496975a53ba99a0a5645e8f67f3cb742808224",
-      "filePath": "evidence/images/c5568fb4a464c8e4-26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-      "fileName": "26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/c5568fb4a464c8e4-26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-      "sourceRelativePath": "2026-06-16/thumbnails/26dc6912fb919e57-Screenshot_2026-06-16-17-48-40-95_a252b927494330.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-16T09:47:48.000Z",
-      "timeSource": "ocr",
-      "confidence": "high",
-      "timeCandidates": [
-        {
-          "value": "2026-06-16T09:47:48.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 17:47:48"
-        },
-        {
-          "value": "2026-06-16T09:47:48.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "17:47:48"
-        },
-        {
-          "value": "2026-06-16T09:48:40.000Z",
-          "source": "filename",
-          "confidence": "low",
-          "raw": "2026-06-16-17-48-40"
-        },
-        {
-          "value": "2026-06-20T06:35:07.298Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937307298.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "”天网软件工作室-老刀 © 2026/6/16 17:47:48\n> 4\nHf   我产品一个月充值项你们这帮吃着碗\n” ”里骂着厨子的傻逼一辈子的存款了",
-      "speakerName": "天网软件工作室-老刀",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-10ed875763a94bb3-00046",
-    "sequence": 46,
+    "id": "manual-screenshot-10ed875763a94bb3-00037",
+    "sequence": 37,
     "createdAt": "2026-06-16T09:48:22.000Z",
     "timestampMs": 1781603302000,
     "date": "2026-06-16",
@@ -2362,10 +2439,10 @@
           "raw": "2026-06-16-17-49-04"
         },
         {
-          "value": "2026-06-20T06:35:08.586Z",
+          "value": "2026-06-20T08:17:33.806Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937308586.8699"
+          "raw": "1781943453806.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2380,8 +2457,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-58e97026922188d9-00141",
-    "sequence": 141,
+    "id": "manual-screenshot-58e97026922188d9-00118",
+    "sequence": 118,
     "createdAt": "2026-06-16T09:48:22.000Z",
     "timestampMs": 1781603302000,
     "date": "2026-06-16",
@@ -2449,10 +2526,10 @@
           "raw": "2026-06-16-17-49-04"
         },
         {
-          "value": "2026-06-20T06:35:07.502Z",
+          "value": "2026-06-20T08:17:33.806Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937307502.8699"
+          "raw": "1781943453806.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2467,8 +2544,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-6342368a4a3b424d-00017",
-    "sequence": 17,
+    "id": "manual-screenshot-6342368a4a3b424d-00014",
+    "sequence": 14,
     "createdAt": "2026-06-16T09:50:05.000Z",
     "timestampMs": 1781603405000,
     "date": "2026-06-16",
@@ -2536,10 +2613,10 @@
           "raw": "2026-06-16-17-52-58"
         },
         {
-          "value": "2026-06-20T06:35:09.014Z",
+          "value": "2026-06-20T08:17:34.098Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937309014.8699"
+          "raw": "1781943454098.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2554,8 +2631,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-800494d8d986f782-00185",
-    "sequence": 185,
+    "id": "manual-screenshot-800494d8d986f782-00155",
+    "sequence": 155,
     "createdAt": "2026-06-16T09:50:05.000Z",
     "timestampMs": 1781603405000,
     "date": "2026-06-16",
@@ -2623,10 +2700,10 @@
           "raw": "2026-06-16-17-52-58"
         },
         {
-          "value": "2026-06-20T06:35:08.422Z",
+          "value": "2026-06-20T08:17:35.078Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937308422.8699"
+          "raw": "1781943455078.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2641,8 +2718,182 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-56e84a7a900011c2-00117",
-    "sequence": 117,
+    "id": "manual-screenshot-fb52892410f31d55-00137",
+    "sequence": 137,
+    "createdAt": "2026-06-16T09:51:45.000Z",
+    "timestampMs": 1781603505000,
+    "date": "2026-06-16",
+    "time": "09:51:45",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 17:51:45 | 就是一帮吃着免费Hoken的，说一个拿 ~ 着自己渠道放出来给大家路的站长乱 改模型价格",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-fb52892410f31d55",
+        "name": "6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/fb52892410f31d55-6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "fb52892410f31d55f0c2bd02d69fa52bbf84a48648b71758de2927757aa126c6",
+      "filePath": "evidence/images/fb52892410f31d55-6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+      "fileName": "6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/fb52892410f31d55-6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/6db5d060d827cb24-Screenshot_2026-06-16-17-53-07-74_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T09:51:45.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T09:51:45.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 17:51:45"
+        },
+        {
+          "value": "2026-06-16T09:51:45.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "17:51:45"
+        },
+        {
+          "value": "2026-06-16T09:53:07.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-17-53-07"
+        },
+        {
+          "value": "2026-06-20T08:17:34.266Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943454266.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/16 17:51:45\n|   就是一帮吃着免费Hoken的，说一个拿\n~      着自己渠道放出来给大家路的站长乱\n改模型价格",
+      "speakerName": "天网软件工作室-老刀",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-8d13a03dc0ff418a-00120",
+    "sequence": 120,
+    "createdAt": "2026-06-16T09:52:18.000Z",
+    "timestampMs": 1781603538000,
+    "date": "2026-06-16",
+    "time": "09:52:18",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/16 17:52:18 Sh 你始了个各你不想跑别人的价格，你 ~ 倒是跑你自己渠道跑你自己价格啊?",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-8d13a03dc0ff418a",
+        "name": "3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/8d13a03dc0ff418a-3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "8d13a03dc0ff418ae61f9932a458e923386c51e5a14217b76b7b181391d0e524",
+      "filePath": "evidence/images/8d13a03dc0ff418a-3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+      "fileName": "3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/8d13a03dc0ff418a-3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/3edf883d120f7252-Screenshot_2026-06-16-17-53-15-83_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T09:52:18.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T09:52:18.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 17:52:18"
+        },
+        {
+          "value": "2026-06-16T09:52:18.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "17:52:18"
+        },
+        {
+          "value": "2026-06-16T09:53:15.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-17-53-15"
+        },
+        {
+          "value": "2026-06-20T08:17:34.386Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943454386.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 © 2026/6/16 17:52:18\nSh 你始了个各你不想跑别人的价格，你\n~     倒是跑你自己渠道跑你自己价格啊?",
+      "speakerName": "天网软件工作室-老刀",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-56e84a7a900011c2-00098",
+    "sequence": 98,
     "createdAt": "2026-06-16T10:06:27.000Z",
     "timestampMs": 1781604387000,
     "date": "2026-06-16",
@@ -2710,10 +2961,10 @@
           "raw": "2026-06-16-18-07-28"
         },
         {
-          "value": "2026-06-20T06:35:10.302Z",
+          "value": "2026-06-20T08:17:36.098Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937310302.8699"
+          "raw": "1781943456098.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2728,8 +2979,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-1d56bdf293681346-00128",
-    "sequence": 128,
+    "id": "manual-screenshot-1d56bdf293681346-00108",
+    "sequence": 108,
     "createdAt": "2026-06-16T10:07:44.000Z",
     "timestampMs": 1781604464000,
     "date": "2026-06-16",
@@ -2797,10 +3048,10 @@
           "raw": "2026-06-16-18-10-08"
         },
         {
-          "value": "2026-06-20T06:35:10.950Z",
+          "value": "2026-06-20T08:17:35.062Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937310950.8699"
+          "raw": "1781943455062.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2815,8 +3066,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-9db28b1ff1f01420-00022",
-    "sequence": 22,
+    "id": "manual-screenshot-9db28b1ff1f01420-00019",
+    "sequence": 19,
     "createdAt": "2026-06-16T10:07:44.000Z",
     "timestampMs": 1781604464000,
     "date": "2026-06-16",
@@ -2884,10 +3135,10 @@
           "raw": "2026-06-16-18-10-08"
         },
         {
-          "value": "2026-06-20T06:35:11.182Z",
+          "value": "2026-06-20T08:17:35.110Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937311182.8699"
+          "raw": "1781943455110.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2902,8 +3153,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-33b140d8e9bcb4fd-00124",
-    "sequence": 124,
+    "id": "manual-screenshot-33b140d8e9bcb4fd-00104",
+    "sequence": 104,
     "createdAt": "2026-06-16T10:09:00.000Z",
     "timestampMs": 1781604540000,
     "date": "2026-06-16",
@@ -2971,10 +3222,10 @@
           "raw": "2026-06-16-18-10-53"
         },
         {
-          "value": "2026-06-20T06:35:12.502Z",
+          "value": "2026-06-20T08:17:35.498Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937312502.8699"
+          "raw": "1781943455498.87"
         }
       ],
       "ocrStatus": "ok",
@@ -2989,8 +3240,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-c627ff001b12f681-00146",
-    "sequence": 146,
+    "id": "manual-screenshot-c627ff001b12f681-00123",
+    "sequence": 123,
     "createdAt": "2026-06-16T10:09:08.000Z",
     "timestampMs": 1781604548000,
     "date": "2026-06-16",
@@ -3058,10 +3309,10 @@
           "raw": "2026-06-16-18-11-03"
         },
         {
-          "value": "2026-06-20T06:35:11.826Z",
+          "value": "2026-06-20T08:17:35.542Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937311826.8699"
+          "raw": "1781943455542.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3076,8 +3327,95 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-742994861d4de47c-00159",
-    "sequence": 159,
+    "id": "manual-screenshot-e8d082bee9a5465d-00097",
+    "sequence": 97,
+    "createdAt": "2026-06-16T10:33:27.000Z",
+    "timestampMs": 1781606007000,
+    "date": "2026-06-16",
+    "time": "10:33:27",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/thumbnails/01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 OC 2026/6/16 18:33:27 ie 不敢用快去别人那用，别尼玛在这儿 SER, Ist SHARE KREIS 呢?",
+    "userId": "amknc3y85s",
+    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+    "user": {
+      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "id": "amknc3y85s",
+      "username": "1556666987",
+      "name": "天网软件工作室-老刀",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-e8d082bee9a5465d",
+        "name": "01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/e8d082bee9a5465d-01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "e8d082bee9a5465d20e363a89f0906a1c970d244aa83bb869eb6f8dd1d3b9955",
+      "filePath": "evidence/images/e8d082bee9a5465d-01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+      "fileName": "01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/e8d082bee9a5465d-01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+      "sourceRelativePath": "2026-06-16/thumbnails/01e592659eca3d04-Screenshot_2026-06-16-18-33-43-74_a252b927494330.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T10:33:27.000Z",
+      "timeSource": "ocr",
+      "confidence": "high",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T10:33:27.000Z",
+          "source": "ocr",
+          "confidence": "high",
+          "raw": "2026/6/16 18:33:27"
+        },
+        {
+          "value": "2026-06-16T10:33:27.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "18:33:27"
+        },
+        {
+          "value": "2026-06-16T10:33:43.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-18-33-43"
+        },
+        {
+          "value": "2026-06-20T08:17:35.726Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943455726.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "天网软件工作室-老刀 OC 2026/6/16 18:33:27\n\nie  不敢用快去别人那用，别尼玛在这儿\n\n    SER, Ist SHARE KREIS\n呢?",
+      "speakerName": "天网软件工作室-老刀 OC",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-742994861d4de47c-00133",
+    "sequence": 133,
     "createdAt": "2026-06-16T10:37:21.000Z",
     "timestampMs": 1781606241000,
     "date": "2026-06-16",
@@ -3145,10 +3483,10 @@
           "raw": "2026-06-16-18-37-35"
         },
         {
-          "value": "2026-06-20T06:35:13.266Z",
+          "value": "2026-06-20T08:17:35.942Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937313266.8699"
+          "raw": "1781943455942.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3163,95 +3501,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-c9091b038c94f894-00052",
-    "sequence": 52,
-    "createdAt": "2026-06-16T10:37:21.000Z",
-    "timestampMs": 1781606241000,
-    "date": "2026-06-16",
-    "time": "10:37:21",
-    "text": "[截图证据补录]\n来源图片：2026-06-16/images/63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：铁山靠 ©) 2026/6/16 18:37:21 TAMAR, SEALER I S808, MRT ARB, MTB RERSH",
-    "userId": "anfnwknocs",
-    "userUuid": "4deb9e67-4d5e-bc67-dd1b-c7d0727d6989",
-    "user": {
-      "uuid": "4deb9e67-4d5e-bc67-dd1b-c7d0727d6989",
-      "id": "anfnwknocs",
-      "username": "1963641534",
-      "name": "铁山靠",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2F47e8a937-dc60-4044-aff1-ed96b621584f.png&avatar=1",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/d1a6d5c34f46ee58-1963641534.webp"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-c9091b038c94f894",
-        "name": "63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/c9091b038c94f894-63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "c9091b038c94f894dc6d3b95a7eea734aeb7f76d832843279e0326cbd226d218",
-      "filePath": "evidence/images/c9091b038c94f894-63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-      "fileName": "63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/c9091b038c94f894-63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-      "sourceRelativePath": "2026-06-16/images/63aacb6932f75416-Screenshot_2026-06-16-18-37-35-46_a252b927494330.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-16T10:37:21.000Z",
-      "timeSource": "ocr",
-      "confidence": "high",
-      "timeCandidates": [
-        {
-          "value": "2026-06-16T10:37:21.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/16 18:37:21"
-        },
-        {
-          "value": "2026-06-16T10:37:21.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "18:37:21"
-        },
-        {
-          "value": "2026-06-16T10:37:35.000Z",
-          "source": "filename",
-          "confidence": "low",
-          "raw": "2026-06-16-18-37-35"
-        },
-        {
-          "value": "2026-06-20T06:35:13.790Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937313790.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "铁山靠 ©) 2026/6/16 18:37:21\n TAMAR, SEALER\nI S808, MRT ARB, MTB\n\nRERSH",
-      "speakerName": "铁山靠",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "4deb9e67-4d5e-bc67-dd1b-c7d0727d6989",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-3a3632158833b0be-00134",
-    "sequence": 134,
+    "id": "manual-screenshot-3a3632158833b0be-00113",
+    "sequence": 113,
     "createdAt": "2026-06-16T12:54:38.000Z",
     "timestampMs": 1781614478000,
     "date": "2026-06-16",
@@ -3313,10 +3564,10 @@
           "raw": "20:54:38"
         },
         {
-          "value": "2026-06-20T06:35:14.006Z",
+          "value": "2026-06-20T08:17:35.918Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937314006.8699"
+          "raw": "1781943455918.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3331,8 +3582,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-634b112f3343817f-00077",
-    "sequence": 77,
+    "id": "manual-screenshot-634b112f3343817f-00064",
+    "sequence": 64,
     "createdAt": "2026-06-16T12:54:38.000Z",
     "timestampMs": 1781614478000,
     "date": "2026-06-16",
@@ -3394,10 +3645,10 @@
           "raw": "20:54:38"
         },
         {
-          "value": "2026-06-20T06:35:14.434Z",
+          "value": "2026-06-20T08:17:36.014Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937314434.8699"
+          "raw": "1781943456014.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3412,8 +3663,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-b15051ff7271efcf-00188",
-    "sequence": 188,
+    "id": "manual-screenshot-b15051ff7271efcf-00158",
+    "sequence": 158,
     "createdAt": "2026-06-16T13:01:06.000Z",
     "timestampMs": 1781614866000,
     "date": "2026-06-16",
@@ -3474,10 +3725,10 @@
           "raw": "21:01:06"
         },
         {
-          "value": "2026-06-20T06:35:13.622Z",
+          "value": "2026-06-20T08:17:36.086Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937313622.8699"
+          "raw": "1781943456086.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3492,8 +3743,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-bb3d9585a1aff1c9-00047",
-    "sequence": 47,
+    "id": "manual-screenshot-bb3d9585a1aff1c9-00038",
+    "sequence": 38,
     "createdAt": "2026-06-16T13:01:06.000Z",
     "timestampMs": 1781614866000,
     "date": "2026-06-16",
@@ -3555,10 +3806,10 @@
           "raw": "21:01:06"
         },
         {
-          "value": "2026-06-20T06:35:14.502Z",
+          "value": "2026-06-20T08:17:35.914Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937314502.8699"
+          "raw": "1781943455914.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3573,8 +3824,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-b0f8c05c5d79e939-00144",
-    "sequence": 144,
+    "id": "manual-screenshot-b0f8c05c5d79e939-00121",
+    "sequence": 121,
     "createdAt": "2026-06-16T15:54:00.000Z",
     "timestampMs": 1781625240000,
     "date": "2026-06-16",
@@ -3635,10 +3886,10 @@
           "raw": "2026-06-16-23-55-27"
         },
         {
-          "value": "2026-06-20T06:35:17.790Z",
+          "value": "2026-06-20T08:17:37.102Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937317790.8699"
+          "raw": "1781943457102.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3653,8 +3904,89 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-fea0ec2c01025e71-00226",
-    "sequence": 226,
+    "id": "manual-screenshot-97dd90d2943d8c32-00002",
+    "sequence": 2,
+    "createdAt": "2026-06-16T15:55:00.000Z",
+    "timestampMs": 1781625300000,
+    "date": "2026-06-16",
+    "time": "15:55:00",
+    "text": "[截图证据补录]\n来源图片：2026-06-16/images/0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：老刀-1556666987 省着让你误以为所有ls下游都炸 了 23:55 未读消息 v @J)-1556666987 啊-~~~ 25:55",
+    "userId": "anhmc50547",
+    "userUuid": "d9330586-724e-c5d4-933e-ecfbd3729690",
+    "user": {
+      "uuid": "d9330586-724e-c5d4-933e-ecfbd3729690",
+      "id": "anhmc50547",
+      "username": "1368948522",
+      "name": "666",
+      "host": null,
+      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fefcf292f-f303-438f-86d9-549b87f1d5e4.png&avatar=1",
+      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/0af4738b9b7278a1-1368948522.webp"
+    },
+    "replyId": null,
+    "reply": null,
+    "quoteId": null,
+    "quote": null,
+    "reactions": [],
+    "files": [
+      {
+        "id": "manual-file-97dd90d2943d8c32",
+        "name": "0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+        "type": null,
+        "url": null,
+        "thumbnailUrl": null,
+        "localUrl": "/archive-media/amlc1bekzi/evidence/images/97dd90d2943d8c32-0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+        "isImage": true
+      }
+    ],
+    "evidence": {
+      "sha256": "97dd90d2943d8c326e76bfdd9dfe02b57c17b40390960414a2f59617c364b16a",
+      "filePath": "evidence/images/97dd90d2943d8c32-0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+      "fileName": "0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+      "localUrl": "/archive-media/amlc1bekzi/evidence/images/97dd90d2943d8c32-0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+      "sourceRelativePath": "2026-06-16/images/0180f94160f07592-Screenshot_2026-06-16-23-56-02-06_7d47d81692b309.webp",
+      "duplicateOf": null,
+      "duplicateCount": 1,
+      "sourceMessageId": null,
+      "sourceMessageCreatedAt": null,
+      "sourceUserName": "截图证据",
+      "sourceText": null,
+      "observedAt": "2026-06-16T15:55:00.000Z",
+      "timeSource": "ocr-partial",
+      "confidence": "medium",
+      "timeCandidates": [
+        {
+          "value": "2026-06-16T15:55:00.000Z",
+          "source": "ocr-partial",
+          "confidence": "medium",
+          "raw": "23:55"
+        },
+        {
+          "value": "2026-06-16T15:56:02.000Z",
+          "source": "filename",
+          "confidence": "low",
+          "raw": "2026-06-16-23-56-02"
+        },
+        {
+          "value": "2026-06-20T08:17:38.810Z",
+          "source": "file-mtime",
+          "confidence": "low",
+          "raw": "1781943458810.87"
+        }
+      ],
+      "ocrStatus": "ok",
+      "ocrText": "老刀-1556666987\n省着让你误以为所有ls下游都炸\n了                                         23:55\n未读消息                              v\n@J)-1556666987\n      啊-~~~ 25:55",
+      "speakerName": "OCR 老刀-1556666987 省着让你误以为所有ls下游都炸 了",
+      "speakerUsername": null,
+      "speakerMatchedUserUuid": "d9330586-724e-c5d4-933e-ecfbd3729690",
+      "speakerConfidence": "medium",
+      "attribution": "actual-speaker"
+    }
+  },
+  {
+    "manual": true,
+    "manualKind": "screenshot-evidence",
+    "id": "manual-screenshot-fea0ec2c01025e71-00188",
+    "sequence": 188,
     "createdAt": "2026-06-16T15:55:00.000Z",
     "timestampMs": 1781625300000,
     "date": "2026-06-16",
@@ -3716,10 +4048,10 @@
           "raw": "2026-06-16-23-56-02"
         },
         {
-          "value": "2026-06-20T06:35:18.334Z",
+          "value": "2026-06-20T08:17:37.250Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937318334.8699"
+          "raw": "1781943457250.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3734,8 +4066,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-26b205da4c578935-00196",
-    "sequence": 196,
+    "id": "manual-screenshot-26b205da4c578935-00165",
+    "sequence": 165,
     "createdAt": "2026-06-16T16:29:32.000Z",
     "timestampMs": 1781627372000,
     "date": "2026-06-16",
@@ -3797,10 +4129,10 @@
           "raw": "00:29:32"
         },
         {
-          "value": "2026-06-20T06:35:21.602Z",
+          "value": "2026-06-20T08:17:37.826Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937321602.8699"
+          "raw": "1781943457826.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3815,8 +4147,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-339048df9692f7b4-00029",
-    "sequence": 29,
+    "id": "manual-screenshot-339048df9692f7b4-00023",
+    "sequence": 23,
     "createdAt": "2026-06-16T16:29:32.000Z",
     "timestampMs": 1781627372000,
     "date": "2026-06-16",
@@ -3878,10 +4210,10 @@
           "raw": "00:29:32"
         },
         {
-          "value": "2026-06-20T06:35:22.630Z",
+          "value": "2026-06-20T08:17:37.898Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937322630.8699"
+          "raw": "1781943457898.87"
         }
       ],
       "ocrStatus": "ok",
@@ -3889,87 +4221,6 @@
       "speakerName": "wq0410",
       "speakerUsername": null,
       "speakerMatchedUserUuid": "6a18b1fd-a9ba-4438-2e6e-ce767c340b8a",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-a6c1e81ac2483663-00323",
-    "sequence": 323,
-    "createdAt": "2026-06-16T22:12:52.000Z",
-    "timestampMs": 1781647972000,
-    "date": "2026-06-16",
-    "time": "22:12:52",
-    "text": "[截图证据补录]\n来源图片：2026-06-17/images/d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp\n来源用户：未知用户\n时间来源：ocr\nOCR：天网软件工作室-老刀 © 2026/6/17 6:12:52 & 等有时间了，我也去倒腾些FREE号给大家路，这几天新项目上线，根 本没空整这些东西。",
-    "userId": "amknc3y85s",
-    "userUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-    "user": {
-      "uuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
-      "id": "amknc3y85s",
-      "username": "1556666987",
-      "name": "天网软件工作室-老刀",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/proxy/avatar.webp?url=https%3A%2F%2Fdc.hhhl.cc%2Ffiles%2Fcb177d07-daca-41a8-9980-c9bb4240af7a.png&avatar=1",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/e20a649ed6ed62fc-1556666987.webp"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-a6c1e81ac2483663",
-        "name": "d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/a6c1e81ac2483663-d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "a6c1e81ac24836631bcde0b7db9b52890477df209f0a7452efa441cce7f1821f",
-      "filePath": "evidence/images/a6c1e81ac2483663-d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-      "fileName": "d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/a6c1e81ac2483663-d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-      "sourceRelativePath": "2026-06-17/images/d1dfaeae2d5de961-thumbnail-6b0d8943-9f7b-4204-9fa7-0bed02a4cc6b.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-16T22:12:52.000Z",
-      "timeSource": "ocr",
-      "confidence": "high",
-      "timeCandidates": [
-        {
-          "value": "2026-06-16T22:12:52.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/17 6:12:52"
-        },
-        {
-          "value": "2026-06-16T22:12:52.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "6:12:52"
-        },
-        {
-          "value": "2026-06-20T06:35:49.998Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937349998.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "天网软件工作室-老刀 © 2026/6/17 6:12:52\n&  等有时间了，我也去倒腾些FREE号给大家路，这几天新项目上线，根\n本没空整这些东西。",
-      "speakerName": "天网软件工作室-老刀",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "ec9524ef-eb5e-05d8-e958-9d2231012677",
       "speakerConfidence": "medium",
       "attribution": "actual-speaker"
     }

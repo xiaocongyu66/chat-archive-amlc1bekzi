@@ -2,8 +2,8 @@
   {
     "manual": true,
     "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-968c373a7689dde6-00707",
-    "sequence": 707,
+    "id": "manual-screenshot-968c373a7689dde6-00563",
+    "sequence": 563,
     "createdAt": "2026-06-19T03:20:00.000Z",
     "timestampMs": 1781839200000,
     "date": "2026-06-19",
@@ -58,10 +58,10 @@
           "raw": "11:20"
         },
         {
-          "value": "2026-06-20T06:36:28.926Z",
+          "value": "2026-06-20T08:17:56.286Z",
           "source": "file-mtime",
           "confidence": "low",
-          "raw": "1781937388926.8699"
+          "raw": "1781943476286.87"
         }
       ],
       "ocrStatus": "ok",
@@ -69,200 +69,6 @@
       "speakerName": "3 API BRAS",
       "speakerUsername": null,
       "speakerMatchedUserUuid": "speaker:BR",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-d32e03eec5267782-00718",
-    "sequence": 718,
-    "createdAt": "2026-06-19T13:15:22.000Z",
-    "timestampMs": 1781874922000,
-    "date": "2026-06-19",
-    "time": "13:15:22",
-    "text": "[截图证据补录]\n来源图片：2026-06-19/thumbnails/060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：© 六请送双向30刀+社区每天领鸡蛋30-100刀+0.1们分组+无充值 专用社区聊天室: https://dc.hhhLec/chat/room/anb7h6tszn 2026/6/19 21:15:22以前不会拉闸! 6天前 ，2026-06-1302:40:13",
-    "userId": "an3teo0hlk",
-    "userUuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
-    "user": {
-      "uuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
-      "id": "an3teo0hlk",
-      "username": "haoxiansheng",
-      "name": "hh",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/identicon/haoxiansheng@dc.hhhl.cc",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/762b8f2daf7f4993-haoxiansheng.png"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-d32e03eec5267782",
-        "name": "060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/d32e03eec5267782-060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "d32e03eec526778292769265379b27b89aaa1d502a0dce8616d242a0d9cc43ed",
-      "filePath": "evidence/images/d32e03eec5267782-060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-      "fileName": "060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/d32e03eec5267782-060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-      "sourceRelativePath": "2026-06-19/thumbnails/060baf892e0d87e7-2026-06-19_15-56-16_1.png.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-19T13:15:22.000Z",
-      "timeSource": "ocr-partial",
-      "confidence": "medium",
-      "timeCandidates": [
-        {
-          "value": "2026-06-12T18:40:13.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026-06-1302:40:13",
-          "ignored": true,
-          "reason": "context-date"
-        },
-        {
-          "value": "2026-06-19T13:15:22.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/19 21:15:22",
-          "ignored": true,
-          "reason": "context-date"
-        },
-        {
-          "value": "2026-06-19T13:15:22.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "21:15:22以"
-        },
-        {
-          "value": "2026-06-19T07:56:16.000Z",
-          "source": "filename",
-          "confidence": "low",
-          "raw": "2026-06-19_15-56-16"
-        },
-        {
-          "value": "2026-06-20T06:36:28.742Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937388742.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "© 六请送双向30刀+社区每天领鸡蛋30-100刀+0.1们分组+无充值\n专用社区聊天室: https://dc.hhhLec/chat/room/anb7h6tszn\n2026/6/19 21:15:22以前不会拉闸!\n6天前 ，2026-06-1302:40:13",
-      "speakerName": "专用社区聊天室 https //dc.hhhLec/chat/room/anb7h6tszn",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
-      "speakerConfidence": "medium",
-      "attribution": "actual-speaker"
-    }
-  },
-  {
-    "manual": true,
-    "manualKind": "screenshot-evidence",
-    "id": "manual-screenshot-efc3d391ddfb0e43-00701",
-    "sequence": 701,
-    "createdAt": "2026-06-19T13:15:22.000Z",
-    "timestampMs": 1781874922000,
-    "date": "2026-06-19",
-    "time": "13:15:22",
-    "text": "[截图证据补录]\n来源图片：2026-06-19/images/4171dffc2e487346-2026-06-19_15-56-16_1.png.webp\n来源用户：未知用户\n时间来源：ocr-partial\nOCR：© 六请送双向30刀+社区每天领鸡蛋30-100刀+0.1倍分组+无充值 专用社区聊天室: https://dc.hhhLec/chat/room/anb7h6tszn 2026/6/19 21:15:22以前不会拉闸! 6天前 ，2026-06-1302:40:13",
-    "userId": "an3teo0hlk",
-    "userUuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
-    "user": {
-      "uuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
-      "id": "an3teo0hlk",
-      "username": "haoxiansheng",
-      "name": "hh",
-      "host": null,
-      "avatarUrl": "https://dc.hhhl.cc/identicon/haoxiansheng@dc.hhhl.cc",
-      "avatarLocalUrl": "/archive-media/amlc1bekzi/profile/avatars/762b8f2daf7f4993-haoxiansheng.png"
-    },
-    "replyId": null,
-    "reply": null,
-    "quoteId": null,
-    "quote": null,
-    "reactions": [],
-    "files": [
-      {
-        "id": "manual-file-efc3d391ddfb0e43",
-        "name": "4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-        "type": null,
-        "url": null,
-        "thumbnailUrl": null,
-        "localUrl": "/archive-media/amlc1bekzi/evidence/images/efc3d391ddfb0e43-4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-        "isImage": true
-      }
-    ],
-    "evidence": {
-      "sha256": "efc3d391ddfb0e43fe5fb579577882c63cf246bf54b80a412aba64714eda3e9a",
-      "filePath": "evidence/images/efc3d391ddfb0e43-4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-      "fileName": "4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-      "localUrl": "/archive-media/amlc1bekzi/evidence/images/efc3d391ddfb0e43-4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-      "sourceRelativePath": "2026-06-19/images/4171dffc2e487346-2026-06-19_15-56-16_1.png.webp",
-      "duplicateOf": null,
-      "duplicateCount": 1,
-      "sourceMessageId": null,
-      "sourceMessageCreatedAt": null,
-      "sourceUserName": "截图证据",
-      "sourceText": null,
-      "observedAt": "2026-06-19T13:15:22.000Z",
-      "timeSource": "ocr-partial",
-      "confidence": "medium",
-      "timeCandidates": [
-        {
-          "value": "2026-06-12T18:40:13.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026-06-1302:40:13",
-          "ignored": true,
-          "reason": "context-date"
-        },
-        {
-          "value": "2026-06-19T13:15:22.000Z",
-          "source": "ocr",
-          "confidence": "high",
-          "raw": "2026/6/19 21:15:22",
-          "ignored": true,
-          "reason": "context-date"
-        },
-        {
-          "value": "2026-06-19T13:15:22.000Z",
-          "source": "ocr-partial",
-          "confidence": "medium",
-          "raw": "21:15:22以"
-        },
-        {
-          "value": "2026-06-19T07:56:16.000Z",
-          "source": "filename",
-          "confidence": "low",
-          "raw": "2026-06-19_15-56-16"
-        },
-        {
-          "value": "2026-06-20T06:36:29.594Z",
-          "source": "file-mtime",
-          "confidence": "low",
-          "raw": "1781937389594.8699"
-        }
-      ],
-      "ocrStatus": "ok",
-      "ocrText": "© 六请送双向30刀+社区每天领鸡蛋30-100刀+0.1倍分组+无充值\n专用社区聊天室: https://dc.hhhLec/chat/room/anb7h6tszn\n2026/6/19 21:15:22以前不会拉闸!\n6天前 ，2026-06-1302:40:13",
-      "speakerName": "专用社区聊天室 https //dc.hhhLec/chat/room/anb7h6tszn",
-      "speakerUsername": null,
-      "speakerMatchedUserUuid": "08d82bbd-91a2-7c81-e654-4a7757298285",
       "speakerConfidence": "medium",
       "attribution": "actual-speaker"
     }
