@@ -31,9 +31,9 @@
   },
   {
     "day": "2026-06-15",
-    "count": 7082,
+    "count": 7065,
     "apiCount": 7065,
-    "manualCount": 17,
+    "manualCount": 0,
     "messagesPath": "2026-06-15/messages.json",
     "apiMessagesPath": "2026-06-15/api-messages.json",
     "timelinePath": "2026-06-15/timeline.json",
@@ -41,9 +41,9 @@
   },
   {
     "day": "2026-06-16",
-    "count": 7885,
+    "count": 7836,
     "apiCount": 7836,
-    "manualCount": 49,
+    "manualCount": 0,
     "messagesPath": "2026-06-16/messages.json",
     "apiMessagesPath": "2026-06-16/api-messages.json",
     "timelinePath": "2026-06-16/timeline.json",
@@ -51,9 +51,9 @@
   },
   {
     "day": "2026-06-17",
-    "count": 6894,
+    "count": 6815,
     "apiCount": 6815,
-    "manualCount": 79,
+    "manualCount": 0,
     "messagesPath": "2026-06-17/messages.json",
     "apiMessagesPath": "2026-06-17/api-messages.json",
     "timelinePath": "2026-06-17/timeline.json",
@@ -61,9 +61,9 @@
   },
   {
     "day": "2026-06-18",
-    "count": 6748,
-    "apiCount": 6681,
-    "manualCount": 67,
+    "count": 6678,
+    "apiCount": 6678,
+    "manualCount": 0,
     "messagesPath": "2026-06-18/messages.json",
     "apiMessagesPath": "2026-06-18/api-messages.json",
     "timelinePath": "2026-06-18/timeline.json",
@@ -71,9 +71,9 @@
   },
   {
     "day": "2026-06-19",
-    "count": 2905,
+    "count": 2904,
     "apiCount": 2904,
-    "manualCount": 1,
+    "manualCount": 0,
     "messagesPath": "2026-06-19/messages.json",
     "apiMessagesPath": "2026-06-19/api-messages.json",
     "timelinePath": "2026-06-19/timeline.json",
@@ -81,12 +81,32 @@
   },
   {
     "day": "2026-06-20",
-    "count": 1540,
-    "apiCount": 1157,
-    "manualCount": 383,
+    "count": 4278,
+    "apiCount": 4278,
+    "manualCount": 0,
     "messagesPath": "2026-06-20/messages.json",
     "apiMessagesPath": "2026-06-20/api-messages.json",
     "timelinePath": "2026-06-20/timeline.json",
     "textPath": "2026-06-20/messages.txt"
+  },
+  {
+    "day": "2026-06-21",
+    "count": 4902,
+    "apiCount": 4902,
+    "manualCount": 0,
+    "messagesPath": "2026-06-21/messages.json",
+    "apiMessagesPath": "2026-06-21/api-messages.json",
+    "timelinePath": "2026-06-21/timeline.json",
+    "textPath": "2026-06-21/messages.txt"
+  },
+  {
+    "day": "2026-06-22",
+    "count": 2288,
+    "apiCount": 2288,
+    "manualCount": 0,
+    "messagesPath": "2026-06-22/messages.json",
+    "apiMessagesPath": "2026-06-22/api-messages.json",
+    "timelinePath": "2026-06-22/timeline.json",
+    "textPath": "2026-06-22/messages.txt"
   }
 ]
